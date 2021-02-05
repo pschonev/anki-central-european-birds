@@ -1,0 +1,41 @@
+{{#Image female}}
+Name the bird in this picture:<br>
+<div id="image"></div>
+
+<script>
+var images = '{{Image female}}';
+var imagesArray = images.split("|");
+var now = new Date();
+var second = Math.floor(now/120000);
+var imageNo = second % imagesArray.length;
+var chosenImage = imagesArray[imageNo];
+document.getElementById("image").innerHTML = chosenImage;
+</script>
+{{/Image female}}
+
+{{type:Scientific Name}}
+
+--
+
+{{FrontSide}}
+
+<hr id=answer>
+
+{{Name}}
+<br>
+{{Scientific Name}}
+<br>
+(female)<br>
+<br>
+{{#Appearance}}
+Appearance:
+{{Appearance}}<br>
+{{/Appearance}}
+{{#Song}}
+{{Song}}
+{{/Song}}
+{{^Song}}
+{{#Call}}
+{{Call}}
+{{/Call}}
+{{/Song}}
