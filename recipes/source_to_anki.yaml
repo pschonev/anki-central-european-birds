@@ -65,8 +65,8 @@
 
               Name: Scientific Name
               Image: Image
-              Image_Male: Image Male
-              Image_Female: Image Female 
+              image_male: Image Male
+              image_female: Image Female 
               Call: Call
               Song: Song
 

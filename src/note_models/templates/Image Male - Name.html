@@ -1,9 +1,9 @@
-{{#Image male}}
+{{#Image Male}}
 Name the bird in this picture:<br>
 <div id="image"></div>
 
 <script>
-var images = '{{Image male}}';
+var images = '{{Image Male}}';
 var imagesArray = images.split("|");
 var now = new Date();
 var second = Math.floor(now/120000);
@@ -11,7 +11,7 @@ var imageNo = second % imagesArray.length;
 var chosenImage = imagesArray[imageNo];
 document.getElementById("image").innerHTML = chosenImage;
 </script>
-{{/Image male}}
+{{/Image Male}}
 
 {{type:Scientific Name}}
 
