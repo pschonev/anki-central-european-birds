@@ -1,16 +1,15 @@
-# Ultimate Geography
+# Central European Birds
 
-**Geography flashcard deck for [Anki](http://ankisrs.net/)** featuring:
+**Bird flashcard deck for [Anki](http://ankisrs.net/)** featuring:
 
-- the world's **[206 sovereign states](https://en.wikipedia.org/wiki/List_of_sovereign_states)** (824 cards)
-- **52 territories, world regions, and other entities** (98 cards)
-- **39 oceans and seas** (39 cards, maps only)
-- **7 continents** (7 cards, maps only)
-- for a total of **304 unique notes**, **968 cards**, **222 flags** and **304 maps**.
+- **118 birds**
 
-The deck is available in **English**, **German**, **Spanish**, **French**, **Norwegian Bokmål**, **Czech**, **Russian**, **Dutch** and **Swedish**.
+The deck is available in **English**, **Dutch**, **German**, **Spanish**, **French**, **Esperanto**, **Russian**
 
 ---
+
+# THE FOLLOWING REFERS TO ULTIMATE GEOGRAPHY
+
 
 #### Table of contents
 
