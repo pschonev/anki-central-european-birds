@@ -1,57 +1,43 @@
 - build_parts:
   - note_model_templates_from_html:
-      - part_id: Country - Capital
-        html_file: src/note_models/templates/Country - Capital.html
-      - part_id: Capital - Country
-        html_file: src/note_models/templates/Capital - Country.html
-      - part_id: Country - Flag
-        html_file: src/note_models/templates/Country - Flag.html
-      - part_id: Country - Map
-        html_file: src/note_models/templates/Country - Map.html
-      - part_id: Flag - Country
-        html_file: src/note_models/templates/Flag - Country.html
-      - part_id: Map - Country
-        html_file: src/note_models/templates/Map - Country.html
+      - part_id: Image - Name
+        html_file: src/note_models/templates/Image - Name.html
+      - part_id: Image Female - Name
+        html_file: src/note_models/templates/Image Female - Name.html
+      - part_id: Image Male - Name
+        html_file: src/note_models/templates/Image Male - Name.html
+      - part_id: Call - Name
+        html_file: src/note_models/templates/Call - Name.html
+      - part_id: Song - Name
+        html_file: src/note_models/templates/Song - Name.html
   - note_model_from_html_parts:
-      part_id: Ultimate Geography
-      model_name: Ultimate Geography
-      model_id: 43e2586a-9a65-11e8-a777-a0481cc15658
+      part_id: Central European Birds
+      model_name: Central European Birds
+      model_id: 43e2586a-9a66-11e8-a778-a0481cc15657
       css_file: src/note_models/style.css
       fields: &all_fields
-        - name: Country
+        - name: Name
           font: Arial
-        - name: Country info
+        - name: Scientific Name
           font: Arial
-        - name: Capital
+        - name: Appearance
           font: Arial
-        - name: Capital info
+        - name: Image
           font: Arial
-        - name: Capital hint
+        - name: Image Female
           font: Arial
-        - name: Flag
+        - name: Image Male
           font: Arial
-        - name: Flag similarity
+        - name: Call
           font: Arial
-        - name: Map
+        - name: Song
           font: Arial
       templates:
-        - Country - Capital
-        - Capital - Country
-        - Flag - Country
-        - Map - Country
-  - note_model_from_html_parts:
-      part_id: Ultimate Geography [Extended]
-      model_name: Ultimate Geography [Extended]
-      model_id: 0a39f994-daaf-11e8-b984-a0481cc15658
-      css_file: src/note_models/style.css
-      fields: *all_fields
-      templates:
-        - Country - Capital
-        - Capital - Country
-        - Country - Flag
-        - Flag - Country
-        - Country - Map
-        - Map - Country
+        - Image - Name
+        - Image Female - Name
+        - Image Male - Name
+        - Call - Name
+        - Song - Name
 
 
   - headers_from_yaml_part:
@@ -68,38 +54,33 @@
 
   - notes_from_csvs:
       part_id: english
-      # save_to_file: src/notes/english.yaml
 
       note_model_mappings:
         - note_models: &note_models_in_mapping
-            - Ultimate Geography
+            - Central European Birds
           columns_to_fields:
             <<: &default_columns_to_fields
               guid: guid
               tags: tags
 
-              Flag: Flag
-              Map: Map
+              Name: Scientific Name
+              Image: Image
+              Image_Male: Image Male
+              Image_Female: Image Female 
+              Call: Call
+              Song: Song
 
-            Country          : Country
-            Country info     : Country info
-            Capital          : Capital
-            Capital info     : Capital info
-            Capital hint     : Capital hint
-            Flag similarity  : Flag similarity
+              Name:en          : Name
+              Appearance:en     : Appearance
 
           personal_fields: [ ]
 
       file_mappings: &file_mappings
         - file: src/data/main.csv
-          note_model: Ultimate Geography
+          note_model: Central European Birds
           derivatives:
-            - file: src/data/country.csv
-            - file: src/data/country_info.csv
-            - file: src/data/capital.csv
-            - file: src/data/capital_info.csv
-            - file: src/data/capital_hint.csv
-            - file: src/data/flag_similarity.csv
+            - file: src/data/appearance.csv
+            - file: src/data/name.csv
 
       generate_guids: true
 
@@ -112,12 +93,8 @@
           columns_to_fields:
             <<: *default_columns_to_fields
 
-            Country:de          : Country
-            Country info:de     : Country info
-            Capital:de          : Capital
-            Capital info:de     : Capital info
-            Capital hint:de     : Capital hint
-            Flag similarity:de  : Flag similarity
+            Name:de          : Name
+            Appearance:de     : Appearance
 
           personal_fields: [ ]
 
@@ -131,12 +108,8 @@
           columns_to_fields:
             <<: *default_columns_to_fields
 
-            Country:es          : Country
-            Country info:es     : Country info
-            Capital:es          : Capital
-            Capital info:es     : Capital info
-            Capital hint:es     : Capital hint
-            Flag similarity:es  : Flag similarity
+            Name:es          : Name
+            Appearance:es     : Appearance
 
           personal_fields: [ ]
 
@@ -150,18 +123,14 @@
           columns_to_fields:
             <<: *default_columns_to_fields
 
-            Country:fr          : Country
-            Country info:fr     : Country info
-            Capital:fr          : Capital
-            Capital info:fr     : Capital info
-            Capital hint:fr     : Capital hint
-            Flag similarity:fr  : Flag similarity
+            Name:fr          : Name
+            Appearance:fr     : Appearance
 
           personal_fields: [ ]
 
       file_mappings: *file_mappings
   - notes_from_csvs:
-      part_id: norwegian
+      part_id: esperanto
       #save_to_file:
 
       note_model_mappings:
@@ -169,31 +138,8 @@
           columns_to_fields:
             <<: *default_columns_to_fields
 
-            Country:nb          : Country
-            Country info:nb     : Country info
-            Capital:nb          : Capital
-            Capital info:nb     : Capital info
-            Capital hint:nb     : Capital hint
-            Flag similarity:nb  : Flag similarity
-
-          personal_fields: [ ]
-
-      file_mappings: *file_mappings
-  - notes_from_csvs:
-      part_id: czech
-      #save_to_file:
-
-      note_model_mappings:
-        - note_models: *note_models_in_mapping
-          columns_to_fields:
-            <<: *default_columns_to_fields
-
-            Country:cs          : Country
-            Country info:cs     : Country info
-            Capital:cs          : Capital
-            Capital info:cs     : Capital info
-            Capital hint:cs     : Capital hint
-            Flag similarity:cs  : Flag similarity
+            Name:eo          : Name
+            Appearance:eo     : Appearance
 
           personal_fields: [ ]
 
@@ -207,12 +153,8 @@
           columns_to_fields:
             <<: *default_columns_to_fields
 
-            Country:ru          : Country
-            Country info:ru     : Country info
-            Capital:ru          : Capital
-            Capital info:ru     : Capital info
-            Capital hint:ru     : Capital hint
-            Flag similarity:ru  : Flag similarity
+            Name:ru          : Name
+            Appearance:ru     : Appearance
 
           personal_fields: [ ]
 
@@ -226,37 +168,13 @@
           columns_to_fields:
             <<: *default_columns_to_fields
 
-            Country:nl          : Country
-            Country info:nl     : Country info
-            Capital:nl          : Capital
-            Capital info:nl     : Capital info
-            Capital hint:nl     : Capital hint
-            Flag similarity:nl  : Flag similarity
+            Name:nl          : Name
+            Appearance:nl     : Appearance
 
           personal_fields: [ ]
 
       file_mappings: *file_mappings
-  - notes_from_csvs:
-      part_id: swedish
-      #save_to_file:
-
-      note_model_mappings:
-        - note_models: *note_models_in_mapping
-          columns_to_fields:
-            <<: *default_columns_to_fields
-
-            Country:sv          : Country
-            Country info:sv     : Country info
-            Capital:sv          : Capital
-            Capital info:sv     : Capital info
-            Capital hint:sv     : Capital hint
-            Flag similarity:sv  : Flag similarity
-
-          personal_fields: [ ]
-
-      file_mappings: *file_mappings
-
-
+  
 
 - generate_crowd_anki:
     <<: &default_crowd_anki_gen
@@ -265,113 +183,38 @@
         parts: [all_media]
       note_models:
         parts:
-          - part_id: Ultimate Geography
+          - part_id: Central European Birds
 
-    folder: build/Ultimate Geography [EN]
+    folder: build/Central European Birds [EN]
     notes:
       part_id: english
 - generate_crowd_anki:
     <<: *default_crowd_anki_gen
-    folder: build/Ultimate Geography [DE]
+    folder: build/Central European Birds [DE]
     notes:
       part_id: german
 - generate_crowd_anki:
     <<: *default_crowd_anki_gen
-    folder: build/Ultimate Geography [ES]
+    folder: build/Central European Birds [ES]
     notes:
       part_id: spanish
 - generate_crowd_anki:
     <<: *default_crowd_anki_gen
-    folder: build/Ultimate Geography [FR]
+    folder: build/Central European Birds [EO]
+    notes:
+      part_id: esperanto
+- generate_crowd_anki:
+    <<: *default_crowd_anki_gen
+    folder: build/Central European Birds [FR]
     notes:
       part_id: french
 - generate_crowd_anki:
     <<: *default_crowd_anki_gen
-    folder: build/Ultimate Geography [NB]
-    notes:
-      part_id: norwegian
-- generate_crowd_anki:
-    <<: *default_crowd_anki_gen
-    folder: build/Ultimate Geography [CS]
-    notes:
-      part_id: czech
-- generate_crowd_anki:
-    <<: *default_crowd_anki_gen
-    folder: build/Ultimate Geography [RU]
+    folder: build/Central European Birds [RU]
     notes:
       part_id: russian
 - generate_crowd_anki:
     <<: *default_crowd_anki_gen
-    folder: build/Ultimate Geography [NL]
+    folder: build/Central European Birds [NL]
     notes:
       part_id: dutch
-- generate_crowd_anki:
-    <<: *default_crowd_anki_gen
-    folder: build/Ultimate Geography [SV]
-    notes:
-      part_id: swedish
-
-
-- generate_crowd_anki:
-    <<: &extended_deck
-      headers: default header
-      media:
-        parts: [ all_media ]
-      note_models:
-        parts:
-          - part_id: Ultimate Geography [Extended]
-
-    folder: build/Ultimate Geography [EN] [Extended]
-    notes:
-      part_id: english
-      <<: &override_nm
-        override:
-          note_model: Ultimate Geography [Extended]
-- generate_crowd_anki:
-    <<: *extended_deck
-    folder: build/Ultimate Geography [DE] [Extended]
-    notes:
-      part_id: german
-      <<: *override_nm
-- generate_crowd_anki:
-    <<: *extended_deck
-    folder: build/Ultimate Geography [ES] [Extended]
-    notes:
-      part_id: spanish
-      <<: *override_nm
-- generate_crowd_anki:
-    <<: *extended_deck
-    folder: build/Ultimate Geography [FR] [Extended]
-    notes:
-      part_id: french
-      <<: *override_nm
-- generate_crowd_anki:
-    <<: *extended_deck
-    folder: build/Ultimate Geography [NB] [Extended]
-    notes:
-      part_id: norwegian
-      <<: *override_nm
-- generate_crowd_anki:
-    <<: *extended_deck
-    folder: build/Ultimate Geography [CS] [Extended]
-    notes:
-      part_id: czech
-      <<: *override_nm
-- generate_crowd_anki:
-    <<: *extended_deck
-    folder: build/Ultimate Geography [RU] [Extended]
-    notes:
-      part_id: russian
-      <<: *override_nm
-- generate_crowd_anki:
-    <<: *extended_deck
-    folder: build/Ultimate Geography [NL] [Extended]
-    notes:
-      part_id: dutch
-      <<: *override_nm
-- generate_crowd_anki:
-    <<: *extended_deck
-    folder: build/Ultimate Geography [SV] [Extended]
-    notes:
-      part_id: swedish
-      <<: *override_nm
