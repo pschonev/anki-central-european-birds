@@ -1,5 +1,5 @@
 crowdanki_uuid: 43c5ba66-9a65-11e8-90c9-a0481cc15658
-name: Ultimate Geography
+name: Central European Birds
 dyn: 0
 extendNew: 10
 extendRev: 50
@@ -7,7 +7,7 @@ deck_configurations:
 - __type__: DeckConfig
   crowdanki_uuid: 43d37fac-9a65-11e8-9cc5-a0481cc15658
   name: Default
-  autoplay: false
+  autoplay: true
   dyn: false
   lapse:
     delays:
