@@ -32,6 +32,8 @@
           font: Arial
         - name: Song
           font: Arial
+        - name: Freq
+          font: Arial
       templates:
         - Image - Name
         - Image Female - Name
@@ -69,6 +71,7 @@
               image_female: Image Female 
               Call: Call
               Song: Song
+              Freq: Freq
 
               Name:en          : Name
               Appearance:en     : Appearance
