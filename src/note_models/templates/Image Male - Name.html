@@ -6,7 +6,7 @@ Name the bird in this picture:<br>
 var images = '{{Image Male}}';
 var imagesArray = images.split("|");
 var now = new Date();
-var second = Math.floor(now/120000);
+var second = Math.floor(now/30000);
 var imageNo = second % imagesArray.length;
 var chosenImage = imagesArray[imageNo];
 document.getElementById("image").innerHTML = chosenImage;
@@ -20,7 +20,6 @@ document.getElementById("image").innerHTML = chosenImage;
 {{FrontSide}}
 
 <hr id=answer>
-
 {{Name}}
 <br>
 {{Scientific Name}}
