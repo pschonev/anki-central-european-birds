@@ -18,7 +18,7 @@ deck_configurations:
     mult: 0
   maxTaken: 60
   new:
-    bury: true
+    bury: false
     delays:
     - 1
     - 10
@@ -27,7 +27,7 @@ deck_configurations:
     - 1
     - 4
     - 7
-    order: 0
+    order: 1
     perDay: 15
     separate: true
   replayq: true
