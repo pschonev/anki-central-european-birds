@@ -1,5 +1,7 @@
 # Central European Birds
 
+This course is based on the data of the Anki course [Dutch birds – sounds and appearance](https://ankiweb.net/shared/info/940243165) and the repository for [Ultimate Geography](https://github.com/axelboc/anki-ultimate-geography), powered by [CrowdAnki](https://github.com/Stvad/CrowdAnki) and [Brain-Brew](https://github.com/ohare93/brain-brew).
+
 **Bird flashcard deck for [Anki](http://ankisrs.net/)** featuring:
 
 **119 birds** from all around Central Europe with over **800 images** and **175 audio** files
