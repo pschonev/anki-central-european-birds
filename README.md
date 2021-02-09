@@ -4,7 +4,7 @@
 
 **119 birds** from all around Central Europe with over **800 images** and **175 audio** files
 
-The deck is available in **English**, **Dutch**, **German**, **Spanish**, **French** and **Esperanto**.
+The deck is available in **English**, **Dutch**, **German**, **Spanish**, **French**, **Russian** and **Esperanto**.
 
 Images &rarr; Name
 
