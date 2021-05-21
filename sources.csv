@@ -1,3 +1,4 @@
+name,filename,media_type,user,url,license
 Accipiter gentilis,Accipiter_gentilis_call_1.mp3,call,© Sander Bot,http://www.xeno-canto.org/31651,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
 Accipiter gentilis,Accipiter_gentilis_image_1.jpg,image,© Rob Belterman,http://waarneming.nl/foto/view/6271056,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Accipiter gentilis,Accipiter_gentilis_image_2.jpg,image,© Rob Belterman,https://waarneming.nl/foto/view/12730399,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
@@ -21,11 +22,11 @@ Accipiter nisus,Accipiter_nisus_image_male_5.jpg,image_male,© Rob van der Pol,h
 Accipiter nisus,Accipiter_nisus_image_silh_1.jpg,image_silh,© Kees van Soolingen,http://waarneming.nl/foto/view/6301705,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Accipiter nisus,Accipiter_nisus_image_silh_2.jpg,image_silh,© Kees van Reenen,https://waarneming.nl/foto/view/12786275,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Accipiter nisus,Accipiter_nisus_image_silh_3.jpg,image_silh,© Herman Bruggink,https://waarneming.nl/foto/view/11339422,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Acrocephalus palustris,Acrocephalus_palustris_image_1.jpg,image,© Jasper Beijeman,https://waarneming.nl/foto/view/27370587,
-Acrocephalus palustris,Acrocephalus_palustris_image_2.jpg,image,© Hans Niekus,https://waarneming.nl/foto/view/20976410,
-Acrocephalus palustris,Acrocephalus_palustris_image_3.jpg,image,© Jan Andries Post,https://waarneming.nl/foto/view/13765907,
-Acrocephalus palustris,Acrocephalus_palustris_image_4.jpg,image,© Matthieu Plaisier,https://waarneming.nl/foto/view/13631861,
-Acrocephalus palustris,Acrocephalus_palustris_image_5.jpg,image,© Simon Post,https://waarneming.nl/foto/view/8769238,
+Acrocephalus palustris,Acrocephalus_palustris_image_1.jpg,image,© Jasper Beijeman,https://waarneming.nl/foto/view/27370587,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Acrocephalus palustris,Acrocephalus_palustris_image_2.jpg,image,© Hans Niekus,https://waarneming.nl/foto/view/20976410,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Acrocephalus palustris,Acrocephalus_palustris_image_3.jpg,image,© Jan Andries Post,https://waarneming.nl/foto/view/13765907,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Acrocephalus palustris,Acrocephalus_palustris_image_4.jpg,image,© Matthieu Plaisier,https://waarneming.nl/foto/view/13631861,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Acrocephalus palustris,Acrocephalus_palustris_image_5.jpg,image,© Simon Post,https://waarneming.nl/foto/view/8769238,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Acrocephalus palustris,Acrocephalus_palustris_song_1.mp3,song,© Regina Eidner,https://www.xeno-canto.org/570420,https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 Acrocephalus schoenobaenus,Acrocephalus_schoenobaenus_call_1.mp3,call,© Jarek Matusiak,http://www.xeno-canto.org/150557,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Acrocephalus schoenobaenus,Acrocephalus_schoenobaenus_image_1.jpg,image,© Lars Buckx,http://waarneming.nl/foto/view/4697644,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
@@ -42,18 +43,18 @@ Acrocephalus scirpaceus,Acrocephalus_scirpaceus_image_4.jpg,image,© f&amp;s mar
 Acrocephalus scirpaceus,Acrocephalus_scirpaceus_image_5.jpg,image,© Bert Geelmuijden,https://waarneming.nl/foto/view/7079694,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Acrocephalus scirpaceus,Acrocephalus_scirpaceus_song_1.mp3,song,© Björn Karlsson,http://www.xeno-canto.org/162862,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Aegithalos caudatus,Aegithalos_caudatus_call_1.mp3,call,© Ruud van Beusekom,http://www.xeno-canto.org/30571,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
-Aegithalos caudatus,Aegithalos_caudatus_image_1.jpg,image,"© Gerrit Welgraven, http://waarneming.nl/foto/view/10006961",http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode,
+Aegithalos caudatus,Aegithalos_caudatus_image_1.jpg,image,© Gerrit Welgraven,http://waarneming.nl/foto/view/10006961,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Aegithalos caudatus,Aegithalos_caudatus_image_2.jpg,image,© Fred Visscher,https://waarneming.nl/foto/view/4028874,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Aegithalos caudatus,Aegithalos_caudatus_image_3.jpg,image,© Ed van der Es,https://waarneming.nl/foto/view/12656075,https://creativecommons.org/licenses/by/3.0/legalcode
 Aegithalos caudatus,Aegithalos_caudatus_image_4.jpg,image,© Koos Werther,https://waarneming.nl/foto/view/10415175,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Aegithalos caudatus,Aegithalos_caudatus_image_5.jpg,image,© Ernest van Asseldonk,https://waarneming.nl/foto/view/5940917,https://creativecommons.org/licenses/by/3.0/legalcode
 Aegithalos caudatus,Aegithalos_caudatus_song_1.mp3,song,© Krzysztof Deoniziak,http://www.xeno-canto.org/195877,http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 Alauda arvensis,Alauda_arvensis_call_1.mp3,call,© Alain Verneau,https://www.xeno-canto.org/596652,https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
-Alauda arvensis,Alauda_arvensis_image_1.jpg,image,© Paul Kruger,https://waarneming.nl/foto/view/25800111,
-Alauda arvensis,Alauda_arvensis_image_2.jpg,image,© Jan Aalders,https://waarneming.nl/foto/view/25682050,
-Alauda arvensis,Alauda_arvensis_image_3.jpg,image,© Hans Niekus,https://waarneming.nl/foto/view/21453718,
-Alauda arvensis,Alauda_arvensis_image_4.jpg,image,© Koos Bakker,https://waarneming.nl/foto/view/21540241,
-Alauda arvensis,Alauda_arvensis_image_5.jpg,image,© Hans Niekus,https://waarneming.nl/foto/view/21544375,
+Alauda arvensis,Alauda_arvensis_image_1.jpg,image,© Paul Kruger,https://waarneming.nl/foto/view/25800111,https://creativecommons.org/licenses/by/3.0/legalcode
+Alauda arvensis,Alauda_arvensis_image_2.jpg,image,© Jan Aalders,https://waarneming.nl/foto/view/25682050,https://creativecommons.org/licenses/by/3.0/legalcode
+Alauda arvensis,Alauda_arvensis_image_3.jpg,image,© Hans Niekus,https://waarneming.nl/foto/view/21453718,https://creativecommons.org/licenses/by/3.0/legalcode
+Alauda arvensis,Alauda_arvensis_image_4.jpg,image,© Koos Bakker,https://waarneming.nl/foto/view/21540241,https://creativecommons.org/licenses/by/3.0/legalcode
+Alauda arvensis,Alauda_arvensis_image_5.jpg,image,© Hans Niekus,https://waarneming.nl/foto/view/21544375,https://creativecommons.org/licenses/by/3.0/legalcode
 Alauda arvensis,Alauda_arvensis_song_1.mp3,song,© Gerard OLIVIER,https://www.xeno-canto.org/548651,https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 Alcedo atthis,Alcedo_atthis_call_1.mp3,call,©&nbsp;Matthias Feuersenger,http://www.xeno-canto.org/96524,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
 Alcedo atthis,Alcedo_atthis_image_female_1.jpg,image_female,,https://waarneming.nl/foto/view/12686306,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
@@ -71,19 +72,19 @@ Alopochen aegyptiaca,Alopochen_aegyptiaca_image_2.jpg,image,© Oscar en Jolanda 
 Alopochen aegyptiaca,Alopochen_aegyptiaca_image_3.jpg,image,© Maria van Antwerpen,https://waarneming.nl/foto/view/10468295,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Alopochen aegyptiaca,Alopochen_aegyptiaca_image_4.jpg,image,© Erik op den Dries,https://waarneming.nl/foto/view/9042310,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Alopochen aegyptiaca,Alopochen_aegyptiaca_image_5.jpg,image,© Jan Aalders,https://waarneming.nl/foto/view/5016730,https://creativecommons.org/licenses/by/3.0/legalcode
-Anas clypeata,Anas_clypeata_call_1.mp3,call,© Paul Driver,http://www.xeno-canto.org/168803,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
-Anas clypeata,Anas_clypeata_image_female_1.jpg,image_female,© Marc Kolkman,http://waarneming.nl/foto/view/6343937,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas clypeata,Anas_clypeata_image_female_2.jpg,image_female,© jan van der ree,https://waarneming.nl/foto/view/13165773,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas clypeata,Anas_clypeata_image_female_3.jpg,image_female,© Wouter van der Ham,https://waarneming.nl/foto/view/10080468,https://creativecommons.org/licenses/by/3.0/legalcode
-Anas clypeata,Anas_clypeata_image_female_4.jpg,image_female,© Harry K,https://waarneming.nl/foto/view/12414861,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas clypeata,Anas_clypeata_image_female_5.jpg,image_female,"© Conny &amp; Peter, Das",https://waarneming.nl/foto/view/12699004,https://creativecommons.org/licenses/by-nd/3.0/legalcode
-Anas clypeata,Anas_clypeata_image_male_1.jpg,image_male,© Rene de Ruijter,http://waarneming.nl/foto/view/6408318,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas clypeata,Anas_clypeata_image_male_2.jpg,image_male,© jan van der ree,https://waarneming.nl/foto/view/13165762,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas clypeata,Anas_clypeata_image_male_3.jpg,image_male,© Pieterbj van den Berg,https://waarneming.nl/foto/view/8518655,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas clypeata,Anas_clypeata_image_male_4.jpg,image_male,© René van Rossum,https://waarneming.nl/foto/view/2965476,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
-Anas clypeata,Anas_clypeata_image_male_5.jpg,image_male,© fred visscher,https://waarneming.nl/foto/view/305412,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Spatula clypeata,Anas_clypeata_call_1.mp3,call,© Paul Driver,http://www.xeno-canto.org/168803,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Spatula clypeata,Anas_clypeata_image_female_1.jpg,image_female,© Marc Kolkman,http://waarneming.nl/foto/view/6343937,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Spatula clypeata,Anas_clypeata_image_female_2.jpg,image_female,© jan van der ree,https://waarneming.nl/foto/view/13165773,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Spatula clypeata,Anas_clypeata_image_female_3.jpg,image_female,© Wouter van der Ham,https://waarneming.nl/foto/view/10080468,https://creativecommons.org/licenses/by/3.0/legalcode
+Spatula clypeata,Anas_clypeata_image_female_4.jpg,image_female,© Harry K,https://waarneming.nl/foto/view/12414861,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Spatula clypeata,Anas_clypeata_image_female_5.jpg,image_female,"© Conny &amp; Peter, Das",https://waarneming.nl/foto/view/12699004,https://creativecommons.org/licenses/by-nd/3.0/legalcode
+Spatula clypeata,Anas_clypeata_image_male_1.jpg,image_male,© Rene de Ruijter,http://waarneming.nl/foto/view/6408318,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Spatula clypeata,Anas_clypeata_image_male_2.jpg,image_male,© jan van der ree,https://waarneming.nl/foto/view/13165762,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Spatula clypeata,Anas_clypeata_image_male_3.jpg,image_male,© Pieterbj van den Berg,https://waarneming.nl/foto/view/8518655,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Spatula clypeata,Anas_clypeata_image_male_4.jpg,image_male,© René van Rossum,https://waarneming.nl/foto/view/2965476,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Spatula clypeata,Anas_clypeata_image_male_5.jpg,image_male,© fred visscher,https://waarneming.nl/foto/view/305412,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Anas crecca,Anas_crecca_call_1.mp3,call,©&nbsp;Ruud van Beusekom,http://www.xeno-canto.org/304120,http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
-Anas crecca,Anas_crecca_image_female_1.jpg,image_female,"© Gerard Visser, http://waarneming.nl/foto/view/2573299",http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode,
+Anas crecca,Anas_crecca_image_female_1.jpg,image_female,© Gerard Visser,http://waarneming.nl/foto/view/2573299,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Anas crecca,Anas_crecca_image_female_2.jpg,image_female,© René van Rossum,https://waarneming.nl/foto/view/2982736,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Anas crecca,Anas_crecca_image_female_3.jpg,image_female,© Marc Kolkman,https://waarneming.nl/foto/view/3066736,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Anas crecca,Anas_crecca_image_female_4.jpg,image_female,© Pieter Hilgeman,https://waarneming.nl/foto/view/12583914,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
@@ -93,17 +94,17 @@ Anas crecca,Anas_crecca_image_male_2.jpg,image_male,© Ton van Wijk,https://waar
 Anas crecca,Anas_crecca_image_male_3.jpg,image_male,© Hans Niekus,https://waarneming.nl/foto/view/8143204,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Anas crecca,Anas_crecca_image_male_4.jpg,image_male,© otte zijlstra,https://waarneming.nl/foto/view/4510056,https://creativecommons.org/licenses/by/3.0/legalcode
 Anas crecca,Anas_crecca_image_male_5.jpg,image_male,© Marc Kolkman,https://waarneming.nl/foto/view/3066742,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas penelope,Anas_penelope_call_1.mp3,call,©&nbsp;Patrik Åberg,http://www.xeno-canto.org/83877,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
-Anas penelope,Anas_penelope_image_female_1.jpg,image_female,© René van Rossum,http://waarneming.nl/foto/view/4330244,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
-Anas penelope,Anas_penelope_image_female_2.jpg,image_female,© René van Rossum,https://waarneming.nl/foto/view/4330243,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
-Anas penelope,Anas_penelope_image_female_3.jpg,image_female,© Annelies Vriens,https://waarneming.nl/foto/view/7945676,https://creativecommons.org/licenses/by-nd/3.0/legalcode
-Anas penelope,Anas_penelope_image_female_4.jpg,image_female,© jan van der ree,https://waarneming.nl/foto/view/12881709,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas penelope,Anas_penelope_image_female_5.jpg,image_female,© Ruud van Middelkoop,https://waarneming.nl/foto/view/10449738,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas penelope,Anas_penelope_image_male_1.jpg,image_male,© Edwin Schuller,http://waarneming.nl/foto/view/4374666,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas penelope,Anas_penelope_image_male_2.jpg,image_male,© J.E.van Klinken,https://waarneming.nl/foto/view/12849142,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas penelope,Anas_penelope_image_male_3.jpg,image_male,© Annelies Vriens,https://waarneming.nl/foto/view/7945671,https://creativecommons.org/licenses/by-nd/3.0/legalcode
-Anas penelope,Anas_penelope_image_male_4.jpg,image_male,© Leo Janssen,https://waarneming.nl/foto/view/7785506,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas penelope,Anas_penelope_image_male_5.jpg,image_male,© Annelies Vriens,https://waarneming.nl/foto/view/7926742,https://creativecommons.org/licenses/by-nd/3.0/legalcode
+Mareca penelope,Anas_penelope_call_1.mp3,call,©&nbsp;Patrik Åberg,http://www.xeno-canto.org/83877,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
+Mareca penelope,Anas_penelope_image_female_1.jpg,image_female,© René van Rossum,http://waarneming.nl/foto/view/4330244,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Mareca penelope,Anas_penelope_image_female_2.jpg,image_female,© René van Rossum,https://waarneming.nl/foto/view/4330243,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Mareca penelope,Anas_penelope_image_female_3.jpg,image_female,© Annelies Vriens,https://waarneming.nl/foto/view/7945676,https://creativecommons.org/licenses/by-nd/3.0/legalcode
+Mareca penelope,Anas_penelope_image_female_4.jpg,image_female,© jan van der ree,https://waarneming.nl/foto/view/12881709,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Mareca penelope,Anas_penelope_image_female_5.jpg,image_female,© Ruud van Middelkoop,https://waarneming.nl/foto/view/10449738,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Mareca penelope,Anas_penelope_image_male_1.jpg,image_male,© Edwin Schuller,http://waarneming.nl/foto/view/4374666,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Mareca penelope,Anas_penelope_image_male_2.jpg,image_male,© J.E.van Klinken,https://waarneming.nl/foto/view/12849142,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Mareca penelope,Anas_penelope_image_male_3.jpg,image_male,© Annelies Vriens,https://waarneming.nl/foto/view/7945671,https://creativecommons.org/licenses/by-nd/3.0/legalcode
+Mareca penelope,Anas_penelope_image_male_4.jpg,image_male,© Leo Janssen,https://waarneming.nl/foto/view/7785506,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Mareca penelope,Anas_penelope_image_male_5.jpg,image_male,© Annelies Vriens,https://waarneming.nl/foto/view/7926742,https://creativecommons.org/licenses/by-nd/3.0/legalcode
 Anas platyrhynchos,Anas_platyrhynchos_call_1.mp3,call,© maudoc,http://www.xeno-canto.org/170678,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Anas platyrhynchos,Anas_platyrhynchos_image_female_1.jpg,image_female,© BAT Svensson,http://waarneming.nl/foto/view/6395129,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Anas platyrhynchos,Anas_platyrhynchos_image_female_2.jpg,image_female,© Erik op den Dries,https://waarneming.nl/foto/view/10330619,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
@@ -115,17 +116,17 @@ Anas platyrhynchos,Anas_platyrhynchos_image_male_2.jpg,image_male,© Oscar en Jo
 Anas platyrhynchos,Anas_platyrhynchos_image_male_3.jpg,image_male,© René van Rossum,https://waarneming.nl/foto/view/2785325,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Anas platyrhynchos,Anas_platyrhynchos_image_male_4.jpg,image_male,© Bert Zeijlmaker,https://waarneming.nl/foto/view/13417520,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Anas platyrhynchos,Anas_platyrhynchos_image_male_5.jpg,image_male,© ruut aussems,https://waarneming.nl/foto/view/13152971,https://creativecommons.org/licenses/by/3.0/legalcode
-Anas strepera,Anas_strepera_call_1.mp3,call,©&nbsp;Ian Cruickshank,http://www.xeno-canto.org/158637,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas strepera,Anas_strepera_image_female_1.jpg,image_female,© Kees van Rij,http://waarneming.nl/foto/view/4532971,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas strepera,Anas_strepera_image_female_2.jpg,image_female,© Annelies Vriens,https://waarneming.nl/foto/view/5570020,https://creativecommons.org/licenses/by-nd/3.0/legalcode
-Anas strepera,Anas_strepera_image_female_3.jpg,image_female,© Erik op den Dries,https://waarneming.nl/foto/view/14143868,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas strepera,Anas_strepera_image_female_4.jpg,image_female,© Jaap Dijkhuizen,https://waarneming.nl/foto/view/10457908,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas strepera,Anas_strepera_image_female_5.jpg,image_female,© Edwin Kerssens,https://waarneming.nl/foto/view/12596825,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas strepera,Anas_strepera_image_male_1.jpg,image_male,© Marc Kolkman,http://waarneming.nl/foto/view/6337615,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas strepera,Anas_strepera_image_male_2.jpg,image_male,© Erik op den Dries,https://waarneming.nl/foto/view/13409986,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas strepera,Anas_strepera_image_male_3.jpg,image_male,© Mariet Verbeek,https://waarneming.nl/foto/view/10336247,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas strepera,Anas_strepera_image_male_4.jpg,image_male,© Erik op den Dries,https://waarneming.nl/foto/view/13347987,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Anas strepera,Anas_strepera_image_male_5.jpg,image_male,© Koos Bakker,https://waarneming.nl/foto/view/8129698,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Mareca strepera,Anas_strepera_call_1.mp3,call,©&nbsp;Ian Cruickshank,http://www.xeno-canto.org/158637,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Mareca strepera,Anas_strepera_image_female_1.jpg,image_female,© Kees van Rij,http://waarneming.nl/foto/view/4532971,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Mareca strepera,Anas_strepera_image_female_2.jpg,image_female,© Annelies Vriens,https://waarneming.nl/foto/view/5570020,https://creativecommons.org/licenses/by-nd/3.0/legalcode
+Mareca strepera,Anas_strepera_image_female_3.jpg,image_female,© Erik op den Dries,https://waarneming.nl/foto/view/14143868,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Mareca strepera,Anas_strepera_image_female_4.jpg,image_female,© Jaap Dijkhuizen,https://waarneming.nl/foto/view/10457908,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Mareca strepera,Anas_strepera_image_female_5.jpg,image_female,© Edwin Kerssens,https://waarneming.nl/foto/view/12596825,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Mareca strepera,Anas_strepera_image_male_1.jpg,image_male,© Marc Kolkman,http://waarneming.nl/foto/view/6337615,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Mareca strepera,Anas_strepera_image_male_2.jpg,image_male,© Erik op den Dries,https://waarneming.nl/foto/view/13409986,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Mareca strepera,Anas_strepera_image_male_3.jpg,image_male,© Mariet Verbeek,https://waarneming.nl/foto/view/10336247,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Mareca strepera,Anas_strepera_image_male_4.jpg,image_male,© Erik op den Dries,https://waarneming.nl/foto/view/13347987,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Mareca strepera,Anas_strepera_image_male_5.jpg,image_male,© Koos Bakker,https://waarneming.nl/foto/view/8129698,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Anser albifrons,Anser_albifrons_call_1.mp3,call,© Ashley Fisher,http://www.xeno-canto.org/131313,http://creativecommons.org/licenses/by-nc-sa/3.0/
 Anser albifrons,Anser_albifrons_image_1.jpg,image,© Ingmar van der Brugge,http://waarneming.nl/foto/view/1797341,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Anser albifrons,Anser_albifrons_image_2.jpg,image,© Erik op den Dries,https://waarneming.nl/foto/view/12077743,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
@@ -139,25 +140,25 @@ Anser anser,Anser_anser_image_3.jpg,image,© Rick Geling,https://waarneming.nl/f
 Anser anser,Anser_anser_image_4.jpg,image,© Erik op den Dries,https://waarneming.nl/foto/view/12822395,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Anser anser,Anser_anser_image_5.jpg,image,© Erik op den Dries,https://waarneming.nl/foto/view/10340660,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Anthus pratensis,Anthus_pratensis_call_1.mp3,call,© Peter Boesman,https://www.xeno-canto.org/597234,https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
-Anthus pratensis,Anthus_pratensis_image_1.jpg,image,© Johan van der Vegt,https://waarneming.nl/foto/view/27897281,
-Anthus pratensis,Anthus_pratensis_image_2.jpg,image,© Henri Hamer,https://waarneming.nl/foto/view/27864247,
-Anthus pratensis,Anthus_pratensis_image_3.jpg,image,© J.D. van de Klundert,https://waarneming.nl/foto/view/27643395,
-Anthus pratensis,Anthus_pratensis_image_4.jpg,image,© Hans Jansen,https://waarneming.nl/foto/view/27606059,
-Anthus pratensis,Anthus_pratensis_image_5.jpg,image,© Henri Hamer,https://waarneming.nl/foto/view/26386737,
+Anthus pratensis,Anthus_pratensis_image_1.jpg,image,© Johan van der Vegt,https://waarneming.nl/foto/view/27897281,https://creativecommons.org/licenses/by/3.0/legalcode
+Anthus pratensis,Anthus_pratensis_image_2.jpg,image,© Henri Hamer,https://waarneming.nl/foto/view/27864247,https://creativecommons.org/licenses/by/3.0/legalcode
+Anthus pratensis,Anthus_pratensis_image_3.jpg,image,© J.D. van de Klundert,https://waarneming.nl/foto/view/27643395,https://creativecommons.org/licenses/by/3.0/legalcode
+Anthus pratensis,Anthus_pratensis_image_4.jpg,image,© Hans Jansen,https://waarneming.nl/foto/view/27606059,https://creativecommons.org/licenses/by/3.0/legalcode
+Anthus pratensis,Anthus_pratensis_image_5.jpg,image,© Henri Hamer,https://waarneming.nl/foto/view/26386737,https://creativecommons.org/licenses/by/3.0/legalcode
 Anthus pratensis,Anthus_pratensis_song_1.mp3,song,© Jarek Matusiak,https://www.xeno-canto.org/151273,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Anthus trivialis,Anthus_trivialis_call_1.mp3,call,© Stanislas Wroza,https://www.xeno-canto.org/471991,https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
-Anthus trivialis,Anthus_trivialis_image_1.jpg,image,© Astrid Mos,https://waarneming.nl/foto/view/21488937,
-Anthus trivialis,Anthus_trivialis_image_2.jpg,image,© Marianne Wustenhoff,https://waarneming.nl/foto/view/21434019,
-Anthus trivialis,Anthus_trivialis_image_3.jpg,image,© William Price,https://waarneming.nl/foto/view/20939918,
-Anthus trivialis,Anthus_trivialis_image_4.jpg,image,© Harry K,https://waarneming.nl/foto/view/17283565,
-Anthus trivialis,Anthus_trivialis_image_5.jpg,image,© Hans Niekus,https://waarneming.nl/foto/view/17192867,
+Anthus trivialis,Anthus_trivialis_image_1.jpg,image,© Astrid Mos,https://waarneming.nl/foto/view/21488937,https://creativecommons.org/licenses/by/3.0/legalcode
+Anthus trivialis,Anthus_trivialis_image_2.jpg,image,© Marianne Wustenhoff,https://waarneming.nl/foto/view/21434019,https://creativecommons.org/licenses/by/3.0/legalcode
+Anthus trivialis,Anthus_trivialis_image_3.jpg,image,© William Price,https://waarneming.nl/foto/view/20939918,https://creativecommons.org/licenses/by/3.0/legalcode
+Anthus trivialis,Anthus_trivialis_image_4.jpg,image,© Harry K,https://waarneming.nl/foto/view/17283565,https://creativecommons.org/licenses/by/3.0/legalcode
+Anthus trivialis,Anthus_trivialis_image_5.jpg,image,© Hans Niekus,https://waarneming.nl/foto/view/17192867,https://creativecommons.org/licenses/by/3.0/legalcode
 Anthus trivialis,Anthus_trivialis_song_1.mp3,song,© Johan Roeland,https://www.xeno-canto.org/150054,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Apus apus,Apus_apus_call_1.mp3,call,© Stephan Risch,https://www.xeno-canto.org/586085,https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
-Apus apus,Apus_apus_image_1.jpg,image,© Fred Klootwijk,https://waarneming.nl/foto/view/10664666,
-Apus apus,Apus_apus_image_2.jpg,image,© Henk Post,https://waarneming.nl/foto/view/369921,
-Apus apus,Apus_apus_image_3.jpg,image,© Hans Jansen,https://waarneming.nl/foto/view/26441080,
-Apus apus,Apus_apus_image_4.jpg,image,© Johan van der Vegt,https://waarneming.nl/foto/view/16965608,
-Apus apus,Apus_apus_image_5.jpg,image,© Ruurd Boonstra,https://waarneming.nl/foto/view/17295571,
+Apus apus,Apus_apus_image_1.jpg,image,© Fred Klootwijk,https://waarneming.nl/foto/view/10664666,https://creativecommons.org/licenses/by/3.0/legalcode
+Apus apus,Apus_apus_image_2.jpg,image,© Henk Post,https://waarneming.nl/foto/view/369921,https://creativecommons.org/licenses/by/3.0/legalcode
+Apus apus,Apus_apus_image_3.jpg,image,© Hans Jansen,https://waarneming.nl/foto/view/26441080,https://creativecommons.org/licenses/by/3.0/legalcode
+Apus apus,Apus_apus_image_4.jpg,image,© Johan van der Vegt,https://waarneming.nl/foto/view/16965608,https://creativecommons.org/licenses/by/3.0/legalcode
+Apus apus,Apus_apus_image_5.jpg,image,© Ruurd Boonstra,https://waarneming.nl/foto/view/17295571,https://creativecommons.org/licenses/by/3.0/legalcode
 Ardea alba,Ardea_alba_call_1.mp3,call,©&nbsp;Patrik Åberg,http://www.xeno-canto.org/167108,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Ardea alba,Ardea_alba_image_1.jpg,image,© Marianne Slot,http://waarneming.nl/foto/view/6252040,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Ardea cinerea,Ardea_cinerea_call_1.mp3,call,© Volker Arnold,http://www.xeno-canto.org/139810,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
@@ -180,14 +181,19 @@ Asio flammeus,Asio_flammeus_image_4.jpg,image,© Julian Bosch,https://waarneming
 Asio flammeus,Asio_flammeus_image_5.jpg,image,© Julian Bosch,https://waarneming.nl/foto/view/8065986,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Asio flammeus,Asio_flammeus_song_1.mp3,song,© Nunes D`Acosta,http://www.xeno-canto.org/44316,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
 Asio otus,Asio_otus_call_1.mp3,call,© Roef Mulder,http://www.xeno-canto.org/65138,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
-Asio otus,Asio_otus_image_1.jpg,image,© Rob Belterman,http://waarneming.nl/foto/view/4969693,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Asio otus,Asio_otus_image_1.jpg,image,© Luis nunes alberto,https://commons.wikimedia.org/wiki/File:Asio_otus8.JPG,
+Asio otus,Asio_otus_image_2.jpg,image,© Lubos Houska,https://pixabay.com/de/photos/waldohreule-eule-vogel-tierwelt-2118554/,
+Asio otus,Asio_otus_image_3.jpg,image,© Erik Karits,https://pixabay.com/de/photos/long-eared-owl-asio-otus-eule-5380970/,
+Asio otus,Asio_otus_image_4.jpg,image,© Gabriela Fink,https://pixabay.com/de/photos/eule-waldohreule-asio-otus-2756886/,
+Asio otus,Asio_otus_image_5.jpg,image,© Peter Verhelst,https://waarneming.nl/observation/74475062/,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Asio otus,Asio_otus_song_1.mp3,song,,https://waarneming.nl/foto/view/14152132,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Athene noctua,Athene_noctua_call_1.mp3,call,© maudoc,http://www.xeno-canto.org/130646,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Athene noctua,Athene_noctua_image_1.jpg,image,© Rob Belterman,http://waarneming.nl/foto/view/6642594,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Athene noctua,Athene_noctua_image_2.jpg,image,© J. Borst,https://waarneming.nl/foto/view/4895204,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Athene noctua,Athene_noctua_image_3.jpg,image,© Jan Albers,https://waarneming.nl/foto/view/8752479,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Athene noctua,Athene_noctua_image_4.jpg,image,© Jan Borst,https://waarneming.nl/foto/view/8323837,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Athene noctua,Athene_noctua_song_1.mp3,song,,https://waarneming.nl/foto/view/4841637,https://creativecommons.org/licenses/by-nd/3.0/legalcode
+Athene noctua,Athene_noctua_image_5.jpg,image,© f&s martens,https://waarneming.nl/foto/view/4841637,https://creativecommons.org/licenses/by-nd/3.0/legalcode
+Athene noctua,Athene_noctua_song_1.mp3,song,,,
 Aythya ferina,Aythya_ferina_call_1.mp3,call,© Timo Tschentscher,http://www.xeno-canto.org/368567,https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 Aythya ferina,Aythya_ferina_image_female_1.jpg,image_female,© Marc Kolkman,https://waarneming.nl/foto/view/6254218,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Aythya ferina,Aythya_ferina_image_female_2.jpg,image_female,© Annelies Vriens,https://waarneming.nl/foto/view/4430817,https://creativecommons.org/licenses/by-nd/3.0/legalcode
@@ -223,11 +229,12 @@ Branta leucopsis,Branta_leucopsis_image_3.jpg,image,©&nbsp;Erik op den Dries,ht
 Branta leucopsis,Branta_leucopsis_image_4.jpg,image,©&nbsp;Erik op den Dries,https://waarneming.nl/foto/view/11333789,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Branta leucopsis,Branta_leucopsis_image_5.jpg,image,©&nbsp;Erik op den Dries,https://waarneming.nl/foto/view/10754166,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Bubo bubo,Bubo_bubo_call_1.mp3,call,© Leonhard Peters,http://www.xeno-canto.org/121579,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
-Bubo bubo,Bubo_bubo_image_1.jpg,image,,<u></u>,
-Bubo bubo,Bubo_bubo_image_2.jpg,image,© Hans Niekus,https://waarneming.nl/foto/view/8103410,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Bubo bubo,Bubo_bubo_image_3.jpg,image,© Paul Cools,https://waarneming.nl/foto/view/6364778,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Bubo bubo,Bubo_bubo_image_4.jpg,image,© Pieter Doorn,https://waarneming.nl/foto/view/5311893,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Bubo bubo,Bubo_bubo_song_1.mp3,song,©&nbsp;Andre et Odile BOUCHER,http://www.xeno-canto.org/167701,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Bubo bubo,Bubo_bubo_image_1.jpg,image,© Theo Westra,http://waarneming.nl/foto/view/5879927,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Bubo bubo,Bubo_bubo_image_2.jpg,image,©  Nick Janssen ,https://waarneming.nl/foto/view/11886034,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Bubo bubo,Bubo_bubo_image_3.jpg,image,© Hans Niekus,https://waarneming.nl/foto/view/8103410,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Bubo bubo,Bubo_bubo_image_4.jpg,image,© Paul Cools,https://waarneming.nl/foto/view/6364778,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Bubo bubo,Bubo_bubo_image_5.jpg,image,© Pieter Doorn,https://waarneming.nl/foto/view/5311893,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Bubo bubo,Bubo_bubo_song_1.mp3,song,© Andre et Odile BOUCHER,http://www.xeno-canto.org/167701,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Buteo buteo,Buteo_buteo_call_1.mp3,call,© Bernard BOUSQUET,http://www.xeno-canto.org/142599,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Buteo buteo,Buteo_buteo_image_1.jpg,image,© René van Rossum,http://waarneming.nl/foto/view/6171839,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Buteo buteo,Buteo_buteo_image_2.jpg,image,© Pieter Hilgeman,https://waarneming.nl/foto/view/13867361,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
@@ -271,7 +278,7 @@ Chroicocephalus ridibundus,Chroicocephalus_ridibundus_image_4.jpg,image,© Peter
 Chroicocephalus ridibundus,Chroicocephalus_ridibundus_image_5.jpg,image,© Annelies Vriens,https://waarneming.nl/foto/view/4684499,https://creativecommons.org/licenses/by-nd/3.0/legalcode
 Circus aeruginosus,Circus_aeruginosus_call_1.mp3,call,© Lars Lachmann,http://www.xeno-canto.org/130668,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Circus aeruginosus,Circus_aeruginosus_image_female_1.jpg,image_female,© Erik op den Dries,https://waarneming.nl/foto/view/14144027,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Circus aeruginosus,Circus_aeruginosus_image_female_2.jpg,image_female,©&nbsp;https://waarneming.nl/foto/view/10494357,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode,
+Circus aeruginosus,Circus_aeruginosus_image_female_2.jpg,image_female,© Cees Struijk ,https://waarneming.nl/foto/view/10494357,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Circus aeruginosus,Circus_aeruginosus_image_female_3.jpg,image_female,© Cees Struijk,https://waarneming.nl/foto/view/8264046,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Circus aeruginosus,Circus_aeruginosus_image_female_4.jpg,image_female,© Cees Struijk,https://waarneming.nl/foto/view/8216399,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Circus aeruginosus,Circus_aeruginosus_image_female_5.jpg,image_female,© Jan van Wijk,https://waarneming.nl/foto/view/3138414,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
@@ -284,7 +291,7 @@ Circus aeruginosus,Circus_aeruginosus_image_silh_1.jpg,image_silh,© Ted van der
 Circus aeruginosus,Circus_aeruginosus_image_silh_2.jpg,image_silh,© Ted van der Knaap,https://waarneming.nl/foto/view/14173916,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Circus aeruginosus,Circus_aeruginosus_image_silh_3.jpg,image_silh,© Lenie Doornkamp,https://waarneming.nl/foto/view/13819098,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Circus cyaneus,Circus_cyaneus_call_1.mp3,call,© Marco Dragonetti,http://www.xeno-canto.org/39638,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
-Circus cyaneus,Circus_cyaneus_image_female_1.jpg,image_female,,http://waarneming.nl/foto/view/5969971,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Circus cyaneus,Circus_cyaneus_image_female_1.jpg,image_female,© Twan Hak.,http://waarneming.nl/foto/view/5969971,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Circus cyaneus,Circus_cyaneus_image_female_2.jpg,image_female,© J. Schwiebbe,https://waarneming.nl/waarneming/view/52248586,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Circus cyaneus,Circus_cyaneus_image_female_3.jpg,image_female,© Fred Visscher,https://waarneming.nl/waarneming/view/134984259,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Circus cyaneus,Circus_cyaneus_image_female_4.jpg,image_female,"© Conny &amp; Peter, Das",https://waarneming.nl/waarneming/view/134350907,https://creativecommons.org/licenses/by-nd/3.0/legalcode
@@ -351,18 +358,19 @@ Corvus frugilegus,Corvus_frugilegus_image_3.jpg,image,© Fred Visscher,https://w
 Corvus frugilegus,Corvus_frugilegus_image_4.jpg,image,© Erik op den Dries,https://waarneming.nl/foto/view/7312898,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Corvus frugilegus,Corvus_frugilegus_image_5.jpg,image,© Cees Struijk,https://waarneming.nl/foto/view/4364885,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Corvus monedula,Corvus_monedula_call_1.mp3,call,© maudoc,http://www.xeno-canto.org/133231,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Corvus monedula,Corvus_monedula_image_1.jpg,image,©&nbsp;Marianne Wustenhoff,http://waarneming.nl/foto/view/3229203,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Corvus monedula,Corvus_monedula_image_1.jpg,image,© Marianne Wustenhoff,http://waarneming.nl/foto/view/3229203,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Corvus monedula,Corvus_monedula_image_2.jpg,image,© Hans Niekus,https://waarneming.nl/foto/view/12772739,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Corvus monedula,Corvus_monedula_image_3.jpg,image,© René van Rossum,https://waarneming.nl/foto/view/11936042,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Corvus monedula,Corvus_monedula_image_4.jpg,image,© Johan Batist,https://waarneming.nl/foto/view/12431397,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Corvus monedula,Corvus_monedula_image_5.jpg,image,© René van Rossum,https://waarneming.nl/foto/view/3540235,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Coturnix coturnix,Coturnix_coturnix_call_1.mp3,call,© Albert Lastukhin,http://www.xeno-canto.org/106611,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
-Coturnix coturnix,Coturnix_coturnix_image_female_1.jpg,image_female,,https://waarneming.nl/foto/view/348235,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Coturnix coturnix,Coturnix_coturnix_image_female_1.jpg,image_female,© J. Schwiebbe,https://waarneming.nl/foto/view/348235,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Coturnix coturnix,Coturnix_coturnix_image_female_2.jpg,image_female,© J. Schwiebbe,http://waarneming.nl/foto/view/365371,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Coturnix coturnix,Coturnix_coturnix_image_female_3.jpg,image_female,,https://waarneming.nl/foto/view/14168658,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Coturnix coturnix,Coturnix_coturnix_image_female_3.jpg,image_female,© Fred Visscher ,https://waarneming.nl/foto/view/14168658,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Coturnix coturnix,Coturnix_coturnix_image_female_4.jpg,image_female,© Lars Buckx,https://waarneming.nl/foto/view/2815876,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Coturnix coturnix,Coturnix_coturnix_image_male_1.jpg,image_male,© Fred Visscher,https://waarneming.nl/foto/view/2197454,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
-Coturnix coturnix,Coturnix_coturnix_song_1.mp3,song,© Jan-Kees Bossenbroek,http://www.xeno-canto.org/104850,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
+Coturnix coturnix,Coturnix_coturnix_image_male_2.jpg,image_male,© Marc Gottenbos ,https://waarneming.nl/foto/view/347904,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Coturnix coturnix,Coturnix_coturnix_image_male_5.jpg,image_male,© J. Schwiebbe ,http://waarneming.nl/foto/view/348233,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Cuculus canorus,Cuculus_canorus_call_1.mp3,call,© Volker Arnold,http://www.xeno-canto.org/138120,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Cuculus canorus,Cuculus_canorus_image_female_1.jpg,image_female,© sjani en rinus van ophemert,https://waarneming.nl/foto/view/339653,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Cuculus canorus,Cuculus_canorus_image_female_2.jpg,image_female,© J. Schwiebbe,https://waarneming.nl/foto/view/145296,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
@@ -414,26 +422,27 @@ Dendrocopos major,Dendrocopos_major_image_male_2.jpg,image_male,"© Conny &amp; 
 Dendrocopos major,Dendrocopos_major_image_male_3.jpg,image_male,© Koos Werther,https://waarneming.nl/foto/view/12773223,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Dendrocopos major,Dendrocopos_major_image_male_4.jpg,image_male,© Frank Bos,https://waarneming.nl/foto/view/10961573,https://creativecommons.org/licenses/by/3.0/legalcode
 Dendrocopos major,Dendrocopos_major_image_male_5.jpg,image_male,© Ton van Bracht,https://waarneming.nl/foto/view/10650820,https://creativecommons.org/licenses/by/3.0/legalcode
-Dendrocopos medius,Dendrocopos_medius_call_1.mp3,call,© Bram Piot,http://www.xeno-canto.org/170646,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
-Dendrocopos medius,Dendrocopos_medius_image_female_1.jpg,image_female,© J. Schwiebbe,http://waarneming.nl/foto/view/56207,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Dendrocopos medius,Dendrocopos_medius_image_female_2.jpg,image_female,© Ad Maas,https://waarneming.nl/foto/view/3092359,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Dendrocopos medius,Dendrocopos_medius_image_female_3.jpg,image_female,© Peter de Rouw,https://waarneming.nl/foto/view/10545692,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Dendrocopos medius,Dendrocopos_medius_image_male_1.jpg,image_male,© Mariet Verbeek,http://waarneming.nl/foto/view/2175055,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Dendrocopos medius,Dendrocopos_medius_image_male_2.jpg,image_male,© Marc Gottenbos,https://waarneming.nl/foto/view/8400737,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Dendrocopos medius,Dendrocopos_medius_image_male_3.jpg,image_male,© Berend van Dooren,https://waarneming.nl/foto/view/13100463,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Dendrocopos medius,Dendrocopos_medius_image_male_4.jpg,image_male,© fred hoorn,https://waarneming.nl/foto/view/10588833,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Dendrocopos medius,Dendrocopos_medius_image_male_5.jpg,image_male,© Alex Bos,https://waarneming.nl/foto/view/5924333,https://creativecommons.org/licenses/by-nd/3.0/legalcode
-Dendrocopos medius,Dendrocopos_medius_song_1.mp3,song,© Gerard Gorman,http://www.xeno-canto.org/71447,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
-Dendrocopos minor,Dendrocopos_minor_image_female_1.jpg,image_female,,https://waarneming.nl/foto/view/2187125,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Dendrocopos minor,Dendrocopos_minor_image_female_2.jpg,image_female,© Ben loonen,http://waarneming.nl/foto/view/2033014,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Dendrocopos minor,Dendrocopos_minor_image_female_3.jpg,image_female,© Wouter van der Ham,https://waarneming.nl/foto/view/5851766,https://creativecommons.org/licenses/by/3.0/legalcode
-Dendrocopos minor,Dendrocopos_minor_image_female_4.jpg,image_female,© Wouter Boer,https://waarneming.nl/foto/view/7924461,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Dendrocopos minor,Dendrocopos_minor_image_female_5.jpg,image_female,© Wouter van der Ham,https://waarneming.nl/foto/view/5851331,https://creativecommons.org/licenses/by/3.0/legalcode
-Dendrocopos minor,Dendrocopos_minor_image_male_1.jpg,image_male,© Bart Vastenhouw,http://waarneming.nl/foto/view/4353753,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Dendrocopos minor,Dendrocopos_minor_image_male_2.jpg,image_male,,https://waarneming.nl/foto/view/10974340,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Dendrocopos minor,Dendrocopos_minor_image_male_3.jpg,image_male,© Pieter Hilgeman,https://waarneming.nl/foto/view/6354730,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
-Dendrocopos minor,Dendrocopos_minor_image_male_4.jpg,image_male,© Hans Stoel,https://waarneming.nl/foto/view/4635226,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Dendrocopos minor,Dendrocopos_minor_song_1.mp3,song,© Henk-Jan van der Kolk,http://www.xeno-canto.org/45196,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
+Dendrocoptes medius,Dendrocopos_medius_call_1.mp3,call,© Bram Piot,http://www.xeno-canto.org/170646,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Dendrocoptes medius,Dendrocopos_medius_image_female_1.jpg,image_female,© J. Schwiebbe,http://waarneming.nl/foto/view/56207,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Dendrocoptes medius,Dendrocopos_medius_image_female_2.jpg,image_female,© Ad Maas,https://waarneming.nl/foto/view/3092359,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Dendrocoptes medius,Dendrocopos_medius_image_female_3.jpg,image_female,© Peter de Rouw,https://waarneming.nl/foto/view/10545692,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Dendrocoptes medius,Dendrocopos_medius_image_male_1.jpg,image_male,© Mariet Verbeek,http://waarneming.nl/foto/view/2175055,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Dendrocoptes medius,Dendrocopos_medius_image_male_2.jpg,image_male,© Marc Gottenbos,https://waarneming.nl/foto/view/8400737,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Dendrocoptes medius,Dendrocopos_medius_image_male_3.jpg,image_male,© Berend van Dooren,https://waarneming.nl/foto/view/13100463,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Dendrocoptes medius,Dendrocopos_medius_image_male_4.jpg,image_male,© fred hoorn,https://waarneming.nl/foto/view/10588833,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Dendrocoptes medius,Dendrocopos_medius_image_male_5.jpg,image_male,© Alex Bos,https://waarneming.nl/foto/view/5924333,https://creativecommons.org/licenses/by-nd/3.0/legalcode
+Dendrocoptes medius,Dendrocopos_medius_song_1.mp3,song,© Gerard Gorman,http://www.xeno-canto.org/71447,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
+Dryobates minor,Dendrocopos_minor_image_female_1.jpg,image_female,© Ben loonen,http://waarneming.nl/foto/view/2033014,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Dryobates minor,Dendrocopos_minor_image_female_2.jpg,image_female,© Wouter van der Ham,https://waarneming.nl/foto/view/5851766,https://creativecommons.org/licenses/by/3.0/legalcode
+Dryobates minor,Dendrocopos_minor_image_female_3.jpg,image_female,© Wouter Boer,https://waarneming.nl/foto/view/7924461,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Dryobates minor,Dendrocopos_minor_image_female_4.jpg,image_female,© Wouter van der Ham,https://waarneming.nl/foto/view/5851331,https://creativecommons.org/licenses/by/3.0/legalcode
+Dryobates minor,Dendrocopos_minor_image_female_5.jpg,image_female,© William Price,https://waarneming.nl/foto/view/8306351,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Dryobates minor,Dendrocopos_minor_image_male_1.jpg,image_male,© Bart Vastenhouw,http://waarneming.nl/foto/view/4353753,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Dryobates minor,Dendrocopos_minor_image_male_2.jpg,image_male,©  Koos Werther ,https://waarneming.nl/foto/view/10974340,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Dryobates minor,Dendrocopos_minor_image_male_3.jpg,image_male,© Pieter Hilgeman,https://waarneming.nl/foto/view/6354730,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Dryobates minor,Dendrocopos_minor_image_male_4.jpg,image_male,© Hans Stoel,https://waarneming.nl/foto/view/4635226,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Dryobates minor,Dendrocopos_minor_image_male_5.jpg,image_female,©  Mariet Verbeek ,https://waarneming.nl/foto/view/2187125,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Dryobates minor,Dendrocopos_minor_song_1.mp3,song,© Henk-Jan van der Kolk,http://www.xeno-canto.org/45196,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
 Dryocopus martius,Dryocopus_martius_call_1.mp3,call,© Danny Alder,http://www.xeno-canto.org/158103,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Dryocopus martius,Dryocopus_martius_image_female_1.jpg,image_female,© J. Schwiebbe,http://waarneming.nl/foto/view/316200,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Dryocopus martius,Dryocopus_martius_image_female_2.jpg,image_female,© Oscar en Jolanda Balm,https://waarneming.nl/foto/view/12918814,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
@@ -442,7 +451,7 @@ Dryocopus martius,Dryocopus_martius_image_female_4.jpg,image_female,© J. Schwie
 Dryocopus martius,Dryocopus_martius_image_female_5.jpg,image_female,© Hidde Bult,https://waarneming.nl/foto/view/12128208,https://creativecommons.org/licenses/by/3.0/legalcode
 Dryocopus martius,Dryocopus_martius_image_male_1.jpg,image_male,© Paul Dirksen,http://waarneming.nl/foto/view/6186112,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Dryocopus martius,Dryocopus_martius_image_male_2.jpg,image_male,© Siebe Wiersma,https://waarneming.nl/foto/view/13432631,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Dryocopus martius,Dryocopus_martius_image_male_3.jpg,image_male,,https://waarneming.nl/foto/view/6402141,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Dryocopus martius,Dryocopus_martius_image_male_3.jpg,image_male,© Cees Struijk ,https://waarneming.nl/foto/view/6402141,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Dryocopus martius,Dryocopus_martius_image_male_4.jpg,image_male,© Roely Bos,https://waarneming.nl/foto/view/1229091,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Dryocopus martius,Dryocopus_martius_song_1.mp3,song,© Veljo Runnel,http://www.xeno-canto.org/116682,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Emberiza citrinella,Emberiza_citrinella_call_1.mp3,call,© Jerome Fischer,http://www.xeno-canto.org/380184,https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
@@ -508,7 +517,6 @@ Falco tinnunculus,Falco_tinnunculus_image_male_5.jpg,image_male,© René van Ros
 Falco tinnunculus,Falco_tinnunculus_image_silh_1.jpg,image_silh,© Ted van der Knaap,http://waarneming.nl/foto/view/6585936,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Falco tinnunculus,Falco_tinnunculus_image_silh_2.jpg,image_silh,© Ted van der Knaap,https://waarneming.nl/foto/view/12857593,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Falco tinnunculus,Falco_tinnunculus_image_silh_3.jpg,image_silh,© Ted van der Knaap,https://waarneming.nl/foto/view/11786532,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-name,filename,media_type,user,url,license
 Fringilla coelebs,Fringilla_coelebs_call_1.mp3,call,© Jordi Calvet,http://www.xeno-canto.org/131965,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Fringilla coelebs,Fringilla_coelebs_image_female_1.jpg,image_female,© Ria Vogels,http://waarneming.nl/foto/view/273328,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Fringilla coelebs,Fringilla_coelebs_image_female_2.jpg,image_female,© Erik op den Dries,https://waarneming.nl/foto/view/12875975,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
@@ -549,8 +557,8 @@ Haematopus ostralegus,Haematopus_ostralegus_image_5.jpg,image,© Erik op den Dri
 Haematopus ostralegus,Haematopus_ostralegus_song_1.mp3,song,© Niels Krabbe,http://www.xeno-canto.org/25754,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Haliaeetus albicilla,Haliaeetus_albicilla_call_1.mp3,call,© Patrik Åberg,http://www.xeno-canto.org/168453,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Haliaeetus albicilla,Haliaeetus_albicilla_image_1.jpg,image,© Bé Schilder,http://waarneming.nl/foto/view/5946200,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Haliaeetus albicilla,Haliaeetus_albicilla_image_2.jpg,image,"© R. L. W., https://waarneming.nl/foto/view/13927593",https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode,https://waarneming.nl/foto/view/12020602
-Haliaeetus albicilla,Haliaeetus_albicilla_image_3.jpg,image,,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode,
+Haliaeetus albicilla,Haliaeetus_albicilla_image_2.jpg,image,© R. L. W.,https://waarneming.nl/foto/view/139275933,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Haliaeetus albicilla,Haliaeetus_albicilla_image_3.jpg,image,© Sieds Rienks ,https://waarneming.nl/foto/view/12020602,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Haliaeetus albicilla,Haliaeetus_albicilla_image_4.jpg,image,© jan van der ree,https://waarneming.nl/foto/view/12012600,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Haliaeetus albicilla,Haliaeetus_albicilla_image_5.jpg,image,© Bert de Groot,https://waarneming.nl/foto/view/11025209,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Haliaeetus albicilla,Haliaeetus_albicilla_image_silh_1.jpg,image_silh,© Rients Niks,http://waarneming.nl/foto/view/6499237,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
@@ -564,11 +572,11 @@ Hirundo rustica,Hirundo_rustica_image_4.jpg,image,© T. Verhulst,https://waarnem
 Hirundo rustica,Hirundo_rustica_image_5.jpg,image,© Rob wijn,https://waarneming.nl/waarneming/view/139025181,https://creativecommons.org/licenses/by-sa/3.0/legalcode
 Hirundo rustica,Hirundo_rustica_song_1.mp3,song,© david m,http://www.xeno-canto.org/157316,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Ichthyaetus melanocephalus,Ichthyaetus_melanocephalus_call_1.mp3,call,©&nbsp;Frédéric Cazaban,https://www.xeno-canto.org/546863,https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
-Ichthyaetus melanocephalus,Ichthyaetus_melanocephalus_image_1.jpg,image,© Jos Koopman,https://waarneming.nl/foto/view/25691916 (by),
-Ichthyaetus melanocephalus,Ichthyaetus_melanocephalus_image_2.jpg,image,© Marianne Slot,https://waarneming.nl/foto/view/25599263 (by-nc-nd),
-Ichthyaetus melanocephalus,Ichthyaetus_melanocephalus_image_3.jpg,image,© ruwan aluvihare,https://waarneming.nl/foto/view/25525221 (by-nc-nd),
-Ichthyaetus melanocephalus,Ichthyaetus_melanocephalus_image_4.jpg,image,© Robert Kraaijeveld,https://waarneming.nl/foto/view/25385230 (by-nc-nd),
-Ichthyaetus melanocephalus,Ichthyaetus_melanocephalus_image_5.jpg,image,© René van Rossum,https://waarneming.nl/foto/view/23618916 (by-nc-sa),
+Ichthyaetus melanocephalus,Ichthyaetus_melanocephalus_image_1.jpg,image,© Jos Koopman,https://waarneming.nl/foto/view/25691916,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Ichthyaetus melanocephalus,Ichthyaetus_melanocephalus_image_2.jpg,image,© Marianne Slot,https://waarneming.nl/foto/view/25599263,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Ichthyaetus melanocephalus,Ichthyaetus_melanocephalus_image_3.jpg,image,© ruwan aluvihare,https://waarneming.nl/foto/view/25525221,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Ichthyaetus melanocephalus,Ichthyaetus_melanocephalus_image_4.jpg,image,© Robert Kraaijeveld,https://waarneming.nl/foto/view/25385230,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Ichthyaetus melanocephalus,Ichthyaetus_melanocephalus_image_5.jpg,image,© René van Rossum,https://waarneming.nl/foto/view/23618916,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Larus argentatus,Larus_argentatus_call_1.mp3,call,©&nbsp;Stein Ø. Nilsen,http://www.xeno-canto.org/155929,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Larus argentatus,Larus_argentatus_image_1.jpg,image,© René van Rossum,http://waarneming.nl/foto/view/6086810,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Larus argentatus,Larus_argentatus_image_2.jpg,image,© Rick Geling,https://waarneming.nl/foto/view/12254361,https://creativecommons.org/licenses/by/3.0/legalcode
@@ -601,7 +609,7 @@ Limosa limosa,Limosa_limosa_image_4.jpg,image,© Johan van der Vegt,https://waar
 Limosa limosa,Limosa_limosa_image_5.jpg,image,© Rob Floor,https://waarneming.nl/foto/view/13022699,https://creativecommons.org/licenses/by/3.0/legalcode
 Limosa limosa,Limosa_limosa_song_1.mp3,song,©&nbsp;Patrik Åberg,http://www.xeno-canto.org/42435,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Linaria cannabina,Linaria_cannabina_call_1.mp3,call,© Peter Boesman,https://www.xeno-canto.org/606298,https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
-Linaria cannabina,Linaria_cannabina_image_female_1.jpg,image_female,© Arjen van Gilst,https://waarneming.nl/foto/view/25548652,
+Linaria cannabina,Linaria_cannabina_image_female_1.jpg,image_female,© Arjen van Gilst,https://waarneming.nl/foto/view/25548652,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Linaria cannabina,Linaria_cannabina_image_female_2.jpg,image_female,© Henk Graafland,https://waarneming.nl/foto/view/20743959,
 Linaria cannabina,Linaria_cannabina_image_female_3.jpg,image_female,© W. van Dieten,https://waarneming.nl/foto/view/6432417,
 Linaria cannabina,Linaria_cannabina_image_female_4.jpg,image_female,© Oscar en Jolanda Balm,https://waarneming.nl/foto/view/4884827,
@@ -692,11 +700,11 @@ Passer montanus,Passer_montanus_image_1.jpg,image,© Koos Werther,http://waarnem
 Passer montanus,Passer_montanus_image_2.jpg,image,© Cor de Jong,https://waarneming.nl/foto/view/13818255,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Passer montanus,Passer_montanus_image_3.jpg,image,© Hugo Wieleman,https://waarneming.nl/foto/view/12371184,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Passer montanus,Passer_montanus_image_4.jpg,image,© Ed van der Es,https://waarneming.nl/foto/view/12656020,https://creativecommons.org/licenses/by/3.0/legalcode
-Passer montanus,Passer_montanus_image_5.jpg,image,© f&amp;s martens,https://waarneming.nl/foto/view/6464802,https://creativecommons.org/licenses/by-nd/3.0/legalcode
+Passer montanus,Passer_montanus_image_5.jpg,image,© s martens,https://waarneming.nl/foto/view/6464802,https://creativecommons.org/licenses/by-nd/3.0/legalcode
 Passer montanus,Passer_montanus_song_1.mp3,song,© Lars Lachmann,http://www.xeno-canto.org/91173,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
 Perdix perdix,Perdix_perdix_call_1.mp3,call,© david m,http://www.xeno-canto.org/179757,http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 Perdix perdix,Perdix_perdix_image_1.jpg,image,© Mario Huizinga,http://waarneming.nl/foto/view/6198927,http://creativecommons.org/licenses/by/3.0/legalcode
-Perdix perdix,Perdix_perdix_image_2.jpg,image,,https://waarneming.nl/foto/view/13568038,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Perdix perdix,Perdix_perdix_image_2.jpg,image,© Rob Belterman,https://waarneming.nl/foto/view/13568038,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Perdix perdix,Perdix_perdix_image_3.jpg,image,© Cees Struijk,https://waarneming.nl/foto/view/7939608,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Perdix perdix,Perdix_perdix_image_4.jpg,image,© Leo Lukasse,https://waarneming.nl/foto/view/13140173,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Perdix perdix,Perdix_perdix_image_5.jpg,image,© Fred Visscher,https://waarneming.nl/foto/view/2024240,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
@@ -710,7 +718,7 @@ Pernis apivorus,Pernis_apivorus_image_5.jpg,image,© Mariet Verbeek,https://waar
 Pernis apivorus,Pernis_apivorus_image_silh_1.jpg,image_silh,© Jan Erik Kikkert,http://waarneming.nl/foto/view/4702044,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Pernis apivorus,Pernis_apivorus_image_silh_2.jpg,image_silh,© marco leloux,https://waarneming.nl/foto/view/14189725,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Pernis apivorus,Pernis_apivorus_image_silh_3.jpg,image_silh,© Fred Hustings,https://waarneming.nl/foto/view/14051090,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Phalacrocorax carbor,Phalacrocorax_carbor_call_1.mp3,call,Source: © Bernard BOUSQUET,http://www.xeno-canto.org/167725,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Phalacrocorax carbor,Phalacrocorax_carbor_call_1.mp3,call,© Bernard BOUSQUET,http://www.xeno-canto.org/167725,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Phalacrocorax carbor,Phalacrocorax_carbor_image_1.jpg,image,© Koos Werther,http://waarneming.nl/foto/view/5852180,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Phalacrocorax carbor,Phalacrocorax_carbor_image_2.jpg,image,© Huib de Rooij,https://waarneming.nl/waarneming/view/118911920,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Phalacrocorax carbor,Phalacrocorax_carbor_image_3.jpg,image,© Gerard Visser,https://waarneming.nl/waarneming/view/113110912,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
@@ -776,7 +784,7 @@ Poecile montanus,Poecile_montanus_call_1.mp3,call,© Peter Boesman,http://www.xe
 Poecile montanus,Poecile_montanus_image_1.jpg,image,© Frank Bos,http://waarneming.nl/foto/view/10271301,http://creativecommons.org/licenses/by/3.0/legalcode
 Poecile montanus,Poecile_montanus_image_2.jpg,image,© Twan Hak,https://waarneming.nl/foto/view/10305503,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Poecile montanus,Poecile_montanus_image_3.jpg,image,© Twan Hak,https://waarneming.nl/foto/view/10279337,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Poecile montanus,Poecile_montanus_image_4.jpg,image,,https://waarneming.nl/foto/view/6041730,https://creativecommons.org/licenses/by/3.0/legalcode
+Poecile montanus,Poecile_montanus_image_4.jpg,image,© Frank Bos,https://waarneming.nl/foto/view/6041730,https://creativecommons.org/licenses/by/3.0/legalcode
 Poecile montanus,Poecile_montanus_image_5.jpg,image,© Twan Hak,https://waarneming.nl/foto/view/6028575,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Poecile montanus,Poecile_montanus_song_1.mp3,song,© Veljo Runnel,http://www.xeno-canto.org/217265,http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 Poecile palustris,Poecile_palustris_call_1.mp3,call,© Timo S.,http://www.xeno-canto.org/289658,http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
@@ -807,7 +815,7 @@ Riparia riparia,Riparia_riparia_call_1.mp3,call,© Ian Cruickshank,http://www.xe
 Riparia riparia,Riparia_riparia_image_1.jpg,image,© Ko Veldkamp,http://waarneming.nl/foto/view/5053948,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Riparia riparia,Riparia_riparia_image_2.jpg,image,© Eric Roeland,https://waarneming.nl/foto/view/14003436,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Riparia riparia,Riparia_riparia_image_3.jpg,image,© Marianne Slot,https://waarneming.nl/foto/view/13224401,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Riparia riparia,Riparia_riparia_image_4.jpg,image,,https://waarneming.nl/foto/view/11122907,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Riparia riparia,Riparia_riparia_image_4.jpg,image,©  Hans Niekus,https://waarneming.nl/foto/view/11122907,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Riparia riparia,Riparia_riparia_image_5.jpg,image,© Ruud Meurs,https://waarneming.nl/foto/view/10630906,https://creativecommons.org/licenses/by-sa/3.0/legalcode
 Sitta europaea,Sitta_europaea_call_1.mp3,call,© Piotr Szczypinski,http://www.xeno-canto.org/161702,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Sitta europaea,Sitta_europaea_image_1.jpg,image,© Pieter Hilgeman,http://waarneming.nl/foto/view/6248981,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
@@ -836,7 +844,7 @@ Streptopelia decaocto,Streptopelia_decaocto_image_4.jpg,image,© Ger de Hoog,htt
 Streptopelia decaocto,Streptopelia_decaocto_image_5.jpg,image,© Paul Cools,https://waarneming.nl/foto/view/2755953,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Streptopelia decaocto,Streptopelia_decaocto_song_1.mp3,song,© Patrik Åberg,http://www.xeno-canto.org/145644,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Strix aluco,Strix_aluco_call_1.mp3,call,© Johannes Buhl,http://www.xeno-canto.org/112105,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
-Strix aluco,Strix_aluco_image_1.jpg,image,©&nbsp;http://waarneming.nl/foto/view/3094293,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode,
+Strix aluco,Strix_aluco_image_1.jpg,image,© Rob Belterman ,http://waarneming.nl/foto/view/3094293,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Strix aluco,Strix_aluco_image_2.jpg,image,© Lo Troisfontaine,https://waarneming.nl/waarneming/view/117013002,https://creativecommons.org/licenses/by/3.0/legalcode
 Strix aluco,Strix_aluco_image_3.jpg,image,© Bram Borkent,https://waarneming.nl/waarneming/view/133388754,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Strix aluco,Strix_aluco_image_4.jpg,image,© Theo van Lent,https://waarneming.nl/waarneming/view/100750674,https://creativecommons.org/licenses/by/3.0/legalcode
@@ -848,7 +856,7 @@ Sturnus vulgaris,Sturnus_vulgaris_image_2.jpg,image,© Rob Floor,https://waarnem
 Sturnus vulgaris,Sturnus_vulgaris_image_3.jpg,image,© Koos Werther,https://waarneming.nl/foto/view/13021646,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Sturnus vulgaris,Sturnus_vulgaris_image_4.jpg,image,© Ton van Wijk,https://waarneming.nl/foto/view/14216138,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Sturnus vulgaris,Sturnus_vulgaris_image_5.jpg,image,© Paul Cools,https://waarneming.nl/foto/view/8424615,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Sturnus vulgaris,Sturnus_vulgaris_song_1.mp3,song,©&nbsp;Krzysztof Deoniziak,http://www.xeno-canto.org/172964,http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+Sturnus vulgaris,Sturnus_vulgaris_song_1.mp3,song,© Krzysztof Deoniziak,http://www.xeno-canto.org/172964,http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 Sylvia atricapilla,Sylvia_atricapilla_call_1.mp3,call,© Jordi Calvet,http://www.xeno-canto.org/169787,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Sylvia atricapilla,Sylvia_atricapilla_image_female_1.jpg,image_female,© Twan Hak,http://waarneming.nl/foto/view/4985510,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Sylvia atricapilla,Sylvia_atricapilla_image_female_2.jpg,image_female,© Peter Boltjes,https://waarneming.nl/foto/view/8407155,https://creativecommons.org/licenses/by/3.0/legalcode
@@ -867,18 +875,18 @@ Sylvia borin,Sylvia_borin_image_3.jpg,image,© Hans Niekus,https://waarneming.nl
 Sylvia borin,Sylvia_borin_image_4.jpg,image,© Rob Zweers,https://waarneming.nl/foto/view/11234102,
 Sylvia borin,Sylvia_borin_image_5.jpg,image,© Simon Post,https://waarneming.nl/foto/view/2088516,
 Sylvia borin,Sylvia_borin_song_1.mp3,song,© Niels van Doninck,https://www.xeno-canto.org/602611,https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
-Sylvia communis,Sylvia_communis_call_1.mp3,call,© Stephan Risch,https://www.xeno-canto.org/552902,https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
-Sylvia communis,Sylvia_communis_image_female_1.jpg,image_female,© Marianne Slot,https://waarneming.nl/foto/view/27196663,
-Sylvia communis,Sylvia_communis_image_female_2.jpg,image_female,© Tjally Schaap,https://waarneming.nl/foto/view/11115231,
-Sylvia communis,Sylvia_communis_image_female_3.jpg,image_female,© Hans Jansen,https://waarneming.nl/foto/view/17005652,
-Sylvia communis,Sylvia_communis_image_female_4.jpg,image_female,© Roely Bos,https://waarneming.nl/foto/view/9219974,
-Sylvia communis,Sylvia_communis_image_female_5.jpg,image_female,© Roland Koper,https://waarneming.nl/foto/view/29441457,
-Sylvia communis,Sylvia_communis_image_male_1.jpg,image_male,© Eddy Blomme,https://waarneming.nl/foto/view/21950526,
-Sylvia communis,Sylvia_communis_image_male_2.jpg,image_male,© Jasper Beijeman,https://waarneming.nl/foto/view/21049126,
-Sylvia communis,Sylvia_communis_image_male_3.jpg,image_male,© Frank Neijts,https://waarneming.nl/foto/view/13457503,
-Sylvia communis,Sylvia_communis_image_male_4.jpg,image_male,© René van Rossum,https://waarneming.nl/foto/view/6510872,
-Sylvia communis,Sylvia_communis_image_male_5.jpg,image_male,© René van Rossum,https://waarneming.nl/foto/view/10550844,
-Sylvia communis,Sylvia_communis_song_1.mp3,song,© Urban Lundström,https://www.xeno-canto.org/569540,https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Curruca communis,Sylvia_communis_call_1.mp3,call,© Stephan Risch,https://www.xeno-canto.org/552902,https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Curruca communis,Sylvia_communis_image_female_1.jpg,image_female,© Marianne Slot,https://waarneming.nl/foto/view/27196663,
+Curruca communis,Sylvia_communis_image_female_2.jpg,image_female,© Tjally Schaap,https://waarneming.nl/foto/view/11115231,
+Curruca communis,Sylvia_communis_image_female_3.jpg,image_female,© Hans Jansen,https://waarneming.nl/foto/view/17005652,
+Curruca communis,Sylvia_communis_image_female_4.jpg,image_female,© Roely Bos,https://waarneming.nl/foto/view/9219974,
+Curruca communis,Sylvia_communis_image_female_5.jpg,image_female,© Roland Koper,https://waarneming.nl/foto/view/29441457,
+Curruca communis,Sylvia_communis_image_male_1.jpg,image_male,© Eddy Blomme,https://waarneming.nl/foto/view/21950526,
+Curruca communis,Sylvia_communis_image_male_2.jpg,image_male,© Jasper Beijeman,https://waarneming.nl/foto/view/21049126,
+Curruca communis,Sylvia_communis_image_male_3.jpg,image_male,© Frank Neijts,https://waarneming.nl/foto/view/13457503,
+Curruca communis,Sylvia_communis_image_male_4.jpg,image_male,© René van Rossum,https://waarneming.nl/foto/view/6510872,
+Curruca communis,Sylvia_communis_image_male_5.jpg,image_male,© René van Rossum,https://waarneming.nl/foto/view/10550844,
+Curruca communis,Sylvia_communis_song_1.mp3,song,© Urban Lundström,https://www.xeno-canto.org/569540,https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 Tachybaptus ruficollis,Tachybaptus_ruficollis_call_1.mp3,call,© Tero Linjama,http://www.xeno-canto.org/164149,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Tachybaptus ruficollis,Tachybaptus_ruficollis_image_1.jpg,image,© Peter Boltjes,http://waarneming.nl/foto/view/6341902,http://creativecommons.org/licenses/by/3.0/legalcode
 Tachybaptus ruficollis,Tachybaptus_ruficollis_image_2.jpg,image,© Erik op den Dries,https://waarneming.nl/foto/view/14055662,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
@@ -933,10 +941,11 @@ Turdus viscivorus,Turdus_viscivorus_image_4.jpg,image,© Johan van Beilen,https:
 Turdus viscivorus,Turdus_viscivorus_image_5.jpg,image,© Peter Boltjes,https://waarneming.nl/foto/view/2957678,https://creativecommons.org/licenses/by/3.0/legalcode
 Turdus viscivorus,Turdus_viscivorus_song_1.mp3,song,© Tero Linjama,http://www.xeno-canto.org/164180,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Tyto alba,Tyto_alba_call_1.mp3,call,© vir joshi,http://www.xeno-canto.org/168354,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
-Tyto alba,Tyto_alba_image_1.jpg,image,© Oscar en Jolanda Balm,https://waarneming.nl/foto/view/13430679,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Tyto alba,Tyto_alba_image_2.jpg,image,© Cees Struijk,https://waarneming.nl/foto/view/8639565,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
-Tyto alba,Tyto_alba_image_3.jpg,image,,https://waarneming.nl/foto/view/3665999,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
-Tyto alba,Tyto_alba_image_4.jpg,image,© J. Schwiebbe,https://waarneming.nl/foto/view/318455,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Tyto alba,Tyto_alba_image_1.jpg,image,© Adri Clements ,http://waarneming.nl/foto/view/4391504,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Tyto alba,Tyto_alba_image_2.jpg,image,© Oscar en Jolanda Balm,https://waarneming.nl/foto/view/13430679,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Tyto alba,Tyto_alba_image_3.jpg,image,© Cees Struijk,https://waarneming.nl/foto/view/8639565,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Tyto alba,Tyto_alba_image_4.jpg,image,©  Fred Visscher ,https://waarneming.nl/foto/view/3665999,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Tyto alba,Tyto_alba_image_5.jpg,image,© J. Schwiebbe,https://waarneming.nl/foto/view/318455,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Tyto alba,Tyto_alba_song_1.mp3,song,© Nunes D`Acosta,http://www.xeno-canto.org/39085,http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
 Vanellus vanellus,Vanellus_vanellus_call_1.mp3,call,© Patrick Franke,http://www.xeno-canto.org/162692,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Vanellus vanellus,Vanellus_vanellus_image_female_1.jpg,image_female,© Cock Reijnders,http://waarneming.nl/foto/view/3176331,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
@@ -950,30 +959,26 @@ Vanellus vanellus,Vanellus_vanellus_image_male_3.jpg,image_male,© René van Ros
 Vanellus vanellus,Vanellus_vanellus_image_male_4.jpg,image_male,© Koos Bakker,https://waarneming.nl/foto/view/13292308,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Vanellus vanellus,Vanellus_vanellus_image_male_5.jpg,image_male,© Rob de Lange,https://waarneming.nl/foto/view/172205,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Vanellus vanellus,Vanellus_vanellus_song_1.mp3,song,© Lars Theng,http://www.xeno-canto.org/120741,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
-Ardea alba,,,© Rob wijn,https://waarneming.nl/foto/view/12910286,https://creativecommons.org/licenses/by-sa/3.0/legalcode
-Ardea alba,,,© Marianne Slot,https://waarneming.nl/foto/view/12820220,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Ardea alba,,,© Ko Veldkamp,https://waarneming.nl/foto/view/12843335,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Ardea alba,,,© Cees Struijk,https://waarneming.nl/foto/view/12658657,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
-http://waarneming.nl/foto/view/4391504,,,,,
-Dendrocopos minor,,image_female,© William Price,https://waarneming.nl/foto/view/8306351,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Ardea alba,Ardea_alba_image_1.jpg,image,© Rob wijn,https://waarneming.nl/foto/view/12910286,https://creativecommons.org/licenses/by-sa/3.0/legalcode
+Ardea alba,Ardea_alba_image_2.jpg,image,© Marianne Slot,https://waarneming.nl/foto/view/12820220,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Ardea alba,Ardea_alba_image_3.jpg,image,© Ko Veldkamp,https://waarneming.nl/foto/view/12843335,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Ardea alba,Ardea_alba_image_4.jpg,image,© Cees Struijk,https://waarneming.nl/foto/view/12658657,https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Cygnus bewick,,image,© Bert Geelmuijden,http://waarneming.nl/foto/view/2928799,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Cygnus bewick,,image,© Rob wijn,https://waarneming.nl/foto/view/12479048,https://creativecommons.org/licenses/by-sa/3.0/legalcode
 Cygnus bewick,,image,© wils herwig,https://waarneming.nl/foto/view/12452464,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Cygnus bewick,,image,© Rob wijn,https://waarneming.nl/foto/view/9777789,https://creativecommons.org/licenses/by-sa/3.0/legalcode
 Cygnus bewick,,image,© Bert Geelmuijden,https://waarneming.nl/foto/view/9584742,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
-Cygnus bewick,,call,"© Tero Linjama, www.xeno-canto.org/164592",http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode,
-http://waarneming.nl/foto/view/348233,,,https://waarneming.nl/foto/view/347904,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode,
-http://waarneming.nl/foto/view/5879927,,,,https://waarneming.nl/foto/view/11886034,https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+Cygnus bewick,,call,© Tero Linjama,http://www.xeno-canto.org/164592,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Cyanistes caeruleus,,song,© Johan Roeland,http://www.xeno-canto.org/150052,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Asio otus,,song,© Patrik Åberg,http://www.xeno-canto.org/148921,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Athene noctua,,song,©&nbsp;Marcin Sołowiej,http://www.xeno-canto.org/140835,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Numenius arquata,,call,© Volker Arnold,http://www.xeno-canto.org/151293,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 Sylvia atricapilla,,song,© Johan Roeland,http://www.xeno-canto.org/150045,http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
 Alcedo atthis,,song,© Lars Lachmann,http://www.xeno-canto.org/130664,http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
-Pyrrhula pyrrhula,Pyrrhula_pyrrhula_image_male.jpg,image_male,"","",""
+Pyrrhula pyrrhula,Pyrrhula_pyrrhula_image_male_1.jpg,image_male,© Kathy Büscher,https://commons.wikimedia.org/wiki/Category:Pyrrhula_pyrrhula#/media/File:Gimpel_(4)_(34633279680).jpg,
 Pyrrhula pyrrhula,Pyrrhula_pyrrhula_image_male_2.jpg,image_male,© Francis C. Franklin,https://commons.wikimedia.org/wiki/Pyrrhula_pyrrhula#/media/File:Bullfinch_side-on.jpg,CC BY-SA 3.0
-Pyrrhula pyrrhula,Pyrrhula_pyrrhula_image_female.jpg,image_female,Estormiz,https://commons.wikimedia.org/wiki/Pyrrhula_pyrrhula#/media/File:Pyrrhula_Pyrrhula_Kittila_20120306.JPG,CC0
+Pyrrhula pyrrhula,Pyrrhula_pyrrhula_image_female_1.jpg,image_female,© Estormiz,https://commons.wikimedia.org/wiki/Pyrrhula_pyrrhula#/media/File:Pyrrhula_Pyrrhula_Kittila_20120306.JPG,CC0
 Pyrrhula pyrrhula,Pyrrhula_pyrrhula_image_female_2.jpg,image_female,© Francis C. Franklin,https://commons.wikimedia.org/wiki/Pyrrhula_pyrrhula#/media/File:Pyrrhula_pyrrhula_female_2.jpg,CC BY-SA 3.0
 Pyrrhula pyrrhula,Pyrrhula_pyrrhula_call.mp3,call,© Бубука,http://boobooka.com/zvuki/zvuki-ptic/zvuki-peniya-snegirya/,
-Pyrrhula pyrrhula,Pyrrhula_pyrrhula_song.mp3,song,© Бубука,http://boobooka.com/zvuki/zvuki-ptic/zvuki-peniya-snegirya/,""
-Pyrrhula pyrrhula,Pyrrhula_pyrrhula_dist.png,map,"",https://commons.wikimedia.org/wiki/File:PyrrhulaPyrrhulaIUCN2019-3.png,""
+Pyrrhula pyrrhula,Pyrrhula_pyrrhula_song.mp3,song,© Бубука,http://boobooka.com/zvuki/zvuki-ptic/zvuki-peniya-snegirya/,
+Pyrrhula pyrrhula,Pyrrhula_pyrrhula_dist.png,map,,https://commons.wikimedia.org/wiki/File:PyrrhulaPyrrhulaIUCN2019-3.png,

@@ -35,7 +35,7 @@ Delichon urbicum,common house martin,huiszwaluw,Mehlschwalbe,hirondelle de fenê
 Corvus monedula,western jackdaw,kauw,Dohle,choucas des tours,grajilla occidental,monedo,га́лка
 Tyto alba,barn owl,kerkuil,Schleiereule,chouette effraie,lechuza común,turstrigo,обыкнове́нная сипу́ха
 Vanellus vanellus,northern lapwing,kievit,Kiebitz,vanneau huppé,avefría europea,vanelo,чи́бис
-Dendrocopos minor,lesser spotted woodpecker,kleine bonte specht,Kleinspecht,pic épeichette,pico menor,malgranda buntpego,ма́лый пёстрый дя́тел
+Dryobates minor,lesser spotted woodpecker,kleine bonte specht,Kleinspecht,pic épeichette,pico menor,malgranda buntpego,ма́лый пёстрый дя́тел
 Acrocephalus scirpaceus,Eurasian reed warbler,kleine karekiet,Teichrohrsänger,rousserolle effarvatte,carricero común,kanbirdo,тростнико́вая камышо́вка
 Larus fuscus,lesser black-backed gull,kleine mantelmeeuw,Heringsmöwe,goéland brun,gaviota sombría,malhela mevo,клу́ша
 Cygnus columbianus bewickii,Bewick's swan (or subspecies of tundra swan),kleine zwaan (of ondersoort van fluitzwaan),Zwergschwan (oder Unterart von Pfeifschwan),cygne de Bewick (ou sous-espèce du cygne siffleur),cisne de Bewick (o subespecie de cisne chico),bevikka cigno (aŭ subspecio de malgranda cigno),ма́лый ле́бедь
@@ -43,12 +43,12 @@ Cygnus olor,mute swan,knobbelzwaan,Höckerschwan,cygne tuberculé,cisne vulgar,m
 Chroicocephalus ridibundus,black-headed gull,kokmeeuw,Lachmöwe,mouette rieuse,gaviota reidora,ridmevo,озёрная ча́йка
 Anser albifrons,greater white-fronted goose,kolgans,Blässgans,oie rieuse,ánsar careto,blankfrunta ansero,белоло́бый гу́сь
 Parus major,great tit,koolmees,Kohlmeise,mésange charbonnière,carbonero común,granda paruo,больша́я сини́ца
-Anas strepera,gadwall,krakeend,Schnatterente,canard chipeau,ánade friso,knaranaso,се́рая у́тка
+Mareca strepera,gadwall,krakeend,Schnatterente,canard chipeau,ánade friso,knaranaso,се́рая у́тка
 Aythya fuligula,tufted duck,kuifeend,Reiherente,fuligule morillon,porrón moñudo,tufanaso,хохла́тая че́рнеть
 Coturnix coturnix,common quail,kwartel,Wachtel,caille des blés,codorniz común,ordinara koturno,обыкнове́нный пе́репел
 Fulica atra,Eurasian coot,meerkoet,Blässhuhn,foulque macroule,focha común,nigra fuliko,лысу́ха
 Turdus merula,common blackbird,merel,Amsel,merle noir,mirlo común,merlo,чёрный дрозд
-Dendrocopos medius,middle spotted woodpecker,middelste bonte specht,Mittelspecht,pic mar,pico mediano,mezgranda buntpego,cре́дний пёстрый дя́тел
+Dendrocoptes medius,middle spotted woodpecker,middelste bonte specht,Mittelspecht,pic mar,pico mediano,mezgranda buntpego,cре́дний пёстрый дя́тел
 Alopochen aegyptiaca,Egyptian goose,nijlgans,Nilgans,ouette d'Égypte,ganso del Nilo,Egipta ansero,ни́льский гусь
 Bubo bubo,Eurasian eagle-owl,oehoe,Uhu,hibou grand-duc,búho real,gufo,обыкнове́нный фи́лин
 Riparia riparia,sand martin,oeverzwaluw,Uferschwalbe,hirondelle de rivage,avión zapador,bordhirundo,берегову́шка
@@ -66,8 +66,8 @@ Corvus frugilegus,rook,roek,Saatkrähe,corbeau freux,graja,frugilego,грач
 Erithacus rubecula,European robin,roodborst,Rotkelhchen,rouge-gorge familier,petirrojo europeo,ruĝgorĝulo,заря́нка
 Haematopus ostralegus,Eurasian oystercatcher,scholekster,Austernfischer,huîtrier pie,ostrero euroasiático,hematopo,кули́к-соро́ка
 Falco peregrinus,peregrine falcon,slechtvalk,Wanderfalke,faucon pèlerin,halcón peregrino,migra falko,сапса́н
-Anas clypeata,northern shoveler,slobeend,Löffelente,canard souchet,cuchara común,kuleranaso,широконо́ска
-Anas penelope,Eurasian wigeon,smient,Pfeifente,canard siffleur,silbón europeo,fajfanaso,свия́зь
+Spatula clypeata,northern shoveler,slobeend,Löffelente,canard souchet,cuchara común,kuleranaso,широконо́ска
+Mareca penelope,Eurasian wigeon,smient,Pfeifente,canard siffleur,silbón europeo,fajfanaso,свия́зь
 Accipiter nisus,Eurasian sparrowhawk,sperwer,Sperber,épervier d'Europe,gavilán común,nizo,я́стреб-перепеля́тник
 Sturnus vulgaris,common starling,spreeuw,Star,étourneau sansonnet,estornino pinto,sturno,обыкнове́нный скворе́ц
 Columba livia domestica,feral pigeon,stadsduif,Stadttaube,pigeon domestique,paloma doméstica,urbokolombo,cи́зый го́лубь
@@ -107,7 +107,7 @@ Chloris chloris,European greenfinch,groenling,Grünfink,verdier d'Europe,verder�
 Emberiza citrinella,yellowhammer,geelgors,Goldammer,bruant jaune,escribano cerillo,flava emberizo,обыкнове́нная овся́нка
 Spinus spinus,Eurasian siskin,sijs,Erlenzeisig,tarin des aulnes,lúgano,verda kardelo,чиж
 Ichthyaetus melanocephalus,Mediterranean gull,zwartkopmeeuw,Schwarzkopfmöwe,mouette mélanocéphale,gaviota cabecinegra,nigrakapa mevo,черноголо́вая ча́йка
-Sylvia communis,common whitethroat,grasmus,Dorngrasmücke,fauvette grisette,curruca zarcera,blankgorĝa silvio,се́рая сла́вка
+Curruca communis,common whitethroat,grasmus,Dorngrasmücke,fauvette grisette,curruca zarcera,blankgorĝa silvio,се́рая сла́вка
 Sylvia borin,garden warbler,tuinfluiter,Gartengrasmücke,fauvette des jardins,curruca mosquitera,ĝardensilvio,садо́вая сла́вка
 Acrocephalus palustris,marsh warbler,bosrietzanger,Sumpfrohrsänger,rousserolle verderolle,carricero políglota,grenokanbirdo,боло́тная камышо́вка
 Anthus pratensis,meadow pipit,graspieper,Wiesenpieper,pipit farlouse,"bisbita pratense, bisbita común",herbejpipio,лугово́й конёк
@@ -118,14 +118,35 @@ Linaria cannabina,common linnet,kneu,Bluthänfling,linotte mélodieuse,pardillo 
 Apus apus,common swift,gierzwaluw,Mauersegler,martinet noir,vencejo común,ordinara apuso,чёрный стриж
 Anthus trivialis,tree pipit,boompieper,Baumpieper,pipit des arbres,bisbita arbóreo,arbopipio,лесно́й конёк
 Pyrrhula pyrrhula,Eurasian bullfinch,goudvink,Gimpel,Bouvreuil pivoine,camachuelo común,pirolo,снеги́рь
-Phoenicurus ochruros,,,,,,,горихво́стка-черну́шка
-Turdus pilaris,,,,,,,ряби́нник
-Milvus milvus,,,,,,,кра́сный ко́ршун
-Ciconia ciconia,,,,,,,бе́лый а́ист
-Mergus merganser,,,,,,,большо́й кроха́ль
-Periparus ater,,,,,,,моско́вка
-Motacilla cinerea,,,,,,,го́рная трясогу́зка
-Bucephala clangula,,,,,,,обыкнове́нный го́голь
-Larus michahellis,,,,,,,средиземноморская чайка
-Milvus migrans,,,,,,,чёрный ко́ршун
-Grus grus,,,,,,,се́рый жура́вль
+Phoenicurus ochruros,,,Hausrotschwanz,,,,горихво́стка-черну́шка
+Turdus pilaris,,,Wacholderdrossel,,,,ряби́нник
+Milvus milvus,,,Rotmilan,,,,кра́сный ко́ршун
+Ciconia ciconia,,,Weißstorch,,,,бе́лый а́ист
+Mergus merganser,,,Gänsesäger,,,,большо́й кроха́ль
+Periparus ater,,,Tannenmeise,,,,моско́вка
+Motacilla cinerea,,,Gebirgsstelze,,,,го́рная трясогу́зка
+Bucephala clangula,,,Schellente,,,,обыкнове́нный го́голь
+Larus michahellis,,,Mittelmeermöwe,,,,средиземноморская чайка
+Milvus migrans,,,Schwarzmilan,,,,чёрный ко́ршун
+Grus grus,,,Kranich,,,,се́рый жура́вль
+Tadorna tadorna,,,Brandgans,,,,
+Serinus serinus,,,Girlitz,,,,
+Regulus ignicapilla,,,Sommergoldhähnchen,,,,
+Lanius collurio,,,Neuntöter,,,,
+Gallinago gallinago,,,Bekassine,,,,
+Lophophanes cristatus,,,Haubenmeise,,,,
+Turdus iliacus,,,Rotdrossel,,,,
+Saxicola rubicola,,,Schwarzkehlchen,,,,
+Luscinia megarhynchos,,,Nachtigall,,,,
+Luscinia luscinia,,,Sprosser,,,,
+Phylloscopus sibilatrix,,,Waldlaubsänger,,,,
+Sterna hirundo,,,Flussseeschwalbe,,,,
+Certhia familiaris,,,Waldbaumläufer,,,,
+Loxia curvirostra,,,Fichtenkreuzschnabel,,,,
+Psittacula krameri,,,Halsbandsittich,,,,
+Phoenicurus phoenicurus,,,Gartenrotschwanz,,,,
+Ficedula hypoleuca,,,Trauerschnäpper,,,,
+Muscicapa striata,,,Grauschnäpper,,,,
+Curruca curruca,,,Klappergrasmücke,,,,
+Fringilla montifringilla,,,Bergfink,,,,
+Hippolais icterina,,,Gelbspötter,,,,
