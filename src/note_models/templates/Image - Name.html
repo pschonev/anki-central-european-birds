@@ -5,10 +5,12 @@ Name the bird in this picture:<br>
 <script>
 var images = '{{Image}}';
 var imagesArray = images.split("|");
+
 var now = new Date();
 var second = Math.floor(now/30000);
 var imageNo = second % imagesArray.length;
 var chosenImage = imagesArray[imageNo];
+
 document.getElementById("image").innerHTML = chosenImage;
 </script>
 {{/Image}}

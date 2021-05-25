@@ -1,46 +1,11 @@
-- build_parts:
-  - note_model_templates_from_html:
-      - part_id: Image - Name
-        html_file: src/note_models/templates/Image - Name.html
-      - part_id: Image Female - Name
-        html_file: src/note_models/templates/Image Female - Name.html
-      - part_id: Image Male - Name
-        html_file: src/note_models/templates/Image Male - Name.html
-      - part_id: Call - Name
-        html_file: src/note_models/templates/Call - Name.html
-      - part_id: Song - Name
-        html_file: src/note_models/templates/Song - Name.html
-  - note_model_from_html_parts:
-      part_id: Central European Birds
-      model_name: Central European Birds
-      model_id: 43e2586a-9a66-11e8-a778-a0481cc15657
-      css_file: src/note_models/style.css
-      fields: &all_fields
-        - name: Name
-          font: Arial
-        - name: Scientific Name
-          font: Arial
-        - name: Appearance
-          font: Arial
-        - name: Image
-          font: Arial
-        - name: Image Female
-          font: Arial
-        - name: Image Male
-          font: Arial
-        - name: Call
-          font: Arial
-        - name: Song
-          font: Arial
-        - name: Freq
-          font: Arial
-      templates:
-        - Image - Name
-        - Image Female - Name
-        - Image Male - Name
-        - Call - Name
-        - Song - Name
+- generate_guids_in_csv:
+    source: src/data/main.csv
+    columns: [ guid ]
 
+- build_parts:
+  - note_model_from_yaml_part:
+        part_id: Central European Birds
+        file: src/note_models/Central European Birds.yaml
 
   - headers_from_yaml_part:
       - part_id: default header
@@ -69,8 +34,16 @@
               Image: Image
               image_male: Image Male
               image_female: Image Female 
-              Call: Call
-              Song: Song
+              call_1: Call1
+              call_2: Call2
+              call_3: Call3
+              call_4: Call4
+              call_5: Call5
+              song_1: Song1
+              song_2: Song2
+              song_3: Song3
+              song_4: Song4
+              song_5: Song5
               Freq: Freq
 
               Name:en          : Name
@@ -84,8 +57,8 @@
           derivatives:
             - file: src/data/appearance.csv
             - file: src/data/name.csv
-
-      generate_guids: true
+            - file: src/data/image.csv
+            - file: src/data/audio.csv
 
   - notes_from_csvs:
       part_id: german
@@ -191,6 +164,7 @@
     folder: build/Central European Birds [EN]
     notes:
       part_id: english
+
 - generate_crowd_anki:
     <<: *default_crowd_anki_gen
     folder: build/Central European Birds [DE]

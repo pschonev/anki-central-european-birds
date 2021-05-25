@@ -1,0 +1,50 @@
+name: Central European Birds
+id: 057a8d66-bc4e-11e9-9822-d8cb8ac9abf0
+css_file: src/note_models/style.css
+fields:
+  - name: Name
+    font: Arial
+    font_size: 12
+  - name: Scientific Name
+  - name: Appearance
+  - name: Image
+  - name: Image Female
+  - name: Image Male
+  - name: Call1
+  - name: Call2
+  - name: Call3
+  - name: Call4
+  - name: Call5   
+  - name: Song1
+  - name: Song2
+  - name: Song3
+  - name: Song4
+  - name: Song5
+  - name: Freq
+templates:
+  - name: Image - Name
+    html_file: src/note_models/templates/Image - Name.html
+  - name: Image Female - Name
+    html_file: src/note_models/templates/Image Female - Name.html
+  - name: Image Male - Name
+    html_file: src/note_models/templates/Image Male - Name.html
+  - name: Call1 - Name
+    html_file: src/note_models/templates/Call1 - Name.html
+  - name: Call2 - Name
+    html_file: src/note_models/templates/Call2 - Name.html
+  - name: Call3 - Name
+    html_file: src/note_models/templates/Call3 - Name.html
+  - name: Call4 - Name
+    html_file: src/note_models/templates/Call4 - Name.html
+  - name: Call5 - Name
+    html_file: src/note_models/templates/Call5 - Name.html
+  - name: Song1 - Name
+    html_file: src/note_models/templates/Song1 - Name.html
+  - name: Song2 - Name
+    html_file: src/note_models/templates/Song2 - Name.html
+  - name: Song3 - Name
+    html_file: src/note_models/templates/Song3 - Name.html
+  - name: Song4 - Name
+    html_file: src/note_models/templates/Song4 - Name.html
+  - name: Song5 - Name
+    html_file: src/note_models/templates/Song5 - Name.html
