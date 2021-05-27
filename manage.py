@@ -81,7 +81,9 @@ def source_to_csv():
 
     # images
     image_types = [mt for mt in df.media_type.unique().tolist() if mt not in ['call', 'song']]
-    df_image = df.where(df.media_type.isin(image_types)).dropna(how="all").pivot_table(values="filename", index=df.name, columns=df.media_type, aggfunc="|".join)
+    df_image = df.where(df.media_type.isin(image_types)).dropna(how="all")
+    df_image.filename = df_image.filename.apply(lambda x: f"<img src=\"{x}\">")
+    df_image = df_image.pivot_table(values="filename", index=df_image.name, columns=df_image.media_type, aggfunc="|".join)
 
     print(df_audio)
     df_audio.to_csv(audiocsv)
@@ -110,11 +112,12 @@ def brainbrew(recipe_path):
         os.remove(file)
 
 @main.command()
-@click.option('--s', default=640)
+@click.option('-s', default=640)
 def resize_images(s):
     # resize all images in media file to have a maximum length s for either side
     path = "src/media/"
     files = [x for x in os.listdir(path) if x.endswith(".jpg")]
+    files = [x for x in files if not x.startswith("_")]
     resize(files, s, path)
 
 
@@ -125,6 +128,7 @@ def check_database():
     df = pd.read_csv(filename)
     p = Path(r'src/media').glob('**/*')
     files = [x.name for x in p if x.is_file()]
+    files = [x for x in files if not x.startswith("_")]
 
     print("\nIn media folder but not in source file:\n")
     for file in list(set(files) - set(df.filename.to_list())):
