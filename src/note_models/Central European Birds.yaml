@@ -20,6 +20,7 @@ fields:
   - name: Song3
   - name: Song4
   - name: Song5
+  - name: Size
   - name: Freq
 templates:
   - name: Image - Name

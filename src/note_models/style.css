@@ -96,3 +96,84 @@
 hr {
   margin: 1.5em 0;
 }
+
+.item1 { grid-area: fact; }
+.item2 { grid-area: map; }
+.item3 { 
+	grid-area: food; 
+	text-align: left;
+}
+.item4 { 
+	grid-area: habitat; 
+	text-align: right;
+}
+.item5 { 
+  grid-area: sizeScale; 
+  position: relative;
+}
+.item6 { grid-area: links; }
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'fact fact fact fact fact fact'
+	'sizeScale sizeScale sizeScale habitat habitat habitat'
+    'food food map map map map '
+ 	'links links links links links links';
+  grid-gap: 7px;
+  background-color: grey;
+  padding:10px;
+}
+
+
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 20px 20px;
+  font-size: 2.9vw;
+
+}
+
+
+
+.item3 > p:before {
+  content: '';
+	width: 5vw;
+	height: 5vw;
+	left: 0;
+	display: inline-flex;
+	background: url("_burger.png") no-repeat;
+	background-size: 5vw;
+
+}
+
+.item4 > p:after {
+  content: '';
+	width: 5vw;
+	height: 5vw;
+	left: 0;
+	display: inline-flex;
+	background: url("_trees.png") no-repeat;
+	background-size: 5vw;
+
+}
+
+.nightMode .grid-container {
+	background-color: rgba(255,255,255,0.1);
+
+}
+.nightMode .grid-container > div{
+	background-color: black;
+}
+
+
+#sizeScaleCanvas{
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.nightMode #sizeScaleCanvas {
+filter: invert(100%);
+opacity: 0.9;
+}

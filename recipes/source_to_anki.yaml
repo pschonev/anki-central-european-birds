@@ -44,6 +44,7 @@
               song_3: Song3
               song_4: Song4
               song_5: Song5
+              size: Size
               Freq: Freq
 
               Name:en          : Name
