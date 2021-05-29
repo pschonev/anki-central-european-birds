@@ -95,6 +95,45 @@ def source_to_csv():
         print(mt)
 
 
+@main.command()
+def source_to_csv():
+    # source.csv split up to audio.csv and image.csv
+# %%
+import pandas as pd 
+import numpy as np
+
+def translate(seq, tdict):
+    try:
+        words = seq.replace(" ","").split(",")
+    except:
+        return np.nan
+    translated_words = [tdict[word] for word in words if word]
+    try:
+        translated_words = ", ".join(translated_words)
+        return translated_words
+    except TypeError:
+        return np.nan
+
+
+df = pd.read_csv("src/data/main.csv")
+habitats = pd.read_csv("src/data/habitats.csv")
+foods = pd.read_csv("src/data/foods.csv")
+
+for lang in habitats.columns:
+    translations = pd.Series(habitats[lang].values,habitats.en).to_dict()
+    if lang != "en":
+        df[f"habitat:{lang}"] = df["habitat:en"].map(
+            lambda seq: translate(seq, translations),
+            na_action="ignore")
+for lang in foods.columns:
+    translations = pd.Series(foods[lang].values,foods.en).to_dict()
+    if lang != "en":
+        df[f"food:{lang}"] = df["food:en"].map(
+            lambda seq: translate(seq, translations),
+            na_action="ignore")
+df
+
+# %%
 
 @main.command()
 @click.argument('recipe_path', type=click.Path(exists=True))
