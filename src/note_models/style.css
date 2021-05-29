@@ -97,39 +97,52 @@ hr {
   margin: 1.5em 0;
 }
 
-.item1 { grid-area: fact; }
-.item2 { grid-area: map; }
+.item1 { 
+	grid-area: fact;
+	font-size: 2.5vw; 
+}
+.item2 { 
+	grid-area: map; 
+}
 .item3 { 
 	grid-area: food; 
-	text-align: left;
+	font-size: 2.5vw;
 }
 .item4 { 
-	grid-area: habitat; 
-	text-align: right;
+	grid-area: habitat;
+	font-size: 2.3vw; 
 }
 .item5 { 
   grid-area: sizeScale; 
   position: relative;
+	font-size: 2.5vw; 
 }
-.item6 { grid-area: links; }
+.item6 { 
+	grid-area: links; 
+	font-size: 2.5vw; 
+}
+.item7 { 
+	grid-area: desc; 
+	font-size: 2.5vw;
+}
 
 .grid-container {
   display: grid;
   grid-template-areas:
     'fact fact fact fact fact fact'
-	'sizeScale sizeScale sizeScale habitat habitat habitat'
-    'food food map map map map '
+	'sizeScale sizeScale desc desc desc desc'
+  'food map map map map map'
+'habitat map map map map map'
  	'links links links links links links';
   grid-gap: 7px;
-  background-color: grey;
   padding:10px;
 }
 
 
 .grid-container > div {
-  background-color: rgba(255, 255, 255, 1);
-  padding: 20px 20px;
-  font-size: 2.9vw;
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 3vw 3vw 3vw 3vw;
+	text-align:justify-all;
 
 }
 
@@ -146,7 +159,7 @@ hr {
 
 }
 
-.item4 > p:after {
+.item4 > p:before {
   content: '';
 	width: 5vw;
 	height: 5vw;
@@ -155,6 +168,10 @@ hr {
 	background: url("_trees.png") no-repeat;
 	background-size: 5vw;
 
+}
+
+.item2 > img { 
+	box-shadow: 10px -10px 6px -10px grey;
 }
 
 .nightMode .grid-container {

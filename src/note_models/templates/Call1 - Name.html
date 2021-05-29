@@ -5,19 +5,26 @@
 
 --
 
-{{FrontSide}}
-
 {{#Image}}
 <div id="image"></div>
 
 <script>
-var images = '{{Image}}';
+function nextImage() {
+if (imageNo+1 === imagesArray.length) {
+  imageNo = 0;
+} else {
+  imageNo = imageNo + 1;
+}
+document.getElementById("image").innerHTML = imagesArray[imageNo];
+}
+
+var images = '{{Image Male}}';
 var imagesArray = images.split("|");
 var now = new Date();
-var second = Math.floor(now/120000);
+var second = Math.floor(now/30000);
 var imageNo = second % imagesArray.length;
-var chosenImage = imagesArray[imageNo];
-document.getElementById("image").innerHTML = chosenImage;
+document.getElementById("image").innerHTML = imagesArray[imageNo];
+document.getElementById("image").addEventListener('click', nextImage);
 </script>
 {{/Image}}
 {{^Image}}
@@ -25,39 +32,50 @@ document.getElementById("image").innerHTML = chosenImage;
 <div id="image"></div>
 
 <script>
+function nextImage() {
+if (imageNo+1 === imagesArray.length) {
+  imageNo = 0;
+} else {
+  imageNo = imageNo + 1;
+}
+document.getElementById("image").innerHTML = imagesArray[imageNo];
+}
+
 var images = '{{Image Male}}';
 var imagesArray = images.split("|");
 var now = new Date();
 var second = Math.floor(now/30000);
 var imageNo = second % imagesArray.length;
-var chosenImage = imagesArray[imageNo];
-document.getElementById("image").innerHTML = chosenImage;
+document.getElementById("image").innerHTML = imagesArray[imageNo];
+document.getElementById("image").addEventListener('click', nextImage);
 </script>
 {{/Image Male}}
 {{/Image}}
 
-<hr id=answer>
+{{FrontSide}}
 
 {{Name}}
 <br>
 {{Scientific Name}}
 <br>
+<br>
 
 <div class="grid-container">
-    <div class="item1">Random fact about birds: They are technically dinosaurs!</div>
-    <div class="item2"> <img src="_TurdusMerulaMap.png"/></div>
-    <div class="item3"><p> Nutella, Frozen Pizza, Ice Cream, Raisins</p></div>  
-    <div class="item4"><p>Basements, Mars, Deep in the scary forests</p></div>
-    <div class="item5">
-            <img id="sizeScaleImg" src="_scale.png" />
-            <canvas id="sizeScaleCanvas" ></canvas>
-          <div id="sizeDesc">{{Size}}cm</div>
-      </div>
-    <div class="item6"><a href="https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/index.html"> NABU </a> - <a href="https://de.wikipedia.org/wiki/Liste_der_V%C3%B6gel_Deutschlands"> Wikipedia </a> - <a href="https://ebird.org/explore"> eBird </a> - <a href="https://www.lbv.de/ratgeber/naturwissen/artenportraits/kategorie/V%C3%B6gel/"> LBV </a></div>
-  </div>
-  
-  
-  <script>
+  <div class="item1">Random fact about birds: They are technically dinosaurs! </div>
+  <div class="item2"> <img src="_TurdusMerulaMap.png"/></div>
+  <div class="item3"><p> Nutella, Frozen Pizza, Ice Cream, Raisins</p></div>  
+  <div class="item4"><p>Basements, Mars, Deep in the scary forests</p></div>
+  <div class="item5">
+          <img id="sizeScaleImg" src="_scale.png" />
+          <canvas id="sizeScaleCanvas" ></canvas>
+        <div id="sizeDesc">{{Size}}cm</div>
+    </div>
+  <div class="item6"><a href="https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/index.html"> NABU </a> - <a href="https://de.wikipedia.org/wiki/Liste_der_V%C3%B6gel_Deutschlands"> Wikipedia </a> - <a href="https://ebird.org/explore"> eBird </a> - <a href="https://www.lbv.de/ratgeber/naturwissen/artenportraits/kategorie/V%C3%B6gel/"> LBV </a></div>
+<div class="item7" id="descDiv"><p id="descText">Common bird in Central Europe with a rich caroling song often heard in urban and suburban neighborhoods with trees and hedges. Common bird in Central Europe with a rich caroling song often heard in urban and suburban neighborhoods with trees and hedges. </p>
+
+</div>
+
+<script>
   function docReady(fn) {
       // see if DOM is already available
       if (document.readyState === "complete" || document.readyState === "interactive") {
@@ -77,13 +95,17 @@ document.getElementById("image").innerHTML = chosenImage;
       var scaleBirdSize = 0.51854 * Math.log(0.0729101*birdSize);
       scaleBirdSize = Math.min(Math.max(scaleBirdSize, 0.005), 0.98);
   
-      cnvs.width = image.width;
-      cnvs.height = image.height;
+
   
-      ctx = cnvs.getContext('2d');
+      
       var img = new Image();
       img.onload = function() {
-              ctx.drawImage(img, 0, 0, image.width,    image.height,     // source rectangle
+            ctx = cnvs.getContext('2d');
+
+            cnvs.width = img.width;
+            cnvs.height = img.height;
+          
+            ctx.drawImage(img, 0, 0, image.width,image.height, // source rectangle
                      0, 0, cnvs.width, cnvs.height); // destination rectangle
       
           w = cnvs.width;
@@ -104,11 +126,39 @@ document.getElementById("image").innerHTML = chosenImage;
           ctx.stroke();
   
           };
-      img.src = '_scale.png';
-  
-      image.remove();
+  img.src = '_scale.png';
+  image.remove();
+
   }
   
   docReady(load_scale);
   
+var textDiv = document.getElementById('descDiv');
+var textHolder = document.getElementById('descText');
+var fullText = textHolder.innerHTML;
+var textStatus = 'full';
+
+function Truancate(textHolder, _limit) {
+let txt = textHolder.innerHTML;
+if (txt.length > _limit) {
+  let newText = txt.substr(0, _limit) + '[...]';
+  textHolder.innerHTML = newText;
+  textStatus = 'truncated';
+}
+}
+
+function toggleText() {
+// here i want to show full text...
+// and also -> btn.innerHTML = 'Hide Text' | 'Show Text;
+if (textStatus === 'truncated') {
+  textHolder.innerHTML = fullText;
+  textStatus = 'full';
+} else {
+  Truancate(textHolder, 100);
+}
+}
+
+Truancate(textHolder, 100);
+
+textDiv.addEventListener('click', toggleText);
   </script>
