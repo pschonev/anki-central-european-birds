@@ -22,6 +22,7 @@ fields:
   - name: Song5
   - name: Size
   - name: Freq
+  - name: Description
 templates:
   - name: Image - Name
     html_file: src/note_models/templates/Image - Name.html

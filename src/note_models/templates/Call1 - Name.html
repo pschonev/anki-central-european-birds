@@ -18,7 +18,7 @@ if (imageNo+1 === imagesArray.length) {
 document.getElementById("image").innerHTML = imagesArray[imageNo];
 }
 
-var images = '{{Image Male}}';
+var images = '{{Image}}';
 var imagesArray = images.split("|");
 var now = new Date();
 var second = Math.floor(now/30000);
@@ -71,8 +71,7 @@ document.getElementById("image").addEventListener('click', nextImage);
         <div id="sizeDesc">{{Size}}cm</div>
     </div>
   <div class="item6"><a href="https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/index.html"> NABU </a> - <a href="https://de.wikipedia.org/wiki/Liste_der_V%C3%B6gel_Deutschlands"> Wikipedia </a> - <a href="https://ebird.org/explore"> eBird </a> - <a href="https://www.lbv.de/ratgeber/naturwissen/artenportraits/kategorie/V%C3%B6gel/"> LBV </a></div>
-<div class="item7" id="descDiv"><p id="descText">Common bird in Central Europe with a rich caroling song often heard in urban and suburban neighborhoods with trees and hedges. Common bird in Central Europe with a rich caroling song often heard in urban and suburban neighborhoods with trees and hedges. </p>
-
+  <div class="item7" id="descDiv"><p id="descText">{{Description}}</p>
 </div>
 
 <script>

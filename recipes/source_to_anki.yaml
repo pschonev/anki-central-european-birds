@@ -49,6 +49,8 @@
 
               Name:en          : Name
               Appearance:en     : Appearance
+              desc:en           : Description
+
 
           personal_fields: [ ]
 
@@ -60,6 +62,8 @@
             - file: src/data/name.csv
             - file: src/data/image.csv
             - file: src/data/audio.csv
+            - file: src/data/description.csv
+            - file: src/data/info.csv
 
   - notes_from_csvs:
       part_id: german
@@ -72,6 +76,7 @@
 
             Name:de          : Name
             Appearance:de     : Appearance
+            desc:de           : Description
 
           personal_fields: [ ]
 
@@ -87,6 +92,7 @@
 
             Name:es          : Name
             Appearance:es     : Appearance
+            desc:es           : Description
 
           personal_fields: [ ]
 
@@ -102,6 +108,7 @@
 
             Name:fr          : Name
             Appearance:fr     : Appearance
+            desc:fr           : Description
 
           personal_fields: [ ]
 
@@ -117,6 +124,7 @@
 
             Name:eo          : Name
             Appearance:eo     : Appearance
+            desc:eo           : Description
 
           personal_fields: [ ]
 
@@ -132,6 +140,7 @@
 
             Name:ru          : Name
             Appearance:ru     : Appearance
+            desc:ru           : Description
 
           personal_fields: [ ]
 
@@ -147,6 +156,7 @@
 
             Name:nl          : Name
             Appearance:nl     : Appearance
+            desc:nl           : Description
 
           personal_fields: [ ]
 

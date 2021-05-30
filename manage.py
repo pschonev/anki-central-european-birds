@@ -5,6 +5,7 @@
 from pathlib import Path
 from PIL import Image
 import pandas as pd
+import numpy as np
 import subprocess
 import click
 import sys
@@ -15,6 +16,21 @@ import os
 @click.group()
 def main():
     pass
+
+def translate(seq, tdict):
+    # check if :en is nan
+    try:
+        words = seq.replace(" ","").split(",")
+    except:
+        return np.nan
+    # check if en word is in dictionary
+    translated_words = [tdict[word] for word in words if word in tdict]
+    # check if any words were translated
+    try:
+        translated_words = ", ".join(translated_words)
+        return translated_words
+    except TypeError:
+        return np.nan
 
 
 def copy_file(path, name, number):
@@ -59,7 +75,7 @@ def resize(files, new_size, path):
 
 
 @main.command()
-def source_to_csv():
+def prepare_data():
     # source.csv split up to audio.csv and image.csv
 
     sourcescsv = "sources.csv"
@@ -94,46 +110,25 @@ def source_to_csv():
     for mt in df.media_type.unique().tolist():
         print(mt)
 
+    # habitat and food translation
+    df = pd.read_csv("src/data/info.csv")
+    habitats = pd.read_csv("src/data/habitats.csv")
+    foods = pd.read_csv("src/data/foods.csv")
 
-@main.command()
-def source_to_csv():
-    # source.csv split up to audio.csv and image.csv
-# %%
-import pandas as pd 
-import numpy as np
+    for lang in habitats.columns:
+        translations = pd.Series(habitats[lang].values,habitats.en).to_dict()
+        if lang != "en":
+            df[f"habitat:{lang}"] = df["habitat:en"].map(
+                lambda seq: translate(seq, translations),
+                na_action="ignore")
+    for lang in foods.columns:
+        translations = pd.Series(foods[lang].values,foods.en).to_dict()
+        if lang != "en":
+            df[f"food:{lang}"] = df["food:en"].map(
+                lambda seq: translate(seq, translations),
+                na_action="ignore")
+    df.to_csv("src/data/info.csv")
 
-def translate(seq, tdict):
-    try:
-        words = seq.replace(" ","").split(",")
-    except:
-        return np.nan
-    translated_words = [tdict[word] for word in words if word]
-    try:
-        translated_words = ", ".join(translated_words)
-        return translated_words
-    except TypeError:
-        return np.nan
-
-
-df = pd.read_csv("src/data/main.csv")
-habitats = pd.read_csv("src/data/habitats.csv")
-foods = pd.read_csv("src/data/foods.csv")
-
-for lang in habitats.columns:
-    translations = pd.Series(habitats[lang].values,habitats.en).to_dict()
-    if lang != "en":
-        df[f"habitat:{lang}"] = df["habitat:en"].map(
-            lambda seq: translate(seq, translations),
-            na_action="ignore")
-for lang in foods.columns:
-    translations = pd.Series(foods[lang].values,foods.en).to_dict()
-    if lang != "en":
-        df[f"food:{lang}"] = df["food:en"].map(
-            lambda seq: translate(seq, translations),
-            na_action="ignore")
-df
-
-# %%
 
 @main.command()
 @click.argument('recipe_path', type=click.Path(exists=True))
