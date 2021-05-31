@@ -99,31 +99,31 @@ hr {
 
 .item1 { 
 	grid-area: fact;
-	font-size: 2.5vw; 
+	font-size: 2.9vw; 
 }
 .item2 { 
 	grid-area: map; 
 }
 .item3 { 
 	grid-area: food; 
-	font-size: 2.5vw;
+	font-size: 2.7vw;
 }
 .item4 { 
 	grid-area: habitat;
-	font-size: 2.3vw; 
+	font-size: 2.9vw; 
 }
 .item5 { 
   grid-area: sizeScale; 
   position: relative;
-	font-size: 2.5vw; 
+	font-size: 2.7vw; 
 }
 .item6 { 
 	grid-area: links; 
-	font-size: 2.5vw; 
+	font-size: 3.0vw; 
 }
 .item7 { 
 	grid-area: desc; 
-	font-size: 2.5vw;
+	font-size: 2.7vw;
 }
 
 .grid-container {
@@ -134,7 +134,7 @@ hr {
   'food map map map map map'
 'habitat map map map map map'
  	'links links links links links links';
-  grid-gap: 7px;
+  grid-gap: 3px;
   padding:10px;
 }
 
@@ -171,6 +171,10 @@ hr {
 }
 
 .item2 > img { 
+	box-shadow: 10px -10px 6px -10px grey;
+}
+
+#image > img { 
 	box-shadow: 10px -10px 6px -10px grey;
 }
 
