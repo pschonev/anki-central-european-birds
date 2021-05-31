@@ -1,165 +1,178 @@
-name,size,wspan,weight,habitat:en,food:en,taxonomy,habitat:nl,habitat:de,habitat:fr,habitat:es,habitat:eo,habitat:ru,food:nl,food:de,food:fr,food:es,food:eo,food:ru
-Turdus merula,23-29,,,"forests, parks, gardens","earthworms, insects, beetles, fruits",Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Turdidae</div><div>Genus&nbsp;<i>Turdus</i></div>,,"Wälder, Parks, Gärten",,,,,,"Regenwürmer, Insekten, Käfer, Früchte",,,,
-Parus major,13-15,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Paridae</div><div>Genus&nbsp;<i>Parus</i></div>,,,,,,,,,,,,
-Corvus corone,45-49,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Corvidae</div><div>Genus&nbsp;<i>Corvus</i></div>,,,,,,,,,,,,
-Columba palumbus,38-43,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Columbiformes</div><div>Family Columbidae</div><div>Genus&nbsp;<i>Columba</i></div>,,,,,,,,,,,,
-Cyanistes caeruleus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Paridae</div><div>Genus&nbsp;<i>Cyanistes</i></div>,,,,,,,,,,,,
-Fringilla coelebs,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Fringillidae</div><div>Genus&nbsp;<i>Fringilla</i></div>,,,,,,,,,,,,
-Anas platyrhynchos,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Anas</i></div>,,,,,,,,,,,,
-Erithacus rubecula,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Muscicapidae</div><div>Genus&nbsp;<i>Erithacus</i></div>,,,,,,,,,,,,
-Pica pica,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Corvidae</div><div>Genus&nbsp;<i>Pica</i></div>,,,,,,,,,,,,
-Sturnus vulgaris,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Sturnidae</div><div>Genus&nbsp;<i>Sturnus</i></div>,,,,,,,,,,,,
-Dendrocopos major,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Piciformes</div><div>Family Picidae</div><div>Genus&nbsp;<i>Dendrocopos</i></div>,,,,,,,,,,,,
-Passer domesticus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Passeridae</div><div>Genus&nbsp;<i>Passer</i></div>,,,,,,,,,,,,
-Buteo buteo,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Accipitriformes</div><div>Family Accipitridae</div><div>Genus&nbsp;<i>Buteo</i></div>,,,,,,,,,,,,
-Ardea cinerea,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Pelecaniformes</div><div>Family Ardeidae</div><div>Genus&nbsp;<i>Ardea</i></div>,,,,,,,,,,,,
-Phylloscopus collybita,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Phylloscopidae</div><div>Genus <i>Phylloscopus</i></div>,,,,,,,,,,,,
-Troglodytes troglodytes,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Troglodytidae</div><div>Genus<i>&nbsp;Troglodytes</i></div>,,,,,,,,,,,,
-Garrulus glandarius,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Corvidae</div><div>Genus&nbsp;<i>Garrulus</i></div>,,,,,,,,,,,,
-Phalacrocorax carbo,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Suliformes</div><div>Family Phalacrocoracidae</div><div>Genus&nbsp;<i>Phalacrocorax</i></div>,,,,,,,,,,,,
-Sitta europaea,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Sittidae</div><div>Genus&nbsp;<i>Sitta</i></div>,,,,,,,,,,,,
-Fulica atra,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Gruiformes</div><div>Family Rallidae</div><div>Genus&nbsp;<i>Fulica</i></div>,,,,,,,,,,,,
-Chloris chloris,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Fringillidae</div><div>Genus <i>Chloris</i></div>,,,,,,,,,,,,
-Motacilla alba,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Motacillidae</div><div>Genus <i>Motacilla</i></div>,,,,,,,,,,,,
-Sylvia atricapilla,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Sylviidae</div><div>Genus&nbsp;<i>Sylvia</i></div>,,,,,,,,,,,,
-Cygnus olor,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Cygnus</i></div>,,,,,,,,,,,,
-Anser anser,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Anser</i></div>,,,,,,,,,,,,
-Carduelis carduelis,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Fringillidae</div><div>Genus&nbsp;<i>Carduelis</i></div>,,,,,,,,,,,,
-Falco tinnunculus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Falconiformes</div><div>Family Falconidae</div><div>Genus&nbsp;<i>Falco</i></div>,,,,,,,,,,,,
-Chroicocephalus ridibundus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Laridae</div><div>Genus&nbsp;<i>Chroicocephalus</i></div>,,,,,,,,,,,,
-Hirundo rustica,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Hirundinidae</div><div>Genus&nbsp;<i>Hirundo</i></div>,,,,,,,,,,,,
-Aythya fuligula,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Aythya</i></div>,,,,,,,,,,,,
-Emberiza citrinella,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Emberizidae</div><div>Genus <i>Emberiza</i></div>,,,,,,,,,,,,
-Columba livia domestica,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Columbiformes</div><div>Family Columbidae</div><div>Genus&nbsp;<i>Columba</i></div>,,,,,,,,,,,,
-Turdus philomelos,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Turdidae</div><div>Genus&nbsp;<i>Turdus</i></div>,,,,,,,,,,,,
-Alopochen aegyptiaca,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Alopochen</i></div>,,,,,,,,,,,,
-Podiceps cristatus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Podicipediformes</div><div>Family Podicipedidae</div><div>Genus&nbsp;<i>Podiceps</i></div>,,,,,,,,,,,,
-Phoenicurus ochruros,,,,,,,,,,,,,,,,,,
-Turdus pilaris,,,,,,,,,,,,,,,,,,
-Passer montanus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Passeridae</div><div>Genus&nbsp;<i>Passer</i></div>,,,,,,,,,,,,
-Corvus monedula,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Corvidae</div><div>Genus&nbsp;<i>Corvus</i>&nbsp;or&nbsp;<i>Coloeus</i></div>,,,,,,,,,,,,
-Phoenicurus ochruros,,,,,,,,,,,,,,,,,,
-Apus apus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Apodiformes</div><div>Family Apodidae</div><div>Genus&nbsp;<i>Apus</i></div>,,,,,,,,,,,,
-Turdus pilaris,,,,,,,,,,,,,,,,,,
-Certhia brachydactyla,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Certhiidae</div><div>Genus&nbsp;<i>Certhia</i></div>,,,,,,,,,,,,
-Gallinula chloropus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Gruiformes</div><div>Family Rallidae</div><div>Genus&nbsp;<i>Gallinula</i></div>,,,,,,,,,,,,
-Ardea alba,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Pelecaniformes</div><div>Family Ardeidae</div><div>Genus&nbsp;<i>Ardea</i></div>,,,,,,,,,,,,
-Delichon urbicum,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Hirundinidae</div><div>Genus&nbsp;<i>Delichon</i></div>,,,,,,,,,,,,
-Mareca strepera,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Anas</i></div>,,,,,,,,,,,,
-Prunella modularis,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Prunellidae</div><div>Genus&nbsp;<i>Prunella</i></div>,,,,,,,,,,,,
-Aegithalos caudatus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Aegithalidae</div><div>Genus&nbsp;<i>Aegithalos</i></div>,,,,,,,,,,,,
-Alauda arvensis,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Alaudidae</div><div>Genus&nbsp;<i>Alauda</i></div>,,,,,,,,,,,,
-Branta canadensis,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Branta</i></div>,,,,,,,,,,,,
-Streptopelia decaocto,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Columbiformes</div><div>Family Columbidae</div><div>Genus&nbsp;<i>Streptopelia</i></div>,,,,,,,,,,,,
-Poecile palustris,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Paridae</div><div>Genus&nbsp;<i>Poecile</i></div>,,,,,,,,,,,,
-Tachybaptus ruficollis,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Podicipediformes</div><div>Family Podicipedidae</div><div>Genus&nbsp;<i>Tachybaptus</i></div>,,,,,,,,,,,,
-Milvus milvus,,,,,,,,,,,,,,,,,,
-Pyrrhula pyrrhula,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Fringillidae</div><div>Genus&nbsp;<i>Pyrrhula</i></div>,,,,,,,,,,,,
-Vanellus vanellus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Charadriidae</div><div>Genus&nbsp;<i>Vanellus</i></div>,,,,,,,,,,,,
-Anas crecca,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Anas</i></div>,,,,,,,,,,,,
-Milvus milvus,,,,,,,,,,,,,,,,,,
-Emberiza schoeniclus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Emberizidae</div><div>Genus&nbsp;<i>Emberiza</i></div>,,,,,,,,,,,,
-Aythya ferina,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus <i>Aythya</i></div>,,,,,,,,,,,,
-Corvus cornix,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Corvidae</div><div>Genus&nbsp;<i>Corvus</i></div>,,,,,,,,,,,,
-Corvus corax,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Corvidae</div><div>Genus&nbsp;<i>Corvus</i></div>,,,,,,,,,,,,
-Regulus regulus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Regulidae</div><div>Genus&nbsp;<i>Regulus</i></div>,,,,,,,,,,,,
-Spinus spinus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Fringillidae</div><div>Genus <i>Spinus</i>&nbsp;/ <i>Carduelis</i></div>,,,,,,,,,,,,
-Phylloscopus trochilus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Phylloscopidae</div><div>Genus&nbsp;<i>Phylloscopus</i></div>,,,,,,,,,,,,
-Alcedo atthis,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Coraciiformes</div><div>Family Alcedinidae</div><div>Genus&nbsp;<i>Alcedo</i></div>,,,,,,,,,,,,
-Larus argentatus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Laridae</div><div>Genus&nbsp;<i>Larus</i></div>,,,,,,,,,,,,
-Ciconia ciconia,,,,,,,,,,,,,,,,,,
-Coccothraustes coccothraustes,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Fringillidae</div><div>Genus <i>Coccothraustes</i></div>,,,,,,,,,,,,
-Linaria cannabina,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Fringillidae</div><div>Genus&nbsp;<i>Linaria</i>&nbsp;or <i>Carduelis</i></div>,,,,,,,,,,,,
-Cuculus canorus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Cuculiformes</div><div>Family Cuculidae</div><div>Genus <i>Cuculus</i></div>,,,,,,,,,,,,
-Phasianus colchicus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Galliformes</div><div>Family Phasianidae</div><div>Genus&nbsp;<i>Phasianus</i></div>,,,,,,,,,,,,
-Ciconia ciconia,,,,,,,,,,,,,,,,,,
-Corvus frugilegus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Corvidae</div><div>Genus&nbsp;<i>Corvus</i></div>,,,,,,,,,,,,
-Accipiter nisus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Accipitriformes</div><div>Family Accipitridae</div><div>Genus&nbsp;<i>Accipiter</i></div>,,,,,,,,,,,,
-Mergus merganser,,,,,,,,,,,,,,,,,,
-Spatula clypeata,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Anas</i></div>,,,,,,,,,,,,
-Periparus ater,,,,,,,,,,,,,,,,,,
-Mergus merganser,,,,,,,,,,,,,,,,,,
-Curruca communis,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Sylviidae</div><div>Genus&nbsp;<i>Sylvia</i> or <i>Curruca</i></div>,,,,,,,,,,,,
-Turdus viscivorus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Turdidae</div><div>Genus&nbsp;<i>Turdus</i></div>,,,,,,,,,,,,
-Mareca penelope,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Anas</i></div>,,,,,,,,,,,,
-Periparus ater,,,,,,,,,,,,,,,,,,
-Motacilla flava,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Motacillidae</div><div>Genus&nbsp;<i>Motacilla</i></div>,,,,,,,,,,,,
-Anthus pratensis,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Motacillidae</div><div>Genus&nbsp;<i>Anthus</i></div>,,,,,,,,,,,,
-Larus canus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Laridae</div><div>Genus&nbsp;<i>Larus</i></div>,,,,,,,,,,,,
-Acrocephalus scirpaceus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Acrocephalidae</div><div>Genus&nbsp;<i>Acrocephalus</i></div>,,,,,,,,,,,,
-Motacilla cinerea,,,,,,,,,,,,,,,,,,
-Bucephala clangula,,,,,,,,,,,,,,,,,,
-Circus aeruginosus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Accipitriformes</div><div>Family Accipitridae</div><div>Genus&nbsp;<i>Circus</i></div>,,,,,,,,,,,,
-Larus michahellis,,,,,,,,,,,,,,,,,,
-Motacilla cinerea,,,,,,,,,,,,,,,,,,
-Milvus migrans,,,,,,,,,,,,,,,,,,
-Bucephala clangula,,,,,,,,,,,,,,,,,,
-Grus grus,,,,,,,,,,,,,,,,,,
-Larus michahellis,,,,,,,,,,,,,,,,,,
-Sylvia borin,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Sylviidae</div><div>Genus&nbsp;<i>Sylvia</i></div>,,,,,,,,,,,,
-Grus grus,,,,,,,,,,,,,,,,,,
-Milvus migrans,,,,,,,,,,,,,,,,,,
-Columba oenas,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Columbiformes</div><div>Family Columbidae</div><div>Genus&nbsp;<i>Columba</i></div>,,,,,,,,,,,,
-Tadorna tadorna,,,,,,,,,,,,,,,,,,
-Serinus serinus,,,,,,,,,,,,,,,,,,
-Regulus ignicapilla,,,,,,,,,,,,,,,,,,
-Lanius collurio,,,,,,,,,,,,,,,,,,
-Gallinago gallinago,,,,,,,,,,,,,,,,,,
-Lophophanes cristatus,,,,,,,,,,,,,,,,,,
-Dryocopus martius,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Piciformes</div><div>Family Picidae</div><div>Genus&nbsp;<i>Dryocopus</i></div>,,,,,,,,,,,,
-Turdus iliacus,,,,,,,,,,,,,,,,,,
-Saxicola rubicola,,,,,,,,,,,,,,,,,,
-Luscinia megarhynchos,,,,,,,,,,,,,,,,,,
-Picus viridis,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Piciformes</div><div>Family Picidae</div><div>Genus&nbsp;<i>Picus</i></div>,,,,,,,,,,,,
-Anser albifrons,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Anser</i></div>,,,,,,,,,,,,
-Netta rufina,,,,,,,,,,,,,,,,,,
-Numenius arquata,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Scolopacidae</div><div>Genus&nbsp;<i>Numenius</i></div>,,,,,,,,,,,,
-Certhia familiaris,,,,,,,,,,,,,,,,,,
-Phoenicurus phoenicurus,,,,,,,,,,,,,,,,,,
-Curruca curruca,,,,,,,,,,,,,,,,,,
-Haematopus ostralegus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Haematopodidae</div><div>Genus&nbsp;<i>Haematopus</i></div>,,,,,,,,,,,,
-Muscicapa striata,,,,,,,,,,,,,,,,,,
-Poecile montanus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Paridae</div><div>Genus&nbsp;<i>Poecile</i></div>,,,,,,,,,,,,
-Branta leucopsis,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Branta</i></div>,,,,,,,,,,,,
-Fringilla montifringilla,,,,,,,,,,,,,,,,,,
-Dendrocoptes medius,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Piciformes</div><div>Family Picidae</div><div>Genus&nbsp;<i>Dendrocopos</i></div>,,,,,,,,,,,,
-Accipiter gentilis,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Accipitriformes</div><div>Family Accipitridae</div><div>Genus&nbsp;<i>Accipiter</i></div>,,,,,,,,,,,,
-Riparia riparia,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Hirundinidae</div><div>Genus&nbsp;<i>Riparia</i></div>,,,,,,,,,,,,
-Larus marinus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Laridae</div><div>Genus&nbsp;<i>Larus</i></div>,,,,,,,,,,,,
-Haliaeetus albicilla,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Accipitriformes</div><div>Family Accipitridae</div><div>Genus&nbsp;<i>Haliaeetus</i></div>,,,,,,,,,,,,
-Larus fuscus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Laridae</div><div>Genus&nbsp;<i>Larus</i></div>,,,,,,,,,,,,
-Tringa ochropus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Scolopacidae</div><div>Genus <i>Tringa</i></div>,,,,,,,,,,,,
-Sterna hirundo,,,,,,,,,,,,,,,,,,
-Psittacula krameri,,,,,,,,,,,,,,,,,,
-Tringa totanus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Scolopacidae</div><div>Genus&nbsp;<i>Tringa</i></div>,,,,,,,,,,,,
-Acrocephalus palustris,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Acrocephalidae</div><div>Genus&nbsp;<i>Acrocephalus</i></div>,,,,,,,,,,,,
-Anthus trivialis,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Motacillidae</div><div>Genus&nbsp;<i>Anthus</i></div>,,,,,,,,,,,,
-Falco peregrinus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Falconiformes</div><div>Family Falconidae</div><div>Genus&nbsp;<i>Falco</i></div>,,,,,,,,,,,,
-Podiceps nigricollis,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Podicipediformes</div><div>Family Podicipedidae</div><div>Genus&nbsp;<i>Podiceps</i></div>,,,,,,,,,,,,
-Luscinia svecica,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Muscicapidae</div><div>Genus&nbsp;<i>Luscinia</i></div>,,,,,,,,,,,,
-Dryobates minor,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Piciformes</div><div>Family Picidae</div><div>Genus&nbsp;<i>Dendrocopos</i></div>,,,,,,,,,,,,
-Falco subbuteo,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Falconiformes</div><div>Family Falconidae</div><div>Genus&nbsp;<i>Falco</i></div>,,,,,,,,,,,,
-Acrocephalus schoenobaenus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Acrocephalidae</div><div>Genus&nbsp;<i>Acrocephalus</i></div>,,,,,,,,,,,,
-Hippolais icterina,,,,,,,,,,,,,,,,,,
-Strix aluco,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Strigiformes</div><div>Family Strigidae</div><div>Genus&nbsp;<i>Strix</i></div>,,,,,,,,,,,,
-Ficedula hypoleuca,,,,,,,,,,,,,,,,,,
-Pandion haliaetus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Accipitriformes</div><div>Family Pandionidae</div><div>Genus&nbsp;<i>Pandion</i></div>,,,,,,,,,,,,
-Circus cyaneus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Accipitriformes</div><div>Family Accipitridae</div><div>Genus&nbsp;<i>Circus</i></div>,,,,,,,,,,,,
-Phylloscopus sibilatrix,,,,,,,,,,,,,,,,,,
-Loxia curvirostra,,,,,,,,,,,,,,,,,,
-Limosa limosa,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Scolopacidae</div><div>Genus&nbsp;<i>Limosa</i></div>,,,,,,,,,,,,
-Cygnus cygnus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Cygnus</i></div>,,,,,,,,,,,,
-Pernis apivorus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Accipitriformes</div><div>Family Accipitridae</div><div>Genus&nbsp;<i>Pernis</i></div>,,,,,,,,,,,,
-Ardea purpurea,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Pelecaniformes</div><div>Family Ardeidae</div><div>Genus&nbsp;<i>Ardea</i></div>,,,,,,,,,,,,
-Platalea leucorodia,,,,,,,,,,,,,,,,,,
-Perdix perdix,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Galliformes</div><div>Family Phasianidae</div><div>Genus&nbsp;<i>Perdix</i></div>,,,,,,,,,,,,
-Ichthyaetus melanocephalus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Laridae</div><div>Genus <i>Ichthyaetus</i></div>,,,,,,,,,,,,
-Numenius phaeopus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Scolopacidae</div><div>Genus&nbsp;<i>Numenius</i></div>,,,,,,,,,,,,
-Coturnix coturnix,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Galliformes</div><div>Family Phasianidae</div><div>Genus&nbsp;<i>Coturnix</i></div>,,,,,,,,,,,,
-Asio otus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Strigiformes</div><div>Family Strigidae</div><div>Genus&nbsp;<i>Asio</i></div>,,,,,,,,,,,,
-Bubo bubo,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Strigiformes</div><div>Family Strigidae</div><div>Genus&nbsp;<i>Bubo</i></div>,,,,,,,,,,,,
-Asio flammeus,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Strigiformes</div><div>Family Strigidae</div><div>Genus&nbsp;<i>Asio</i></div>,,,,,,,,,,,,
-Athene noctua,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Strigiformes</div><div>Family Strigidae</div><div>Genus&nbsp;<i>Athene</i></div>,,,,,,,,,,,,
-Luscinia luscinia,,,,,,,,,,,,,,,,,,
-Cygnus columbianus bewickii,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Cygnus</i></div>,,,,,,,,,,,,
-Tyto alba,,,,,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Strigiformes</div><div>Family Tytonidae</div><div>Genus&nbsp;<i>Tyto</i></div>,,,,,,,,,,,,
+food:de,food:en,food:eo,food:es,food:fr,food:nl,food:ru,habitat:de,habitat:en,habitat:eo,habitat:es,habitat:fr,habitat:nl,habitat:ru,name,size,taxonomy,weight,wspan
+"Regenwürmer, Insekten, Käfer, Früchte","earthworms, insects, beetles, fruits",,,,,,"Wälder, Parks, Gärten","forests, parks, gardens",,,,,,Turdus merula,23-29,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Turdidae</div><div>Genus&nbsp;<i>Turdus</i></div>,80-100,34-38.5
+,"insects, spiders, caterpillars, berries, seeds",,,,,,,"woodland, forests, gardens",,,,,,Parus major,13-15,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Paridae</div><div>Genus&nbsp;<i>Parus</i></div>,18,24
+,"insects, earthworms, grain, fruits, seeds, small mammals, amphibians, scraps",,,,,,,"cities, woodland, cliffs, farmland, heath",,,,,,Corvus corone,45-49,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Corvidae</div><div>Genus&nbsp;<i>Corvus</i></div>,370-650,93-104
+,"buds, leaves, berries, fruits, grain",,,,,,,"cities, parks, gardens",,,,,,Columba palumbus,38-43,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Columbiformes</div><div>Family Columbidae</div><div>Genus&nbsp;<i>Columba</i></div>,480-550,75-80
+,"seeds, nuts, insects, spiders",,,,,,,"woodland, parks, gardens, cities",,,,,,Cyanistes caeruleus,12,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Paridae</div><div>Genus&nbsp;<i>Cyanistes</i></div>,11,18
+,"insects,seeds.",,,,,,,"woodland,farmland,grassland,heathland,urban,suburban",,,,,,Fringilla coelebs,14.5,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Fringillidae</div><div>Genus&nbsp;<i>Fringilla</i></div>,18-29,24.5-28.5
+,"seeds, acorns,berries, plants, insects,shellfish.",,,,,,,"farmland,grassland,marine,intertidal,urban,suburban,wetland",,,,,,Anas platyrhynchos,51- 62,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Anas</i></div>,750-1500,81-98
+,"worms, seeds, fruits, insects,other invertebrates.",,,,,,,"woodland,farmland,urban,suburban",,,,,,Erithacus rubecula,14,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Muscicapidae</div><div>Genus&nbsp;<i>Erithacus</i></div>,14-21,20-22
+,"omnivore,scavenger.",,,,,,,"woodland,farmland,grassland,heathland,upland,urban,suburban,wetland",,,,,,Pica pica,44-46,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Corvidae</div><div>Genus&nbsp;<i>Pica</i></div>,200-250,52-60
+,"invertebrates,fruit.",,,,,,,"woodland,farmland,grassland,marine,intertidal,upland,urban,suburban,wetland",,,,,,Sturnus vulgaris,21,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Sturnidae</div><div>Genus&nbsp;<i>Sturnus</i></div>,75-90,37-42
+,"insects, seeds,nuts.",,,,,,,"woodland,urban,suburban",,,,,,Dendrocopos major,22-23,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Piciformes</div><div>Family Picidae</div><div>Genus&nbsp;<i>Dendrocopos</i></div>,85,34-39
+,"seeds,scraps.",,,,,,,"farmland,urban,suburban",,,,,,Passer domesticus,14-15,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Passeridae</div><div>Genus&nbsp;<i>Passer</i></div>,24-38,21-25.5
+,"buzzards tend to eat small mammals, birds,carrion. even earthworms,large insects when other prey is in short supply.",,,,,,,"woodland,farmland,grassland,heathland,upland",,,,,,Buteo buteo,51-57,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Accipitriformes</div><div>Family Accipitridae</div><div>Genus&nbsp;<i>Buteo</i></div>,"550-1,000 (male); 700-1,300 (female)",113-128
+,"lots of fish, but also small birds such as ducklings, small mammals like voles,amphibians. after harvesting, grey herons can sometimes be seen in fields, looking for rodents.",,,,,,,"woodland,farmland,grassland,marine,intertidal,urban,suburban,wetland",,,,,,Ardea cinerea,90-98,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Pelecaniformes</div><div>Family Ardeidae</div><div>Genus&nbsp;<i>Ardea</i></div>,1.5-2k,175-195
+,"insects,spiders.",,,,,,,"woodland,farmland,heathland,urban,suburban,wetland",,,,,,Phylloscopus collybita,10-11,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Phylloscopidae</div><div>Genus <i>Phylloscopus</i></div>,6-10,15-21
+,"insects,spiders.",,,,,,,"woodland,farmland,heathland,urban,suburban",,,,,,Troglodytes troglodytes,9-10,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Troglodytidae</div><div>Genus<i>&nbsp;Troglodytes</i></div>,7-12,13-17
+,"mainly acorns, nuts, seeds,insects, but also eats nestlings of other birds,small mammals.",,,,,,,"woodland,farmland,urban,suburban",,,,,,Garrulus glandarius,34-35,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Corvidae</div><div>Genus&nbsp;<i>Garrulus</i></div>,140-190,52-58
+,fish,,,,,,,"marine,intertidal,urban,suburban,wetland",,,,,,Phalacrocorax carbo,80-100,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Suliformes</div><div>Family Phalacrocoracidae</div><div>Genus&nbsp;<i>Phalacrocorax</i></div>,2.1-2.5k,130-160
+,"insects, hazel nuts, acorns, beechmast,other nuts,seed.",,,,,,,"woodland,urban,suburban",,,,,,Sitta europaea,14,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Sittidae</div><div>Genus&nbsp;<i>Sitta</i></div>,20-25,22.5-27
+,"vegetation, seeds, snails,insect larvae.",,,,,,,"grassland,marine,intertidal,urban,suburban,wetland",,,,,,Fulica atra,36-38,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Gruiformes</div><div>Family Rallidae</div><div>Genus&nbsp;<i>Fulica</i></div>,600-900,70-80
+,"seeds,insects.",,,,,,,"woodland,farmland,urban,suburban",,,,,,Chloris chloris,15,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Fringillidae</div><div>Genus <i>Chloris</i></div>,28,26
+,"mainly insects, may eat seeds,household scraps in winter.",,,,,,,"farmland,grassland,marine,intertidal,urban,suburban,wetland",,,,,,Motacilla alba,18,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Motacillidae</div><div>Genus <i>Motacilla</i></div>,17-25,25-30
+,"insects,berries.",,,,,,,"woodland,farmland,urban,suburban",,,,,,Sylvia atricapilla,13,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Sylviidae</div><div>Genus&nbsp;<i>Sylvia</i></div>,21,20-23
+,"water plants, insects,snails.",,,,,,,"farmland,grassland,marine,intertidal,urban,suburban,wetland",,,,,,Cygnus olor,140-160,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Cygnus</i></div>,10-12 k,208-238
+,"grass, roots, cereal leaves,spilled grain.",,,,,,,"farmland,grassland,marine,intertidal,urban,suburban,wetland",,,,,,Anser anser,76-89,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Anser</i></div>,2.9-3.7k,147-180
+,"seeds,insects in summer.",,,,,,,"farmland,urban,suburban",,,,,,Carduelis carduelis,12,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Fringillidae</div><div>Genus&nbsp;<i>Carduelis</i></div>,14-19,21-25.5
+,"small mammals,birds, worms,insects.",,,,,,,"farmland,grassland,heathland,urban,suburban",,,,,,Falco tinnunculus,32-35,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Falconiformes</div><div>Family Falconidae</div><div>Genus&nbsp;<i>Falco</i></div>,156-252,71-80
+,"worms, insects, fish,carrion.",,,,,,,"farmland,grassland,marine,intertidal,urban,suburban,wetland",,,,,,Chroicocephalus ridibundus,34-37,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Laridae</div><div>Genus&nbsp;<i>Chroicocephalus</i></div>,200-400,100-110
+,a range of small invertebrates which are caught on the wing.,,,,,,,"farmland,grassland,upland,urban,suburban,wetland",,,,,,Hirundo rustica,17-19,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Hirundinidae</div><div>Genus&nbsp;<i>Hirundo</i></div>,16-25,32-35
+,"molluscs, insects,some plants.",,,,,,,"marine,intertidal,urban,suburban,wetland",,,,,,Aythya fuligula,40-47,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Aythya</i></div>,"450-1,000",67-73
+,"seeds,insects.",,,,,,,"farmland,grassland,heathland,urban,suburban",,,,,,Emberiza citrinella,16-16.5,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Emberizidae</div><div>Genus <i>Emberiza</i></div>,25-36,23-29.5
+,"seeds,cereals.",,,,,,,"farmland,marine,intertidal,urban,suburban",,,,,,Columba livia domestica,31-34,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Columbiformes</div><div>Family Columbidae</div><div>Genus&nbsp;<i>Columba</i></div>,230-370,63-70
+,"worms, snails,fruit.",,,,,,,"woodland,farmland,grassland,urban,suburban",,,,,,Turdus philomelos,23,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Turdidae</div><div>Genus&nbsp;<i>Turdus</i></div>,65-100,33-36
+,"seeds,grass.",,,,,,,"farmland,grassland,wetland",,,,,,Alopochen aegyptiaca,63-73,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Alopochen</i></div>,1.5 to 2.25 k,1.1-1.3 m
+,mainly fish.,,,,,,,"marine,intertidal,urban,suburban,wetland",,,,,,Podiceps cristatus,46-51,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Podicipediformes</div><div>Family Podicipedidae</div><div>Genus&nbsp;<i>Podiceps</i></div>,"590-1,500",85-90
+,"insects, worms,berries.",,,,,,,"woodland,farmland,grassland,urban,suburban",,,,,,Turdus pilaris,25,,80-130,39-42
+,"seeds,insects",,,,,,,"woodland,farmland,urban,suburban",,,,,,Passer montanus,14,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Passeridae</div><div>Genus&nbsp;<i>Passer</i></div>,19-25,20-22
+,"insects, young birds,eggs, fruit, seeds,scraps.",,,,,,,"woodland,farmland,grassland,upland,urban,suburban",,,,,,Corvus monedula,34,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Corvidae</div><div>Genus&nbsp;<i>Corvus</i>&nbsp;or&nbsp;<i>Coloeus</i></div>,220,70
+,"insects, spiders, worms, berries,seeds.",,,,,,,"farmland,marine,intertidal,urban,suburban",,,,,,Phoenicurus ochruros,14.5,,14-20,23-26
+,"flying insects,airborne spiders.",,,,,,,"farmland,grassland,urban,suburban,wetland",,,,,,Apus apus,16-17,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Apodiformes</div><div>Family Apodidae</div><div>Genus&nbsp;<i>Apus</i></div>,36-50,42-48
+,,,,,,,,,,,,,,Certhia brachydactyla,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Certhiidae</div><div>Genus&nbsp;<i>Certhia</i></div>,,
+,"water plants, seeds, fruit, grasses, insects, snails, worms,small fish.",,,,,,,"farmland,urban,suburban,wetland",,,,,,Gallinula chloropus,32-35,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Gruiformes</div><div>Family Rallidae</div><div>Genus&nbsp;<i>Gallinula</i></div>,250-400,50-55
+,,,,,,,,,,,,,,Ardea alba,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Pelecaniformes</div><div>Family Ardeidae</div><div>Genus&nbsp;<i>Ardea</i></div>,,
+,insects.,,,,,,,"farmland,urban,suburban,wetland",,,,,,Delichon urbicum,12,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Hirundinidae</div><div>Genus&nbsp;<i>Delichon</i></div>,15-23,26-29
+,"stems, leaves,seeds.",,,,,,,"grassland,marine,intertidal,wetland",,,,,,Mareca strepera,46-56,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Anas</i></div>,650-900,84-95
+,"insects, spiders, worms,seeds.",,,,,,,"woodland,farmland,grassland,urban,suburban",,,,,,Prunella modularis,14,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Prunellidae</div><div>Genus&nbsp;<i>Prunella</i></div>,19-24,19-21
+,"insects, occasionally seeds in autumn,winter.",,,,,,,"woodland,farmland,heathland,urban,suburban",,,,,,Aegithalos caudatus,14,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Aegithalidae</div><div>Genus&nbsp;<i>Aegithalos</i></div>,7-10,16-19
+,"seeds,insects.",,,,,,,"farmland,grassland,heathland,marine,intertidal,upland",,,,,,Alauda arvensis,18-19,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Alaudidae</div><div>Genus&nbsp;<i>Alauda</i></div>,33-45,30-36
+,"vegetation - roots, grass, leaves,seeds.",,,,,,,"farmland,grassland,marine,intertidal,urban,suburban,wetland",,,,,,Branta canadensis,90-110,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Branta</i></div>,4.3-5k,1.5-1.8m
+,"seeds, grains, buds,shoots.",,,,,,,"farmland,urban,suburban",,,,,,Streptopelia decaocto,32,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Columbiformes</div><div>Family Columbidae</div><div>Genus&nbsp;<i>Streptopelia</i></div>,200,51
+,"insects,seeds. if marsh tits find a good supply - perhaps at a garden feeder - they may start to hoard seeds, burying,hiding them for a rainy day. their hippocampus - the part of their brain which specialises in remembering things - is large, bigger than a great tit's.",,,,,,,"woodland,urban,suburban",,,,,,Poecile palustris,11.5,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Paridae</div><div>Genus&nbsp;<i>Poecile</i></div>,10-13,18-19.5
+,"insects, larvae,small fish.",,,,,,,"marine,intertidal,urban,suburban,wetland",,,,,,Tachybaptus ruficollis,25-29,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Podicipediformes</div><div>Family Podicipedidae</div><div>Genus&nbsp;<i>Tachybaptus</i></div>,100-140,40-45
+,"seeds, buds,insects (for young).",,,,,,,"woodland,farmland,urban,suburban",,,,,,Pyrrhula pyrrhula,14.5-16.5,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Fringillidae</div><div>Genus&nbsp;<i>Pyrrhula</i></div>,21-27,22-26
+,"worms,insects.",,,,,,,"farmland,grassland,marine,intertidal,upland,wetland",,,,,,Vanellus vanellus,28-31,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Charadriidae</div><div>Genus&nbsp;<i>Vanellus</i></div>,140-320,82-87
+,"seeds,small invertebrates.",,,,,,,"grassland,marine,intertidal,wetland",,,,,,Anas crecca,34-38,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Anas</i></div>,240-360,58-64
+,"mainly carrion,worms, but opportunistic,will occasionally take small mammals.",,,,,,,"woodland,farmland,upland,urban,suburban",,,,,,Milvus milvus,60-66,,"800-1,300",175-195
+,"seeds,insects.",,,,,,,"farmland,grassland,urban,suburban,wetland",,,,,,Emberiza schoeniclus,15-16.5,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Emberizidae</div><div>Genus&nbsp;<i>Emberiza</i></div>,16-25,21-28
+,"plants,seeds, snails, small fish,insects.",,,,,,,"marine,intertidal,urban,suburban,wetland",,,,,,Aythya ferina,46,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus <i>Aythya</i></div>,930,77
+,"omnivorous - includes carrion, invertebrates, grain, eggs,,young birds.",,,,,,,"woodland,farmland,grassland,marine,intertidal,upland,urban,suburban,wetland",,,,,,Corvus cornix,45-47,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Corvidae</div><div>Genus&nbsp;<i>Corvus</i></div>,370-650,93-104
+,"carrion, mammals, birds,eggs, insects,other invertebrates.",,,,,,,"woodland,farmland,marine,intertidal,upland,urban,suburban",,,,,,Corvus corax,60-68,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Corvidae</div><div>Genus&nbsp;<i>Corvus</i></div>,"800-1,500",120-150
+,"goldcrests eat tiny morsels like spiders, moth eggs,other small insect food.",,,,,,,"woodland,urban,suburban",,,,,,Regulus regulus,9,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Regulidae</div><div>Genus&nbsp;<i>Regulus</i></div>,6,14
+,"seeds, especially of conifers, alders,birch,some insects.",,,,,,,"woodland,urban,suburban",,,,,,Spinus spinus,12,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Fringillidae</div><div>Genus <i>Spinus</i>&nbsp;/ <i>Carduelis</i></div>,12-18,20-23
+,"a wide variety of small insects,spiders. fruit,berries in autumn.",,,,,,,"woodland,grassland,heathland,urban,suburban",,,,,,Phylloscopus trochilus,10.5-11.5,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Phylloscopidae</div><div>Genus&nbsp;<i>Phylloscopus</i></div>,7-12,16-22
+,"fish,aquatic insects.",,,,,,,"farmland,marine,intertidal,urban,suburban,wetland",,,,,,Alcedo atthis,16-17,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Coraciiformes</div><div>Family Alcedinidae</div><div>Genus&nbsp;<i>Alcedo</i></div>,34-46,24-26
+,"ominivorous- carrion, offal, seeds, fruits, young birds, eggs, small mammals, insects,fish.",,,,,,,"farmland,grassland,marine,intertidal,urban,suburban,wetland",,,,,,Larus argentatus,54-60,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Laridae</div><div>Genus&nbsp;<i>Larus</i></div>,690-1440,130-150
+,"seeds, buds,shoots.",,,,,,,"woodland,urban,suburban",,,,,,Coccothraustes coccothraustes,18,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Fringillidae</div><div>Genus <i>Coccothraustes</i></div>,48-62,29-33
+,"seeds,insects.",,,,,,,"farmland,grassland,heathland,urban,suburban",,,,,,Linaria cannabina,13.5,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Fringillidae</div><div>Genus&nbsp;<i>Linaria</i>&nbsp;or <i>Carduelis</i></div>,15-22,21-25.5
+,"insects, especially hairy caterpillars.",,,,,,,"woodland,farmland,heathland,upland,urban,suburban,wetland",,,,,,Cuculus canorus,32-34,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Cuculiformes</div><div>Family Cuculidae</div><div>Genus <i>Cuculus</i></div>,105-130,55-65
+,"seeds, grain, shoots,insects.",,,,,,,"woodland,farmland,grassland,urban,suburban",,,,,,Phasianus colchicus,53-89,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Galliformes</div><div>Family Phasianidae</div><div>Genus&nbsp;<i>Phasianus</i></div>,"1,000-1,700 (male); 750-1,200 (female)",70-90
+,,,,,,,,,,,,,,Ciconia ciconia,,,,
+,"rooks will eat almost anything, including worms, grain, nuts,insects, small mammals, birds (especially eggs,nestlings),carrion.",,,,,,,"woodland,farmland,grassland,urban,suburban",,,,,,Corvus frugilegus,44-46,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Corvidae</div><div>Genus&nbsp;<i>Corvus</i></div>,280-340,81-99
+,"mainly small birds, but 120 different species have been recorded. males can catch birds up to thrush size, but females, being bigger, can catch birds up to pigeon size. some sparrowhawks catch bats.",,,,,,,"woodland,farmland,grassland,heathland,urban,suburban,wetland",,,,,,Accipiter nisus,28-38,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Accipitriformes</div><div>Family Accipitridae</div><div>Genus&nbsp;<i>Accipiter</i></div>,110-196 (male); 185-342 (female),55-70
+,"small insects,plant matter sifted from the water.",,,,,,,"grassland,marine,intertidal,wetland",,,,,,Spatula clypeata,44-52,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Anas</i></div>,400-1000,70-84
+,,,,,,,,,,,,,,Mergus merganser,,,,
+,"insects,,berries,fruit in autumn.",,,,,,,"woodland,farmland,grassland,heathland,urban,suburban",,,,,,Curruca communis,14,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Sylviidae</div><div>Genus&nbsp;<i>Sylvia</i> or <i>Curruca</i></div>,12-18,18.5-23
+,"worms, slugs, insects,berries.",,,,,,,"woodland,farmland,grassland,heathland,urban,suburban",,,,,,Turdus viscivorus,27,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Turdidae</div><div>Genus&nbsp;<i>Turdus</i></div>,100-150,42-48
+,"aquatic plants, grasses, roots.",,,,,,,"grassland,marine,intertidal,wetland",,,,,,Mareca penelope,45-51,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Anas</i></div>,500-900,75-86
+,"insects, seeds,nuts.",,,,,,,"woodland,heathland,urban,suburban",,,,,,Periparus ater,11.5,,8-10,17-21
+,"small insects, including flies,beetles.",,,,,,,"farmland,grassland,wetland",,,,,,Motacilla flava,17,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Motacillidae</div><div>Genus&nbsp;<i>Motacilla</i></div>,16-22,23-27
+,"insects - flies, beetles,moths -,spiders.",,,,,,,"farmland,grassland,heathland,marine,intertidal,upland,wetland",,,,,,Anthus pratensis,14.5,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Motacillidae</div><div>Genus&nbsp;<i>Anthus</i></div>,15-22,22-25
+,"worms, insects, fish, carrion,rubbish.",,,,,,,"farmland,grassland,marine,intertidal,upland,wetland",,,,,,Larus canus,40-42,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Laridae</div><div>Genus&nbsp;<i>Larus</i></div>,300-480,110-130
+,insects; berries in autumn.,,,,,,,"farmland,urban,suburban,wetland",,,,,,Acrocephalus scirpaceus,13,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Acrocephalidae</div><div>Genus&nbsp;<i>Acrocephalus</i></div>,10-15,17-21
+,"small birds,mammals.",,,,,,,"farmland,marine,intertidal,wetland",,,,,,Circus aeruginosus,48-56,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Accipitriformes</div><div>Family Accipitridae</div><div>Genus&nbsp;<i>Circus</i></div>,400-660 (male); 540-800 (female),115-130
+,insects,,,,,,,"marine,intertidal,upland,urban,suburban,wetland",,,,,,Motacilla cinerea,18-19,,14-22,25-27
+,"mussels, insect larvae, small fish,plants",,,,,,,"marine,intertidal,wetland",,,,,,Bucephala clangula,42-50,,650-1200,65-80
+,ominivorous - a scavenger.,,,,,,,"farmland,marine,intertidal,urban,suburban,wetland",,,,,,Larus michahellis,55-67,,"1,100 birds",1-4 pairs
+,"insects,berries.",,,,,,,"woodland,farmland,urban,suburban",,,,,,Sylvia borin,14,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Sylviidae</div><div>Genus&nbsp;<i>Sylvia</i></div>,16-22,20-24.5
+,"seeds, roots, insects, snails,worms.",,,,,,,"farmland,grassland,wetland",,,,,,Grus grus,110-120,,4-7k,220-245
+,,,,,,,,,,,,,,Milvus migrans,,,,
+,seeds.,,,,,,,"woodland,farmland,urban,suburban",,,,,,Columba oenas,30-33,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Columbiformes</div><div>Family Columbidae</div><div>Genus&nbsp;<i>Columba</i></div>,290-330,60-66
+,"invertebrates, small shellfish,aquatic snails.",,,,,,,"farmland,grassland,marine,intertidal,wetland",,,,,,Tadorna tadorna,58-65,,0.85-1.4 k,1.1-1.33 m
+,,,,,,,,,,,,,,Serinus serinus,,,,
+,"firecrests eat tiny morsels like spiders, moth eggs,other small insect food.",,,,,,,"woodland,urban,suburban",,,,,,Regulus ignicapilla,9,,5-7,13-16
+,"insects,,small birds,mammals",,,,,,,"woodland,farmland,grassland,heathland,marine,intertidal",,,,,,Lanius collurio,17,,25-35,24-27
+,"small invertebrates, including worms,insect larvae.",,,,,,,"farmland,grassland,marine,intertidal,upland,wetland",,,,,,Gallinago gallinago,23-28,,80-120,39-45
+,"insects,seeds.",,,,,,,woodland,,,,,,Lophophanes cristatus,11.5,,10-13,17-20
+,,,,,,,,,,,,,,Dryocopus martius,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Piciformes</div><div>Family Picidae</div><div>Genus&nbsp;<i>Dryocopus</i></div>,,
+,"berries,worms.",,,,,,,"woodland,farmland,grassland,urban,suburban",,,,,,Turdus iliacus,21,,50-75,33-35
+,"invertebrates, seeds,fruit (e.g. blackberries).",,,,,,,"farmland,grassland,heathland,marine,intertidal,wetland",,,,,,Saxicola rubicola,12.5,,13-17,18-21
+,insects.,,,,,,,"woodland,grassland,wetland",,,,,,Luscinia megarhynchos,15-17,,17-24,23-26
+,"ants, ants,,more ants. they use their strong beak to dig into ant colonies,eat the inhabitants.",,,,,,,"woodland,farmland,grassland,urban,suburban",,,,,,Picus viridis,30-34,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Piciformes</div><div>Family Picidae</div><div>Genus&nbsp;<i>Picus</i></div>,180-220,40-42
+,"grass, clover, grain, winter wheat,potatoes.",,,,,,,"farmland,grassland,marine,intertidal,wetland",,,,,,Anser albifrons,65-78,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Anser</i></div>,1.9-2.5k,130-165
+,"stems, roots,seeds of aquatic vegetation.",,,,,,,wetland,,,,,,Netta rufina,53-57,,"900-1,400",85-90
+,"worms, shellfish,shrimps.",,,,,,,"farmland,grassland,marine,intertidal,upland,wetland",,,,,,Numenius arquata,50-60,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Scolopacidae</div><div>Genus&nbsp;<i>Numenius</i></div>,"575-1,000 (Females averain 1,000 and males averain 770)",80-100
+,"insects,spiders,,some seeds in winter.",,,,,,,"woodland,farmland,urban,suburban",,,,,,Certhia familiaris,12.5,,8-12,18-21
+,"mainly insects; also spiders, worms,berries.",,,,,,,"woodland,upland,urban,suburban",,,,,,Phoenicurus phoenicurus,14,,11-19,20-24
+,"in spring,summer, they mainly eat insects. in autumn, these warblers feed up on berries to build up their fat reserves before migration.",,,,,,,"woodland,farmland,grassland,urban,suburban",,,,,,Curruca curruca,13,,12  - the same as 12 paperclips or two oldcrests,18
+,"mussels,cockles on the coast, mainly worms inland.",,,,,,,"farmland,grassland,marine,intertidal,upland,wetland",,,,,,Haematopus ostralegus,40-45,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Haematopodidae</div><div>Genus&nbsp;<i>Haematopus</i></div>,430-650,80-86
+,"flying insects, such as moths, butterflies, damselflies, craneflies,other tasty morsels. if the weather is bad, they can search trees,shrubs for other insect food.",,,,,,,"woodland,farmland,urban,suburban",,,,,,Muscicapa striata,14,,14-19,23-25
+,"insects, seeds,berries.",,,,,,,"woodland,urban,suburban",,,,,,Poecile montanus,11.5,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Paridae</div><div>Genus&nbsp;<i>Poecile</i></div>,8-14,17-19
+,"vegetation, the leaves,stems of grasses, roots,seeds.",,,,,,,"farmland,grassland,marine,intertidal,wetland",,,,,,Branta leucopsis,58-70,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Branta</i></div>,1.3 to 2.2 k,132-145
+,seeds in winter; insects in summer.,,,,,,,"woodland,farmland,urban,suburban",,,,,,Fringilla montifringilla,14,,24,25-26
+,,,,,,,,,,,,,,Dendrocoptes medius,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Piciformes</div><div>Family Picidae</div><div>Genus&nbsp;<i>Dendrocopos</i></div>,,
+,"birds,mammals.",,,,,,,"woodland,farmland,grassland,upland,wetland",,,,,,Accipiter gentilis,48-62,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Accipitriformes</div><div>Family Accipitridae</div><div>Genus&nbsp;<i>Accipiter</i></div>,"600-1,100 (male); 900-2,000 (female)",135-165
+,"invertebrates, taken on the wing.",,,,,,,"farmland,wetland",,,,,,Riparia riparia,12,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Hirundinidae</div><div>Genus&nbsp;<i>Riparia</i></div>,13-14,26-29
+,"omnivorous - shellfish, birds,carrion.",,,,,,,"farmland,marine,intertidal,upland,urban,suburban,wetland",,,,,,Larus marinus,64-78,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Laridae</div><div>Genus&nbsp;<i>Larus</i></div>,1-2k,150-165
+,"white-tailed eagles are versatile,opportunistic hunters,carrion feeders, sometimes pirating food from other birds,even otters. they eat largely fish, but also take various birds, rabbits,hares.some pairs kill many fulmars, which are thought to be the source of ddt,pcbs (chemicals) recorded in eagle eggs. carrion is an important part of their diet, especially during the winter months. most lambs are taken as carrion.when fishing, they fly low over water, stop to hover for a moment,drop to snatch fish from the surface.during the breeding season while they are rearing young, they require 500-600g of food per day. this drops to 200-300g per day during the winter months when the birds are less active.",,,,,,,"farmland,marine,intertidal,upland,wetland",,,,,,Haliaeetus albicilla,70-90,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Accipitriformes</div><div>Family Accipitridae</div><div>Genus&nbsp;<i>Haliaeetus</i></div>,3.5-5k (male); 4-7k (female),200-240
+,omnivore - scavenges a wide range of food.,,,,,,,"farmland,grassland,marine,intertidal,urban,suburban,wetland",,,,,,Larus fuscus,52-64,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Laridae</div><div>Genus&nbsp;<i>Larus</i></div>,"620-1,000",135-150
+,insects.,,,,,,,"farmland,marine,intertidal,wetland",,,,,,Tringa ochropus,22,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Scolopacidae</div><div>Genus <i>Tringa</i></div>,910 birds,1-2 pairs
+,,,,,,,,,,,,,,Sterna hirundo,,,,
+,"fruit, berries, nuts,seeds.",,,,,,,"woodland,urban,suburban",,,,,,Psittacula krameri,38-42,,96-139,42-48
+,"redshanks hunt for insects, earthworms, molluscs,crustaceans by probing their bills into soil,mud.",,,,,,,"grassland,marine,intertidal,upland,wetland",,,,,,Tringa totanus,28,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Scolopacidae</div><div>Genus&nbsp;<i>Tringa</i></div>,"110 (male), 130 (female)",62
+,,,,,,,,,,,,,,Acrocephalus palustris,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Acrocephalidae</div><div>Genus&nbsp;<i>Acrocephalus</i></div>,,
+,"mainly small invertebrates. some plant matter, especially berries, in autumn.",,,,,,,"woodland,grassland,heathland",,,,,,Anthus trivialis,15,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Motacillidae</div><div>Genus&nbsp;<i>Anthus</i></div>,20-25,25-27
+,"medium-sized birds, such as wading birds, pigeons,small ducks.",,,,,,,"farmland,grassland,marine,intertidal,upland,wetland",,,,,,Falco peregrinus,39-50,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Falconiformes</div><div>Family Falconidae</div><div>Genus&nbsp;<i>Falco</i></div>,600-1300,95-115
+,"insects, crustaceans,small fish.",,,,,,,"marine,intertidal,wetland",,,,,,Podiceps nigricollis,28-34,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Podicipediformes</div><div>Family Podicipedidae</div><div>Genus&nbsp;<i>Podiceps</i></div>,250-350,56-60
+,,,,,,,,,,,,,,Luscinia svecica,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Muscicapidae</div><div>Genus&nbsp;<i>Luscinia</i></div>,,
+,insects.,,,,,,,"woodland,urban,suburban,wetland",,,,,,Dryobates minor,14-15,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Piciformes</div><div>Family Picidae</div><div>Genus&nbsp;<i>Dendrocopos</i></div>,17-25,25-27
+,"insects,small birds.",,,,,,,"woodland,farmland,grassland,heathland,urban,suburban,wetland",,,,,,Falco subbuteo,28-36,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Falconiformes</div><div>Family Falconidae</div><div>Genus&nbsp;<i>Falco</i></div>,131-340,70-92
+,insects; berries in autumn.,,,,,,,"farmland,urban,suburban,wetland",,,,,,Acrocephalus schoenobaenus,13,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Passeriformes</div><div>Family Acrocephalidae</div><div>Genus&nbsp;<i>Acrocephalus</i></div>,10-13,17-21
+,,,,,,,,,,,,,,Hippolais icterina,,,,
+,"small mammals,rodents, small birds, frogs, fish, insects,worms.",,,,,,,"woodland,farmland,urban,suburban",,,,,,Strix aluco,37-39,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Strigiformes</div><div>Family Strigidae</div><div>Genus&nbsp;<i>Strix</i></div>,330-590,94-104
+,"insects,caterpillars, fruit,seeds in late summer,on migration.",,,,,,,"woodland,urban,suburban",,,,,,Ficedula hypoleuca,13,,12-15,21-24
+,fish.,,,,,,,"marine,intertidal,wetland",,,,,,Pandion haliaetus,52-60,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Accipitriformes</div><div>Family Pandionidae</div><div>Genus&nbsp;<i>Pandion</i></div>,1.2-2k,145-170
+,"mainly small birds,mammals.",,,,,,,"farmland,grassland,marine,intertidal,upland,wetland",,,,,,Circus cyaneus,44-52,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Accipitriformes</div><div>Family Accipitridae</div><div>Genus&nbsp;<i>Circus</i></div>,300-400 (male) 400-600 (female),100-120
+,"mainly insects,spiders.",,,,,,,"woodland,urban,suburban",,,,,,Phylloscopus sibilatrix,12-13,,8-12,19.5-24
+,seeds from conifers.,,,,,,,woodland,,,,,,Loxia curvirostra,16.5,,35-50,27-30.5
+,"insects, worms,snails, but also some plants, beetles, grasshoppers,other small insects during the breeding season.",,,,,,,"grassland,marine,intertidal,wetland",,,,,,Limosa limosa,40-44,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Scolopacidae</div><div>Genus&nbsp;<i>Limosa</i></div>,280-340,70-82
+,"aquatic plants, grass, grain, potatoes.",,,,,,,"farmland,grassland,marine,intertidal,wetland",,,,,,Cygnus cygnus,140-160,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Cygnus</i></div>,9-11 k,205-235
+,"mainly insect larvae of wasps,bees.",,,,,,,woodland,,,,,,Pernis apivorus,52-60,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Accipitriformes</div><div>Family Accipitridae</div><div>Genus&nbsp;<i>Pernis</i></div>,"600-1,100",135-150
+,,,,,,,,,,,,,,Ardea purpurea,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Pelecaniformes</div><div>Family Ardeidae</div><div>Genus&nbsp;<i>Ardea</i></div>,,
+,mainly aquatic invertebrates and small fish.,,,,,,,"marine,intertidal,wetland",,,,,,Platalea leucorodia,80-90,,1.3-2k,120-135
+,"leaves, seeds,insects",,,,,,,"farmland,grassland",,,,,,Perdix perdix,30,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Galliformes</div><div>Family Phasianidae</div><div>Genus&nbsp;<i>Perdix</i></div>,390,46
+,"insects, fish, offal,carrion.",,,,,,,"farmland,grassland,marine,intertidal,urban,suburban,wetland",,,,,,Ichthyaetus melanocephalus,36-38,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Laridae</div><div>Genus <i>Ichthyaetus</i></div>,230-280,92-100
+,"on breeding grounds insects, snails,slugs; on passage, crabs, shrimps, molluscs, worms.",,,,,,,"grassland,marine,intertidal,upland,wetland",,,,,,Numenius phaeopus,40-46,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Charadriiformes</div><div>Family Scolopacidae</div><div>Genus&nbsp;<i>Numenius</i></div>,270-450,71-81
+,"seeds,insects.",,,,,,,"farmland,grassland",,,,,,Coturnix coturnix,16-18,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Galliformes</div><div>Family Phasianidae</div><div>Genus&nbsp;<i>Coturnix</i></div>,75-135,32-35
+,"small rodents,,small birds in winter.",,,,,,,"woodland,farmland,wetland",,,,,,Asio otus,35-37,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Strigiformes</div><div>Family Strigidae</div><div>Genus&nbsp;<i>Asio</i></div>,210-370,84-95
+,,,,,,,,,,,,,,Bubo bubo,,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Strigiformes</div><div>Family Strigidae</div><div>Genus&nbsp;<i>Bubo</i></div>,,
+,"small mammals, especially voles.",,,,,,,"farmland,grassland,marine,intertidal,upland,wetland",,,,,,Asio flammeus,34-42,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Strigiformes</div><div>Family Strigidae</div><div>Genus&nbsp;<i>Asio</i></div>,260-350,90-105
+,"small mammals,birds, beetles,worms.",,,,,,,"woodland,farmland,grassland,urban,suburban",,,,,,Athene noctua,21-23,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Strigiformes</div><div>Family Strigidae</div><div>Genus&nbsp;<i>Athene</i></div>,140-220,54-58
+,,,,,,,,,,,,,,Luscinia luscinia,,,,
+,"in the uk, bewick's swans feed in fields on leftover potatoes,grain. on their breeding grounds they eat aquatic plants,grass.",,,,,,,"farmland,marine,intertidal,wetland",,,,,,Cygnus columbianus bewickii,"115-127  from bill to tail, includin the lon neck. A winspan of 170-195",Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Anseriformes</div><div>Family Anatidae</div><div>Genus&nbsp;<i>Cygnus</i></div>,"4-5,000 birds",Just under 6 k on averae
+,"mice, voles, shrews,some larger mammals,small birds.",,,,,,,"farmland,grassland,marine,intertidal,wetland",,,,,,Tyto alba,33-39,Kingdom Animalia<div>Phylum Chordata</div><div>Class Aves</div><div>Order Strigiformes</div><div>Family Tytonidae</div><div>Genus&nbsp;<i>Tyto</i></div>,250-350,80-95
+,"insects,some seeds.",,,,,,,"woodland,farmland,grassland,heathland,upland",,,,,,Saxicola rubetra,12.5,,16-24,21-24
+,"insects,larvae.",,,,,,,"farmland,grassland,upland",,,,,,Oenanthe oenanthe,14.5-15.5,,17-30,26-32
+,"insect larvae,freshwater shrimps.",,,,,,,"upland,wetland",,,,,,Cinclus cinclus,18,,55-75,25-30
+,"worms, snails,fish",,,,,,,"marine,intertidal,wetland",,,,,,Tringa nebularia,32,,190,69
+,"aquatic insects,their larvae, crustaceans,worms.",,,,,,,"grassland,marine,intertidal,wetland",,,,,,Recurvirostra avosetta,42-45,,260-290,77-80
+,"insects, worms, spiders, shellfish, small fish,small aquatic invertebrates.",,,,,,,"grassland,wetland",,,,,,Tringa glareola,19-21,,50-90,36-40
+,"invertebrates, small shellfish,aquatic snails.",,,,,,,"farmland,grassland,marine,intertidal,wetland",,,,,,Tadorna ferruginea,58-65,,0.85-1.4 k,1.1-1.33 m
+,"shellfish, especially mussels.",,,,,,,"marine,intertidal",,,,,,Somateria mollissima,50-71,,1.2-2.8k,80-108
+,,,,,,,,,,,,,,Nucifraga caryocatactes,,,,
+,"insects,berries.",,,,,,,woodland,,,,,,Oriolus oriolus,24,,56-79,44-47
+,,,,,,,,,,,,,,Pyrrhocorax graculus,,,,
+,"insects, snails,worms.",,,,,,,"farmland,grassland,marine,intertidal,wetland",,,,,,Calidris alpina,16-20,,40-50,35-40
+,"insects, larvae, frogs, small fish, seeds.",,,,,,,"farmland,grassland,wetland",,,,,,Calidris pugnax,20-32,,70-150,46-58
+,"a variety of plants,invertebrates.",,,,,,,"grassland,marine,intertidal,wetland",,,,,,Anas acuta,63-70,,0.55 to 2.2 k,80-95
+,"flies, spiders, marine worms, crustaceans, molluscs.",,,,,,,"grassland,marine,intertidal,wetland",,,,,,Charadrius hiaticula,18-20,,55-75,48-57
+,"insects,aquatic invertebrates.",,,,,,,"grassland,wetland",,,,,,Charadrius dubius,14-15,,32-48,42-48
+,,,,,,,,,,,,,,Actitis hypoleucos,,,,
+,"insects,larvae.",,,,,,,"grassland,wetland",,,,,,Anthus spinoletta,17,,20-36,22.5-28
+,,,,,,,,,,,,,,Locustella luscinioides,,,,
+,"omnivorous - mainly small fish, snails,insects.",,,,,,,"grassland,urban,suburban,wetland",,,,,,Rallus aquaticus,23-28,,80-180,38-45
+,"plant material,insects.",,,,,,,"grassland,wetland",,,,,,Spatula querquedula,37-41,,250-450,60-63
+,"insects, vegetation,seeds.",,,,,,,"woodland,wetland",,,,,,Aix galericulata,41-49,,430-690,68-74
+,,,,,,,,,,,,,,Acrocephalus arundinaceus,,,,
+,"grass, cereals, potatoes,other crops.",,,,,,,"farmland,grassland,wetland",,,,,,Anser serrirostris,53-70,,"1.9-3.3k (m), 2.0-2.8k (f)",118-140
