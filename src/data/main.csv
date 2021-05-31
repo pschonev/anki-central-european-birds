@@ -34,8 +34,6 @@ LGF/]GcS]2,Columba livia domestica,300,,Animalia::Chordata::Aves::Columbiformes:
 NYI8qZmwkf,Turdus philomelos,310,,Animalia::Chordata::Aves::Passeriformes::Turdidae::Turdus
 odV}`Mo.(d,Alopochen aegyptiaca,320,,Animalia::Chordata::Aves::Anseriformes::Anatidae::Alopochen
 JID4Q*;U[W,Podiceps cristatus,330,,Animalia::Chordata::Aves::Podicipediformes::Podicipedidae::Podiceps
-j0uK?![XW*,Phoenicurus ochruros,340,,
-"C,Yq$p[LJ%",Turdus pilaris,350,,
 p6BYNmytWv,Passer montanus,360,,Animalia::Chordata::Aves::Passeriformes::Passeridae::Passer
 Hz:DJa.Fj),Corvus monedula,370,,Animalia::Chordata::Aves::Passeriformes::Corvidae::Coloeus Animalia::Chordata::Aves::Passeriformes::Corvidae::Corvus
 inK-pi(&6H,Phoenicurus ochruros,370,,
@@ -53,7 +51,6 @@ nSi;:Xrz)a,Branta canadensis,470,,Animalia::Chordata::Aves::Anseriformes::Anatid
 q_`=.}_KTy,Streptopelia decaocto,480,,Animalia::Chordata::Aves::Columbiformes::Columbidae::Streptopelia
 cPPYDPZ2+f,Poecile palustris,490,,Animalia::Chordata::Aves::Passeriformes::Paridae::Poecile
 c<:&o<]8H7,Tachybaptus ruficollis,500,,Animalia::Chordata::Aves::Podicipediformes::Podicipedidae::Tachybaptus
-zYtSx]Hzv&,Milvus milvus,510,,
 s7FZo$@mOd,Pyrrhula pyrrhula,520,,Animalia::Chordata::Aves::Passeriformes::Fringillidae::Carduelis Animalia::Chordata::Aves::Passeriformes::Fringillidae::Pyrrhula
 rq2+p!_0R1,Vanellus vanellus,530,,Animalia::Chordata::Aves::Charadriiformes::Charadriidae::Vanellus
 A!bfQu.zZe,Anas crecca,540,,Animalia::Chordata::Aves::Anseriformes::Anatidae::Anas
@@ -67,7 +64,6 @@ t<+GhvD&7*,Regulus regulus,590,,Animalia::Chordata::Aves::Passeriformes::Regulid
 MJsBDc/Rh},Phylloscopus trochilus,610,,Animalia::Chordata::Aves::Passeriformes::Phylloscopidae::Phylloscopus
 gs/mFdK#Y1,Alcedo atthis,620,,Animalia::Chordata::Aves::Coraciiformes::Alcedinidae::Alcedo
 P6B2k+-?Y2,Larus argentatus,630,,Animalia::Chordata::Aves::Charadriiformes::Laridae::Larus
-dxAnc7+5I,Ciconia ciconia,640,,
 D6VorEP&!x,Coccothraustes coccothraustes,650,,Animalia::Chordata::Aves::Passeriformes::Fringillidae::Coccothraustes
 AimVTiUd0d,Linaria cannabina,660,,Animalia::Chordata::Aves::Passeriformes::Fringillidae::Carduelis Animalia::Chordata::Aves::Passeriformes::Fringillidae::Linaria
 iW3PUPwzR/,Cuculus canorus,670,,Animalia::Chordata::Aves::Cuculiformes::Cuculidae::Cuculus
@@ -75,9 +71,7 @@ d0pLmfTeA0,Phasianus colchicus,680,,Animalia::Chordata::Aves::Galliformes::Phasi
 QjyXC2pQuV,Ciconia ciconia,680,,
 L.[sEUTmSd,Corvus frugilegus,690,,Animalia::Chordata::Aves::Passeriformes::Corvidae::Corvus
 F4$D%=(J@n,Accipiter nisus,700,,Animalia::Chordata::Aves::Accipitriformes::Accipitridae::Accipiter
-ws0$s|^i`=,Mergus merganser,710,,
 y}iG+K2gNG,Spatula clypeata,720,,Animalia::Chordata::Aves::Anseriformes::Anatidae::Anas
-"z.&s,t)zfr",Periparus ater,730,,
 t62s-vML[N,Mergus merganser,730,,
 vO^f-@{{Y<,Curruca communis,740,,Animalia::Chordata::Aves::Passeriformes::Sylviidae::Curruca Animalia::Chordata::Aves::Passeriformes::Sylviidae::Sylvia
 bj$z5&[j!0,Turdus viscivorus,750,,Animalia::Chordata::Aves::Passeriformes::Turdidae::Turdus
@@ -87,14 +81,9 @@ vG6t>4<lFq,Motacilla flava,770,,Animalia::Chordata::Aves::Passeriformes::Motacil
 OP^j|36]Gc,Anthus pratensis,780,,Animalia::Chordata::Aves::Passeriformes::Motacillidae::Anthus
 x=~Q#=$w6V,Larus canus,790,,Animalia::Chordata::Aves::Charadriiformes::Laridae::Larus
 b<u/&0V3wJ,Acrocephalus scirpaceus,800,,Animalia::Chordata::Aves::Passeriformes::Acrocephalidae::Acrocephalus
-"H@|NG,q7X|",Motacilla cinerea,810,,
-e#gFiqA{;p,Bucephala clangula,820,,
 xi={6#Ys[],Circus aeruginosus,830,,Animalia::Chordata::Aves::Accipitriformes::Accipitridae::Circus
-qG-DOy;ua2,Larus michahellis,840,,
 jJ$8Kq[&aO,Motacilla cinerea,840,,
-"F,9e*j>-?R",Milvus migrans,850,,
 M&oIel<YNQ,Bucephala clangula,850,,
-M3MhCC?o*U,Grus grus,860,,
 tnb&;;0rP8,Larus michahellis,870,,
 PCc<dXUR/+,Sylvia borin,880,,Animalia::Chordata::Aves::Passeriformes::Sylviidae::Sylvia
 h`4W%G/Kp<,Grus grus,880,,
@@ -135,7 +124,6 @@ GeEQI>urOK,Tringa totanus,1270,,Animalia::Chordata::Aves::Charadriiformes::Scolo
 Pq2D6}$xla,Acrocephalus palustris,1280,,Animalia::Chordata::Aves::Passeriformes::Acrocephalidae::Acrocephalus
 gDoa~q}lKm,Anthus trivialis,1300,,Animalia::Chordata::Aves::Passeriformes::Motacillidae::Anthus
 k[)1cQm5MD,Falco peregrinus,1360,,Animalia::Chordata::Aves::Falconiformes::Falconidae::Falco
-G`4*L{eoRZ,Podiceps nigricollis,1380,,Animalia::Chordata::Aves::Podicipediformes::Podicipedidae::Podiceps
 O!c(j7H$qM,Luscinia svecica,1400,,Animalia::Chordata::Aves::Passeriformes::Muscicapidae::Luscinia
 "n_TVM&K/D,",Dryobates minor,1420,,Animalia::Chordata::Aves::Piciformes::Picidae::Dendrocopos
 h@0^;qI~6),Falco subbuteo,1440,,Animalia::Chordata::Aves::Falconiformes::Falconidae::Falco
