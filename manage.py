@@ -76,6 +76,25 @@ def resize(files, new_size, path):
 
 @main.command()
 def prepare_data():
+
+    def combine_links(links, columns):
+        return " - ".join([f"<a href=\"{x}\">{y}</a>" for x, y in zip(links, columns) if isinstance(x, str)])
+
+    def combine_facts(links, columns):
+        return "|".join([x.strip() for x, y in zip(links, columns) if isinstance(x, str)])
+    
+    def combine(inpath, colname, combine_func):
+        df = pd.read_csv(inpath)
+        columns = df.columns[2:]
+        df[colname] = df.apply(lambda x: combine_func(x[2:], columns), axis=1)
+        df = df[["name", "lang", colname]]
+        df = df.set_index(["name", "lang"], verify_integrity=True)
+        df = df.unstack("lang")
+        df.columns = df.columns.droplevel(0)
+        df = df.reset_index()
+        df.columns = ["name"] + [f"{colname}:{x}" for x in df.columns[1:]] 
+        return df
+
     # source.csv split up to audio.csv and image.csv
 
     sourcescsv = "sources.csv"
@@ -100,11 +119,12 @@ def prepare_data():
     df_image = df.where(df.media_type.isin(image_types)).dropna(how="all")
     df_image.filename = df_image.filename.apply(lambda x: f"<img src=\"{x}\">")
     df_image = df_image.pivot_table(values="filename", index=df_image.name, columns=df_image.media_type, aggfunc="|".join)
+    df_image = df_image.reset_index()
 
     print(df_audio)
-    df_audio.to_csv(audiocsv)
+    df_audio.to_csv(audiocsv, index=False)
     print(df_image)
-    df_image.to_csv(imagecsv)
+    df_image.to_csv(imagecsv, index=False)
 
     print(f"\nMedia types found ({len(df.media_type.unique().tolist())}):")
     for mt in df.media_type.unique().tolist():
@@ -127,7 +147,29 @@ def prepare_data():
             df[f"food:{lang}"] = df["food:en"].map(
                 lambda seq: translate(seq, translations),
                 na_action="ignore")
-    df.to_csv("src/data/info.csv")
+    df.to_csv("src/data/info.csv", index=False)
+
+    # combine facts
+    df = combine("src/data/facts.csv", "facts", combine_facts)
+
+    # general facts dictionary
+    df_facts = pd.read_csv("src/data/general_facts.csv")
+    d = {}
+    for lang in df_facts.columns:
+        d[lang] = "|".join([x for x in df_facts[lang] if x == x])
+
+    # fill empty facts cells with general facts
+    for col in df.columns[1:]:
+        text = d[col.split(":")[-1]]
+        df[col] = df[col].replace("", text)
+
+    df.to_csv("src/data/facts_final.csv", index=False)
+
+    # combine links
+    df = combine("src/data/links.csv", "links", combine_links)
+    df.to_csv("src/data/links_final.csv", index=False)
+
+
 
 
 @main.command()
