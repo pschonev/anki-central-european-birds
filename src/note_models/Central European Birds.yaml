@@ -29,6 +29,7 @@ fields:
   - name: Facts
   - name: Food
   - name: Habitat
+  - name: ComName
 
 templates:
   - name: Image - Name

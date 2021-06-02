@@ -48,6 +48,7 @@
               weight: Weight
               wspan: Wspan
               Freq: Freq
+              Name:com: ComName
 
               Name:en          : Name
               Appearance:en     : Appearance
