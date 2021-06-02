@@ -35,21 +35,20 @@ document.getElementById("image").addEventListener('click', nextImage);
 {{/Call1}}
 {{/Song1}}
 
-{{Name}}
+<div id="name">{{Name}}</div> ♀
 <br>
-{{Scientific Name}} ♀
+<div id="scienceName">{{Scientific Name}} </div><div id="nameDivider">&nbsp•&nbsp</div><div id="comName">{{ComName}}</div>
 <br>
 <br>
 
 <div class="grid-container">
   <div class="item1"><div id="fact">No fact known.</div></div>
-  <div class="item2"> <img src="_EmptyMap.jpg"/></div>
+  <div class="item2"><img src="_EmptyMap.jpg"/></div>
   <div class="item3"><p> {{Food}}</p></div>  
   <div class="item4"><p> {{Habitat}}</p></div>
   <div class="item5">
           <img id="sizeScaleImg" src="_scale.png" />
-          <canvas id="sizeScaleCanvas" ></canvas>
-        <div id="sizeDesc"><div id="size">{{Size}}cm</div>	 <div id="weight">{{Weight}}g</div></div>
+          <canvas id="sizeScaleCanvas" ></canvas>{{Size}}cm | {{Weight}}g
     </div>
   <div class="item6">{{Links}}</div>
   <div class="item7" id="descDiv"><p id="descText">{{Description}}</p>
@@ -112,6 +111,13 @@ document.getElementById("image").addEventListener('click', nextImage);
   }
   
   docReady(load_scale);
+
+	if(document.getElementById('name').innerText == document.getElementById('comName').innerText) {
+		var elem = document.getElementById("comName");
+		elem.parentNode.removeChild(elem);
+		var elem = document.getElementById("nameDivider");
+		elem.parentNode.removeChild(elem);
+	}
   
 var textDiv = document.getElementById('descDiv');
 var textHolder = document.getElementById('descText');

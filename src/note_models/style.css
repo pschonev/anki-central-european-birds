@@ -3,7 +3,7 @@
   background-color: white;
   color: black;
   font-family: Verdana;
-  font-size: 16px;
+  font-size: 3vw;
   text-align: center;
 }
 
@@ -202,14 +202,17 @@ font-weight: bold;
   width: 100%;
 }
 
-#size{
-	float:left;
-  margin-left:3vw;
+#scienceName{
+	display:inline-block;
 }
-
-#weight{
-	float:right;
-  margin-right:3vw;
+#comName{
+	display:inline-block;
+}
+#name{
+	display:inline-block;
+}
+#nameDivider{
+	display:inline-block;
 }
 
 .nightMode #sizeScaleCanvas {
