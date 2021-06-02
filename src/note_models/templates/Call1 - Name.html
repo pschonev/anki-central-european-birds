@@ -61,16 +61,16 @@ document.getElementById("image").addEventListener('click', nextImage);
 <br>
 
 <div class="grid-container">
-  <div class="item1">Random fact about birds: They are technically dinosaurs! </div>
-  <div class="item2"> <img src="_TurdusMerulaMap.png"/></div>
-  <div class="item3"><p> Nutella, Frozen Pizza, Ice Cream, Raisins</p></div>  
-  <div class="item4"><p>Basements, Mars, Deep in the scary forests</p></div>
+  <div class="item1"><div id="fact">No fact known.</div></div>
+  <div class="item2"> <img src="_EmptyMap.jpg"/></div>
+  <div class="item3"><p> {{Food}}</p></div>  
+  <div class="item4"><p> {{Habitat}}</p></div>
   <div class="item5">
           <img id="sizeScaleImg" src="_scale.png" />
           <canvas id="sizeScaleCanvas" ></canvas>
-        <div id="sizeDesc">{{Size}}cm</div>
+        <div id="sizeDesc"><div id="size">{{Size}}cm</div>	 <div id="weight">{{Weight}}g</div></div>
     </div>
-  <div class="item6"><a href="https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/index.html"> NABU </a> - <a href="https://de.wikipedia.org/wiki/Liste_der_V%C3%B6gel_Deutschlands"> Wikipedia </a> - <a href="https://ebird.org/explore"> eBird </a> - <a href="https://www.lbv.de/ratgeber/naturwissen/artenportraits/kategorie/V%C3%B6gel/"> LBV </a></div>
+  <div class="item6">{{Links}}</div>
   <div class="item7" id="descDiv"><p id="descText">{{Description}}</p>
 </div>
 
@@ -160,4 +160,21 @@ if (textStatus === 'truncated') {
 Truancate(textHolder, 100);
 
 textDiv.addEventListener('click', toggleText);
+
+function nextFact() {
+if (factNo+1 === factArray.length) {
+  factNo = 0;
+} else {
+  factNo = factNo + 1;
+}
+document.getElementById("fact").innerHTML = factArray[factNo];
+}
+
+var facts = '{{Facts}}';
+var factArray = facts.split("|");
+var now = new Date();
+var second = Math.floor(now/30000);
+var factNo = second % factArray.length;
+document.getElementById("fact").innerHTML = factArray[0];
+document.getElementById("fact").addEventListener('click', nextFact);
   </script>

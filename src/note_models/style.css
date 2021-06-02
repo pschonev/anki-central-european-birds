@@ -154,7 +154,7 @@ hr {
 	height: 5vw;
 	left: 0;
 	display: inline-flex;
-	background: url("_burger.png") no-repeat;
+	background: url("_food.png") no-repeat;
 	background-size: 5vw;
 
 }
@@ -186,12 +186,30 @@ hr {
 	background-color: black;
 }
 
+.nightMode a {
+color:deepskyblue;
+}
+
+a {
+color: dodgerblue; 
+font-weight: bold;
+}
 
 #sizeScaleCanvas{
   position: relative;
   top: 0;
   left: 0;
   width: 100%;
+}
+
+#size{
+	float:left;
+  margin-left:3vw;
+}
+
+#weight{
+	float:right;
+  margin-right:3vw;
 }
 
 .nightMode #sizeScaleCanvas {
