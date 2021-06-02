@@ -21,8 +21,15 @@ fields:
   - name: Song4
   - name: Song5
   - name: Size
+  - name: Weight
+  - name: Wspan
   - name: Freq
   - name: Description
+  - name: Links
+  - name: Facts
+  - name: Food
+  - name: Habitat
+
 templates:
   - name: Image - Name
     html_file: src/note_models/templates/Image - Name.html

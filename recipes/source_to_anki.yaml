@@ -45,11 +45,17 @@
               song_4: Song4
               song_5: Song5
               size: Size
+              weight: Weight
+              wspan: Wspan
               Freq: Freq
 
               Name:en          : Name
               Appearance:en     : Appearance
               desc:en           : Description
+              links:en  : Links
+              facts:en  : Facts
+              food:en  : Food
+              habitat:en  : Habitat
 
 
           personal_fields: [ ]
@@ -64,6 +70,8 @@
             - file: src/data/audio.csv
             - file: src/data/description.csv
             - file: src/data/info.csv
+            - file: src/data/links_final.csv
+            - file: src/data/facts_final.csv
 
   - notes_from_csvs:
       part_id: german
@@ -77,6 +85,10 @@
             Name:de          : Name
             Appearance:de     : Appearance
             desc:de           : Description
+            links:de  : Links
+            facts:de  : Facts
+            food:de  : Food
+            habitat:de  : Habitat
 
           personal_fields: [ ]
 
@@ -93,6 +105,10 @@
             Name:es          : Name
             Appearance:es     : Appearance
             desc:es           : Description
+            links:es  : Links
+            facts:es  : Facts
+            food:es  : Food
+            habitat:es  : Habitat
 
           personal_fields: [ ]
 
@@ -109,6 +125,10 @@
             Name:fr          : Name
             Appearance:fr     : Appearance
             desc:fr           : Description
+            links:fr  : Links
+            facts:fr  : Facts
+            food:fr  : Food
+            habitat:fr  : Habitat
 
           personal_fields: [ ]
 
@@ -125,6 +145,10 @@
             Name:eo          : Name
             Appearance:eo     : Appearance
             desc:eo           : Description
+            links:eo  : Links
+            facts:eo  : Facts
+            food:eo  : Food
+            habitat:eo  : Habitat
 
           personal_fields: [ ]
 
@@ -141,6 +165,10 @@
             Name:ru          : Name
             Appearance:ru     : Appearance
             desc:ru           : Description
+            links:ru  : Links
+            facts:ru  : Facts
+            food:ru  : Food
+            habitat:ru  : Habitat
 
           personal_fields: [ ]
 
@@ -157,6 +185,10 @@
             Name:nl          : Name
             Appearance:nl     : Appearance
             desc:nl           : Description
+            links:nl  : Links
+            facts:nl  : Facts
+            food:nl  : Food
+            habitat:nl  : Habitat
 
           personal_fields: [ ]
 
