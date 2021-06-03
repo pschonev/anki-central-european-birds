@@ -17,20 +17,7 @@ import os
 def main():
     pass
 
-def translate(seq, tdict):
-    # check if :en is nan
-    try:
-        words = seq.replace(" ","").split(",")
-    except:
-        return np.nan
-    # check if en word is in dictionary
-    translated_words = [tdict[word] for word in words if word in tdict]
-    # check if any words were translated
-    try:
-        translated_words = ", ".join(translated_words)
-        return translated_words
-    except TypeError:
-        return np.nan
+
 
 
 def copy_file(path, name, number):
@@ -78,10 +65,10 @@ def resize(files, new_size, path):
 def prepare_data():
 
     def combine_links(links, columns):
-        return " - ".join([f"<a href=\"{x}\">{y}</a>" for x, y in zip(links, columns) if isinstance(x, str)])
+        return " • ".join([f"<a href=\"{x}\">{y}</a>" for x, y in zip(links, columns) if isinstance(x, str)])
 
     def combine_facts(links, columns):
-        return "|".join([x.strip() for x, y in zip(links, columns) if isinstance(x, str)])
+        return "|".join([x.strip() for x in links if isinstance(x, str)])
     
     def combine(inpath, colname, combine_func):
         df = pd.read_csv(inpath)
@@ -94,6 +81,21 @@ def prepare_data():
         df = df.reset_index()
         df.columns = ["name"] + [f"{colname}:{x}" for x in df.columns[1:]] 
         return df
+    
+    def translate(seq, tdict):
+        # check if :en is nan
+        try:
+            words = seq.replace(" ","").split(",")
+        except:
+            return np.nan
+        # check if en word is in dictionary
+        translated_words = [tdict[word] for word in words if word in tdict]
+        # check if any words were translated
+        try:
+            translated_words = ", ".join(translated_words)
+            return translated_words
+        except TypeError:
+            return np.nan
 
     # source.csv split up to audio.csv and image.csv
 
@@ -137,16 +139,14 @@ def prepare_data():
 
     for lang in habitats.columns:
         translations = pd.Series(habitats[lang].values,habitats.en).to_dict()
-        if lang != "en":
-            df[f"habitat:{lang}"] = df["habitat:en"].map(
-                lambda seq: translate(seq, translations),
-                na_action="ignore")
+        df[f"habitat:{lang}"] = df["habitat:en"].map(
+            lambda seq: translate(seq, translations),
+            na_action="ignore")
     for lang in foods.columns:
         translations = pd.Series(foods[lang].values,foods.en).to_dict()
-        if lang != "en":
-            df[f"food:{lang}"] = df["food:en"].map(
-                lambda seq: translate(seq, translations),
-                na_action="ignore")
+        df[f"food:{lang}"] = df["food:en"].map(
+            lambda seq: translate(seq, translations),
+            na_action="ignore")
     df.to_csv("src/data/info.csv", index=False)
 
     # combine facts
