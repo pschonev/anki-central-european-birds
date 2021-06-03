@@ -48,7 +48,7 @@ document.getElementById("image").addEventListener('click', nextImage);
   <div class="item4"><p> {{Habitat}}</p></div>
   <div class="item5">
           <img id="sizeScaleImg" src="_scale.png" />
-          <canvas id="sizeScaleCanvas" ></canvas>{{Size}}cm | {{Weight}}g
+          <canvas id="sizeScaleCanvas" ></canvas><div id="sizeBird">??? </div>cm | <div id="sizeBird">{{Weight}}g</div>
     </div>
   <div class="item6">{{Links}}</div>
   <div class="item7" id="descDiv"><p id="descText">{{Description}}</p>
@@ -68,13 +68,18 @@ document.getElementById("image").addEventListener('click', nextImage);
     function load_scale() {
       var cnvs = document.getElementById('sizeScaleCanvas');
       var image = document.getElementById('sizeScaleImg');
-  
-      var [minBirdSize, maxBirdSize] = "{{Size}}".split("-");
+  			
+				var sizeMinMax = "{{Size}}".split("-");
+				if (sizeMinMax.length == 1) {
+					var birdSize = {{Size}};
+				} else {
+				var [minBirdSize, maxBirdSize] = "{{Size}}".split("-");
       var birdSize = eval(minBirdSize) + (maxBirdSize-minBirdSize)/2;
+				}
+
+      var sizeDiv = document.getElementById("sizeBird").innerHTML = "{{Size}}";
       var scaleBirdSize = 0.51854 * Math.log(0.0729101*birdSize);
       scaleBirdSize = Math.min(Math.max(scaleBirdSize, 0.005), 0.98);
-  
-
   
       
       var img = new Image();
