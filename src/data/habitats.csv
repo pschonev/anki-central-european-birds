@@ -28,7 +28,7 @@ reed beds,,Röhricht,,,,тростниковые заросли
 bush thickets,,Dickicht,,,,кустарниковые заросли
 rice fields,,Reisfelder,,,,рисовые поля
 forest clearings,,Waldlichtungen,,,,лесные поляны
-marshes,,Sümpfe,,,,болота
+marshes,,Marschland,,,,болота
 sedges,,Riedegras,,,,камыши
 rocky shores,,Felsenküste,,,,скалистые берега
 mountains,,Berge,,,,горы
@@ -39,3 +39,6 @@ damp forests,,feuchte Wälder,,,,влажные леса
 desert-like steppe,,wüstenähnliche Steppe,,,,пустынная степь
 lagoons,,Lagunen,,,,лагуны
 mangrove swamps,,Mangrovensümpfe,,,,мангровые болота
+plains,,Flachland,,,,равнины
+sea,,Meer,,,,море
+swamps,,Sümpfe,,,,болота
