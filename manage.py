@@ -85,7 +85,8 @@ def prepare_data():
     def translate(seq, tdict):
         # check if :en is nan
         try:
-            words = seq.replace(" ","").split(",")
+            words = seq.split(",")
+            words = [word.strip() for word in words]
         except:
             return np.nan
         # check if en word is in dictionary
